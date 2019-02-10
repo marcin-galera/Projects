@@ -1,3 +1,7 @@
+// Do Nauki //
+
+Czym sie rozni justify content, items i self
+
 // Roszerzenia do Visual Studio Code //
 
 Live server
