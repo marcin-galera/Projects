@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html
+{
+    font-size: 16px;
+}
+
+div.img
+{
+    content:url('https://images.unsplash.com/photo-1548412597-f35ff985f27c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80');
+    max-width: 50%;
+    max-height: 100%;
+    height: 100%;
+    float: left;
+    position: relative;
+}
+
+div.naglowek
+{
+    font-size: 1.5rem;
+    width: 40%;
+    position: relative
+    text-align: left;
+    padding-top: 3rem;
+    float: left;
+    padding-left: 4rem;
+    
+}
+
+div.tresc
+{
+    padding-top: 1.5rem;
+}
+
+div.tresc2
+{
+    padding-top: 4rem;
+}
+
+.forma
+{
+    padding-top: 4rem;
+}

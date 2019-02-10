@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: darkblue;
+    height: 100%;
+    width: 100%;
+}
+
+.hero {
+    box-shadow: 0 10px 15px -20px rgba(0, 0, 0, 0.5);
+    width: 95%;
+    height: 95%;
+    margin: 2.5% auto 0;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* items dziala jak mamy w linii, content dziala jak zawiajmy w linii */
+}
+
+.hero__img {
+    width: 50%;
+    height: 100%;
+    background-image: url('../journey-man-1348441-unsplash.jpg'); 
+    /* ../ wyjscie do katalogu wyzej */
+    background-size: cover; 
+    /* pokrywa caly kontener */
+    background-position: center;
+    /* wybieramy z ktorej strony przycinamy zdjecie */
+
+}
+
+.hero__info {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 3;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+    align-items: center;
+    justify-content: space-around;
+    padding: 2rem;
+}
+
+.hero__headline {
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.hero__headline {
+    margin-bottom: 5rem;
+}
+
+.hero__paragraph {
+    margin-bottom: 5rem;
+}
+
+.newsletter {
+    margin-bottom: 10rem;
+}
+
+.menu__button {
+    width: 100%;    
+}
+
+.menu__jpg {
+    width: 10%;
+}
+
+.menu__container {
+    width: 100%;
+    display: flex;
+}
+
+.menu__content {
+    width: 30%;
+}

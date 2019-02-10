@@ -1,0 +1,17 @@
+// Roszerzenia do Visual Studio Code //
+
+Live server
+
+// GIT //
+
+git config --global core.ignorecase false // ignoruje czy sa duze czy male litery
+pwd // pokazuje aktualna sciezke
+cat // wyswietla zawartosc pliku
+git log // wyswietla logi
+
+// Przyda sie do rozmow kwalifikacyjnych //
+
+miec sporo projektow na github
+uzywanie konsoli - tabulatora
+uzywanie skrotow klawiszowych w edytorze
+Wysy³anie CV bezspoœrednio do firm, nawet jeœli nie maj¹ rekrutacji.
