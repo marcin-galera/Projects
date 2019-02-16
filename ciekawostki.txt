@@ -1,6 +1,28 @@
 // Do Nauki //
 
 Czym sie rozni justify content, items i self
+// CSS //
+
+jeÅ›li chcemy zrobic margin a wyzej mamy float, to mozemy dac pustego diva
+        .div:after { ( nazwa diva po ktÃ³rym chcemy wyczyÅ›ciÄ‡)
+            content: "";
+            display: block;
+            clear: both;
+        }
+
+Grid
+
+.content
+grid-template-column: repeat(4, 1fr);
+grid-auto-rows: minmax(100px, auto);
+.box
+grid-column: 1/3;
+grid-row: 1/5;
+
+
+Ustawia srodek diva
+    justify-content:
+    align-items:
 
 // Roszerzenia do Visual Studio Code //
 
@@ -18,4 +40,8 @@ git log // wyswietla logi
 miec sporo projektow na github
 uzywanie konsoli - tabulatora
 uzywanie skrotow klawiszowych w edytorze
-Wysy³anie CV bezspoœrednio do firm, nawet jeœli nie maj¹ rekrutacji.
+Wysyï¿½anie CV bezspoï¿½rednio do firm, nawet jeï¿½li nie majï¿½ rekrutacji.
+Wysyï¿½anie CV bezspoï¿½rednio do firm, nawet jeï¿½li nie majï¿½ rekrutacji.
+
+
+foliowanie

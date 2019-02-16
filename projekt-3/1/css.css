@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    
+}
+
+.item1{
+    flex: 1;
+    height: 150px;
+    background: grey;
+    border: 1px solid black;
+}
+
+.item2{
+    flex: 1;
+    height: 150px;
+    background: rgb(187, 157, 157);
+    border: 1px solid black;
+}
+
+.item3{
+    flex: 1;
+    height: 150px;
+    background: rgb(104, 88, 88);
+    border: 1px solid black;
+}

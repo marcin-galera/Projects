@@ -1,0 +1,24 @@
+
+.container{
+    display: grid;
+    grid-template-rows: 80px 200px;
+    grid-template-columns: 33.3% 33.3% 33.3%;
+    grid-gap: 10px 10px;
+   
+    justify-content: center;
+    
+
+    
+
+}
+
+.item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border: 10px solid grey;
+    background-color: white;
+    outline: 10px solid blue;
+    
+}

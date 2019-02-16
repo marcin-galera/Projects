@@ -1,0 +1,44 @@
+#content{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 150px 150px 150px;
+}
+
+.header{
+
+    background-color: grey;
+
+}
+
+.menu{
+  
+    background-color: red;
+}
+
+.main{
+  
+    background-color: blue;
+}
+
+.right{
+  
+    background-color: violet;
+}
+
+.footer{
+   
+    background-color: green;
+}
+
+.header { grid-area: header; }
+.menu { grid-area: menu; }
+.main { grid-area: main; }
+.right { grid-area: right; }
+.footer { grid-area: footer; }
+
+#content{
+    grid-template-areas:
+    'header header header header'
+    'menu main main right'
+    'menu footer footer footer';
+}
