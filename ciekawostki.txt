@@ -1,6 +1,9 @@
 // Do Nauki //
 
 Czym sie rozni justify content, items i self
+Rebase
+git flow
+
 // CSS //
 
 jeśli chcemy zrobic margin a wyzej mamy float, to mozemy dac pustego diva
