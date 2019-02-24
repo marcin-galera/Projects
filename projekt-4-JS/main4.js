@@ -20,7 +20,7 @@ for (i = 0; i < prices.length; i++) {
 console.log(totalPrice)*/
 
 // TODO.3: Zwróć sumę cen drinków z tablicy drinks
-var price = 0
+/*var price = 0
 var totalPrice = 0;
 var drinks = [
   {name: '  Vodka', price: 19.99},
@@ -29,7 +29,7 @@ var drinks = [
   {name: '  Beer', price: 3.20},
   {name: '   Vine  ', price: 16.50},
   {name: '  Gin  ', price: 23.30}
-];
+];*/
 /*
 for (i = 0; i < drinks.length; i++) {
     totalPrice += drinks[i].price
@@ -45,29 +45,61 @@ console.log(+drinks[i].price.toFixed(0));
 }*/
 
 // TODO.5. Za pomocą pętli, doklej jednostkę PLN do cen, zastosuj dekremenację!
-
-/*for (i = drinks.length -1; i >= 0; i--) {
+/*
+for (i = drinks.length -1; i >= 0; i--) {
     console.log(drinks[i].price += " PLN");
-}*/
-
-// TODO.6: Za pomocą pętli, oczyść nazwy drinków z white-spaces
-
-/*for (i = 0; i < drinks.length; i++) {
-    drinks[i].name = drinks[i].name.replace(/ /g,'')
-    console.log(drinks[i])
 }
 */
+// TODO.6: Za pomocą pętli, oczyść nazwy drinków z white-spaces
+/*
+for (i = 0; i < drinks.length; i++) {
+    drinks[i].name = drinks[i].name.replace(/ /g,'')
 
+}
+  console.log(drinks)
+
+
+  drinks[i].name = drinks[i].name.trim();
+*/
 
 // TODO.7: Puść pętlę po tablicy drinks i do każdego obiektu (drinka) dopisz nowe pole "id":
 //    - obiekt z indeksem zero ma mieć ID 1, i tak dalej, wykorzystaj dostęp do licznika pętli *
 
-for (i = 0; i < drinks.length; i) {
+/*for (i = 0; i < drinks.length; i) {
     drinks[i].id = ++i;
     
 }
-console.log(drinks)
+console.log(drinks)*/
+
 // i++ / i = i +1
 // i+1 / i + 1
+
+
+
 /* TODO.8: Za pomocą pętli while, wyświetl console.log z ceną i nazwą każdego drinka
  */
+/*
+var price = 0
+var totalPrice = 0;
+var drinks = [
+  {name: '  Vodka', price: 19.99},
+  {name: 'Whisky  ', price: 40.00},
+  {name: 'Prosseco  ', price: 35.99},
+  {name: '  Beer', price: 3.20},
+  {name: '   Vine  ', price: 16.50},
+  {name: '  Gin  ', price: 23.30}
+];
+
+for ( i = 0; i < drinks.length; i++) {
+  console.log(drinks[i].name.replace(/ /g,'') + ' ' + drinks[i].price + ' PLN')
+}
+
+
+var i = 0;
+while(i< drinks.length) {
+  console.log(drinks[i].name + ' ' + drinks[i].price);
+  i++;
+}
+
+
+*/

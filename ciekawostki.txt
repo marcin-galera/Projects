@@ -3,6 +3,11 @@
 Czym sie rozni justify content, items i self
 Rebase
 git flow
+https://developer.mozilla.org/pl/docs/Web/JavaScript/Referencje/Obiekty
+https://developer.mozilla.org/pl/docs/Web/JavaScript/Referencje/Obiekty/Number
+https://developer.mozilla.org/pl/docs/Web/JavaScript/Referencje/Obiekty/Array
+https://developer.mozilla.org/pl/docs/Web/JavaScript/Referencje/Obiekty/String
+
 
 // CSS //
 
