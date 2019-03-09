@@ -11,13 +11,13 @@ for (var i = 0; i < drinksNames.length; i++) {
 // TODO.2: Przy użyciu pętli FOR, przypisz do zmiennej totalPrice sumę elementów tablicy prices
 // Wykorzystaj operator +=
 
-/*var totalPrice = 0;
+var totalPrice = 0;
 var prices = [19.99, 40.00, 35.99, 3.20, 16.50, 23.30];
 
 for (i = 0; i < prices.length; i++) {
     totalPrice += prices[i]
 }
-console.log(totalPrice)*/
+console.log(totalPrice)
 
 // TODO.3: Zwróć sumę cen drinków z tablicy drinks
 /*var price = 0
