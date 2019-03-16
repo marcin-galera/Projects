@@ -1,0 +1,22 @@
+* {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(61, 61, 61);
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    height: 250px;
+    width: 250px;
+    background-color: rgb(194, 61, 61);
+    box-shadow: 21px 20px 35px 6px rgba(126, 102, 102, 0.75);
+}
+
+.fontSize {
+    font-size: 70px;
+}
