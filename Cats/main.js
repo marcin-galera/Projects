@@ -1,6 +1,6 @@
 
 var cont = document.getElementById('container');
-var emojiC = document.querySelector('p')
+// var emojiC = document.querySelector('p')
 
 cont.classList.add('fontSize');
 
@@ -19,11 +19,18 @@ emoji = ['🙈', '🙉', '🙊', '🙉'];
     
 
 function monkey() {
-    emojiC.classList.remove('display');
-    emojiC.classList.add('emojiClass');
-    emojiC .innerText = emoji[(Math.random()*(3-0)).toFixed()];
+    // emojiC.classList.remove('display');
+
+
+    const monkeyElement = document.createElement("p");
+    
+
+    monkeyElement.classList.add('emojiClass');
+    monkeyElement.innerText = emoji[(Math.random()*(3-0)).toFixed()];
+    document.querySelector("#container").appendChild(monkeyElement);
+    
     setTimeout( function() {
-        emojiC.classList.add('display');
+        monkeyElement.classList.add('display');
     }, 4000 ) ;
 }
 
