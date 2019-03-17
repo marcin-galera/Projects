@@ -1,9 +1,29 @@
 
 var cont = document.getElementById('container');
-cont.addEventListener('click', myFunction);
-function myFunction() {
-    cont.innerText = emoji[(Math.random()*(3-0)).toFixed()];
+var emojiC = document.querySelector('p')
+
+cont.classList.add('fontSize');
+
+
+// cont.addEventListener('click', myFunction);
+// function myFunction() {
+//     emojiC.classList.add('emojiClass');
+//     emojiC .innerText = emoji[(Math.random()*(3-0)).toFixed()];
+// }
+
+emoji = ['🙈', '🙉', '🙊', '🙉'];
+
+
+
+
+    
+
+function monkey() {
+    emojiC.classList.remove('display');
+    emojiC.classList.add('emojiClass');
+    emojiC .innerText = emoji[(Math.random()*(3-0)).toFixed()];
+    setTimeout( function() {
+        emojiC.classList.add('display');
+    }, 4000 ) ;
 }
 
-var emoji = ['🙈', '🙉', '🙊', '🙉']
-cont.classList.add('fontSize')

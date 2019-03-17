@@ -1,22 +1,51 @@
-* {
-    height: 100%;
-    width: 100%;
-    background-color: rgb(61, 61, 61);
-}
-
 body{
     display: flex;
     justify-content: center;
     align-items: center;
-}
-
-#container {
-    height: 250px;
-    width: 250px;
-    background-color: rgb(194, 61, 61);
-    box-shadow: 21px 20px 35px 6px rgba(126, 102, 102, 0.75);
+    background-color: rgb(190, 136, 136);
 }
 
 .fontSize {
     font-size: 70px;
 }
+
+#container {
+  width: 10%;
+  height: 100px;
+  background: red;
+  position: relative;
+  animation: mymove 3s both;
+  border: 1px solid rgb(56, 106, 58);
+
+}
+
+@keyframes mymove {
+  0%   {top: 0px; background: red }
+  100% {top: 30rem; background: rgb(204, 204, 5);
+    height: 200px; width: 40%;}
+}
+
+.emojiClass {
+    background-color: none;
+    position:absolute;
+    margin: 0;
+    animation: mymove1 3s both;
+  }
+  
+  @keyframes mymove1 {
+    0%   {top: -100px; left: 250px;}
+    10%   {top: -200px; left: 250px;}
+    20%   {top: -300px; left: 300px;}
+    30%   {top: -500px; left: 450px;}
+    40%   {top: -500px; left: 500px;}
+    50%   {top: -500px; left: 550px;}
+    60%   {top: -400px; left: 600px;}
+    70%   {top: -300px; left: 700px;}
+    80%   {top: 0px; left: 700px;}
+    90%   {top: 50px; left: 700px;}
+    100%  {top: 50px; left: 700px;}
+  }
+
+  .display {
+    display:none;
+  }
