@@ -1,5 +1,5 @@
 // Do Nauki //
-
+metoda - funkcja w obiekcie, funkcja - poza obiektem
 Czym sie rozni justify content, items i self
 Rebase
 git flow
