@@ -31,6 +31,6 @@ function monkey() {
     
     setTimeout( function() {
         monkeyElement.classList.add('display');
-    }, 4000 ) ;
+    }, 3000 ) ;
 }
 

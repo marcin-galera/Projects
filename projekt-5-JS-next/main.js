@@ -30,3 +30,35 @@
 
 // console.log(newPokemons)
 
+
+
+//Dwa sposoby na uzywanie funkcji w funkcji filter
+// const items = ['Bulbasaur', 'Muk', 'Charizard', 'Metapod', 'Nidoqueen', 'Vulpix', 'Kadabra', 'Dewgong'];
+
+// console.log(items)
+
+// const longPokemon = items.filter(function(pokemon) {    
+//     return pokemon.length > 7;
+// })
+// console.log(longPokemon)
+// // --------
+// const isLognerThatFive = function(pokemon) {
+//     return pokemon.length > 7
+// }
+
+// const longPokemon2 = items.filter(isLognerThatFive);
+
+// console.log(longPokemon2)
+
+
+
+// // --------------- Przyklad reduce
+// const items = ['Bulbasaur', 'Muk', 'Charizard', 'Metapod', 'Nidoqueen', 'Vulpix', 'Kadabra', 'Dewgong'];
+
+// console.log(items)
+
+// const mySum = items.reduce(function(result, currentPokemon) {
+//     return result - currentPokemon.length * 3;
+// }, 100)
+
+// console.log(mySum)
