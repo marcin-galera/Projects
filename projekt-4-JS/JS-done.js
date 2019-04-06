@@ -702,84 +702,84 @@
 //       5b Wyswietl w konsoli "Hobby NAZWA_HOBBY jest wspoldzielone przez UZYTKOWNIK i UZYTKOWNIK "
 
 
-// var persons = [
-//   { login: 'Bartek', hobby: ['tenis', 'poker', 'footbal'] },
-//   { login: 'Kamil', hobby: ['pływanie', 'programowanie'] },
-//   { login: 'Agatka', hobby: ['poker', 'taniec'] },
-// ];
-// //5a/b
-// //pierwsza metoda
-// var hobbies = [];
+var persons = [
+  { login: 'Bartek', hobby: ['tenis', 'poker', 'footbal'] },
+  { login: 'Kamil', hobby: ['pływanie', 'programowanie'] },
+  { login: 'Agatka', hobby: ['poker', 'taniec'] },
+];
+//5a/b
+//pierwsza metoda
+var hobbies = [];
 
-// for (var i = 0; i < persons.length; i++) {
-//   for (var j = 0; j < persons[i].hobby.length; j++) {
-//       hobbies.push(persons[i].hobby[j]);
-//   }
-// }
+for (var i = 0; i < persons.length; i++) {
+  for (var j = 0; j < persons[i].hobby.length; j++) {
+      hobbies.push(persons[i].hobby[j]);
+  }
+}
 
-// for (var i = 0; i < persons.length; i++) {
-//   hobbies.splice(0, persons[i].hobby.length);
-//   for (var j = 0; j < persons[i].hobby.length; j++) {
-//       if (hobbies.indexOf(persons[i].hobby[j]) >= 0) {
-//           console.log("Hobby " + persons[i].hobby[j] + " jest wspoldzielone.");
-//       }
-//   }
-// }
+for (var i = 0; i < persons.length; i++) {
+  hobbies.splice(0, persons[i].hobby.length);
+  for (var j = 0; j < persons[i].hobby.length; j++) {
+      if (hobbies.indexOf(persons[i].hobby[j]) >= 0) {
+          console.log("Hobby " + persons[i].hobby[j] + " jest wspoldzielone.");
+      }
+  }
+}
 
-// //druga metoda
-// var hobbies2 = [];
+//druga metoda
+var hobbies2 = [];
 
-// for (var i = 0; i < persons.length; i++) {
-//   for (var j = 0; j < persons[i].hobby.length; j++) {
-//       hobbies2.push({ login: persons[i].login, hobby: persons[i].hobby[j] });
-//   }
-// }
+for (var i = 0; i < persons.length; i++) {
+  for (var j = 0; j < persons[i].hobby.length; j++) {
+      hobbies2.push({ login: persons[i].login, hobby: persons[i].hobby[j] });
+  }
+}
 
-// for (var i = 0; i < hobbies2.length; i++) {
-//   for (var j = i + 1; j < hobbies2.length; j++) {
-//       if (hobbies2[i].hobby === hobbies2[j].hobby) {
-//           console.log("Hobby " + hobbies2[i].hobby + " jest wspoldzielone przez " + hobbies2[i].login + " i " + hobbies2[j].login);
-//       }
-//   }
-// }
+for (var i = 0; i < hobbies2.length; i++) {
+  for (var j = i + 1; j < hobbies2.length; j++) {
+      if (hobbies2[i].hobby === hobbies2[j].hobby) {
+          console.log("Hobby " + hobbies2[i].hobby + " jest wspoldzielone przez " + hobbies2[i].login + " i " + hobbies2[j].login);
+      }
+  }
+}
 
-// //trzecia metoda
-// var hobbies3 = [];
-// var duplicatedHobbies = [];
+//trzecia metoda
+var hobbies3 = [];
+var duplicatedHobbies = [];
 
-// for (var i = 0; i < persons.length; i++) {
-//   hobbies3 = hobbies3.concat(persons[i].hobby);
-// }
-// for (var i = 0; i < hobbies3.length; i++) {
-//   if (hobbies3.indexOf(hobbies3[i]) !== i) {
-//       duplicatedHobbies.push(hobbies3[i]);
-//   }
-// }
-// console.log(duplicatedHobbies);
-// //czwarta metoda
-// var hobbiesMap = {};
+for (var i = 0; i < persons.length; i++) {
+  hobbies3 = hobbies3.concat(persons[i].hobby);
+}
+for (var i = 0; i < hobbies3.length; i++) {
+  if (hobbies3.indexOf(hobbies3[i]) !== i) {
+      duplicatedHobbies.push(hobbies3[i]);
+  }
+}
+console.log(duplicatedHobbies);
+//czwarta metoda
+var hobbiesMap = {};
 
-// for (var i = 0; i < persons.length; i++) {
-//   for (var j = 0; j < persons[i].hobby.length; j++) {
-//       if (!hobbiesMap.hasOwnProperty(persons[i].hobby[j])) {
-//           hobbiesMap[persons[i].hobby[j]]=[persons[i].login];
-//       } else {
-//           hobbiesMap[persons[i].hobby[j]].push(persons[i].login);
-//       }
-//   }
-// }
+for (var i = 0; i < persons.length; i++) {
+  for (var j = 0; j < persons[i].hobby.length; j++) {
+      if (!hobbiesMap.hasOwnProperty(persons[i].hobby[j])) {
+          hobbiesMap[persons[i].hobby[j]]=[persons[i].login];
+      } else {
+          hobbiesMap[persons[i].hobby[j]].push(persons[i].login);
+      }
+  }
+}
 
-// var hobbies4 = Object.keys(hobbiesMap);
-// for (var i = 0; i < hobbies4.length; i++) {
-//   if (hobbiesMap[hobbies4[i]].length > 1) {
-//       console.log(hobbiesMap[hobbies4[i]].join(', ') + ' maja wspólne hobby ' + hobbies4[i]);
-//   }
-// }
+var hobbies4 = Object.keys(hobbiesMap);
+for (var i = 0; i < hobbies4.length; i++) {
+  if (hobbiesMap[hobbies4[i]].length > 1) {
+      console.log(hobbiesMap[hobbies4[i]].join(', ') + ' maja wspólne hobby ' + hobbies4[i]);
+  }
+}
 
-// function showName(a,b) {
-//     return a + b;
-// }
-// console.log(showName(2,3))
+function showName(a,b) {
+    return a + b;
+}
+console.log(showName(2,3))
 
 
 
