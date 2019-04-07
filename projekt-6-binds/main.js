@@ -60,12 +60,15 @@
 // console.log(ab)
 
 
-var favouriteDrink = 'whisky';
 
-function changeFavourite() {
-    var favouriteDrink = 'wine'
-    return favouriteDrink;
-}
 
-changeFavourite();
-console.log(favouriteDrink);
+
+// function Car(model, year) {
+//     this.model = model;
+//     this.year = '( ' + year + ' )'; 
+// }
+
+// var firstCar = new Car('BMW', 2005);
+// console.log(firstCar)
+
+
