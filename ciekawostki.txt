@@ -3,6 +3,7 @@ metoda - funkcja w obiekcie, funkcja - poza obiektem
 Czym sie rozni justify content, items i self
 Rebase
 git flow
+fetch and promiss
 https://developer.mozilla.org/pl/docs/Web/JavaScript/Referencje/Obiekty
 https://developer.mozilla.org/pl/docs/Web/JavaScript/Referencje/Obiekty/Number
 https://developer.mozilla.org/pl/docs/Web/JavaScript/Referencje/Obiekty/Array
