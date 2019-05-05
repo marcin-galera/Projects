@@ -1,0 +1,17 @@
+{
+  "order": ["chockolate", "cake", "cookies"],
+  "entities": {
+    "chockolate": {
+      "price": 10,
+      "calories": 300
+    },
+    "cake": {
+      "price": 40,
+      "calories": 800
+    },
+    "cookies": {
+      "price": 30,
+      "calories": 600
+    }
+  }
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Pokemons</h1>
+    <div id="pokemon-details"></div>
+    <ul id="pokemons"></ul>
+    <script src="helpers.js"></script>
+    <script>
+      const details = document.querySelector("#pokemon-details");
+      const list = document.querySelector("#pokemons");
+
+      const showDetails = data => {
+        details.textContent = data.name + ": " + data.height;
+      };
+      const createList = data => {
+        data.results
+          .map(pokemon => {
+            const listItem = document.createElement("li");
+            const decorator = document.createElement("strong");
+            decorator.innerText = " POKEMON";
+            listItem.innerText = pokemon.name;
+            listItem.appendChild(decorator);
+            listItem.addEventListener("click", function(event) {
+              // console.log(this);
+              // console.log(event.target);
+              // console.log(event.currentTarget);
+
+              const detailsUrl = pokemon.url;
+              requestData(detailsUrl, showDetails);
+            });
+            return listItem;
+          })
+          .forEach(item => list.appendChild(item));
+      };
+
+      requestData("https://pokeapi.co/api/v2/pokemon/", createList);
+    </script>
+  </body>
+</html>

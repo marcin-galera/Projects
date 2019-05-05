@@ -1,0 +1,10 @@
+<div id="app"></div>
+<script>
+  const appNode = document.querySelector("#app");
+  fetch("../data/sweets-collection.json")
+    .then(response => response.json())
+    .then(sweets => {
+      appNode.textContent = sweets
+        .map(sweet => sweet.name).join(', ')
+    }).catch(error => console.log(error.message));
+</script>
