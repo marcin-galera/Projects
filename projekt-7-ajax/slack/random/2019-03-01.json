@@ -1,0 +1,120 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGKSE7CMP",
+                "created": 1551433798,
+                "timestamp": 1551433798,
+                "name": "5a.js",
+                "title": "5a",
+                "mimetype": "text\/plain",
+                "filetype": "javascript",
+                "pretty_type": "JavaScript\/JSON",
+                "user": "UG3QEG68Y",
+                "editable": true,
+                "size": 521,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FGKSE7CMP\/5a.js?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FGKSE7CMP\/download\/5a.js?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UG3QEG68Y\/FGKSE7CMP\/5a.js",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FGKSE7CMP-2e85d6b4b9",
+                "edit_link": "https:\/\/isajfdz11.slack.com\/files\/UG3QEG68Y\/FGKSE7CMP\/5a.js\/edit",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UG3QEG68Y",
+        "display_as_bot": false,
+        "ts": "1551433799.001700",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UFR1Y38B1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6638fdde-89e0-4871-8d00-fd3e65402fbc",
+        "type": "message",
+        "text": "zamiast concata mozna robic interacje",
+        "user": "UG3QEG68Y",
+        "ts": "1551433835.002200"
+    },
+    {
+        "client_msg_id": "2b94f148-3e13-40e9-bbd3-528020448dd5",
+        "type": "message",
+        "text": "petle w petli* :stuck_out_tongue:",
+        "user": "UG3QEG68Y",
+        "ts": "1551433849.002500"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGLPPQQS1",
+                "created": 1551434412,
+                "timestamp": 1551434412,
+                "name": "-.js",
+                "title": "Untitled",
+                "mimetype": "text\/plain",
+                "filetype": "javascript",
+                "pretty_type": "JavaScript\/JSON",
+                "user": "UG3QEG68Y",
+                "editable": true,
+                "size": 767,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FGLPPQQS1\/-.js?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FGLPPQQS1\/download\/-.js?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UG3QEG68Y\/FGLPPQQS1\/-.js",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FGLPPQQS1-98b9849a5d",
+                "edit_link": "https:\/\/isajfdz11.slack.com\/files\/UG3QEG68Y\/FGLPPQQS1\/-.js\/edit",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UG3QEG68Y",
+        "display_as_bot": false,
+        "ts": "1551434412.002600",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UFR1Y38B1"
+                ],
+                "count": 1
+            },
+            {
+                "name": "see_no_evil",
+                "users": [
+                    "UFNNXNNBT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c9e1cf87-7c41-4ce5-ba41-e9264ee6e54c",
+        "type": "message",
+        "text": "5 zadanie jest troche ciezsze wiec si enie przejmujcie :slightly_smiling_face:",
+        "user": "UG3QEG68Y",
+        "ts": "1551434431.003300"
+    }
+]

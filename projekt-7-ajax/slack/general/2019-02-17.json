@@ -1,0 +1,134 @@
+[
+    {
+        "client_msg_id": "6e714d08-45cd-421c-a423-17e6ec38d8e4",
+        "type": "message",
+        "text": "<https:\/\/github.com\/infoshareacademy\/jfdz11-git\/blob\/master\/Prezentacje\/Git-2.pdf>",
+        "user": "UG1M63BEJ",
+        "ts": "1550412331.011300"
+    },
+    {
+        "client_msg_id": "41e8b96c-6302-4805-b971-0ad45b51a6f2",
+        "type": "message",
+        "text": "<https:\/\/github.com\/infoshareacademy\/jfdz11-git>",
+        "user": "UGA46DPAT",
+        "ts": "1550415639.011700"
+    },
+    {
+        "client_msg_id": "4881c950-1547-44fe-a0ee-d9aab82fbb21",
+        "type": "message",
+        "text": "- <https:\/\/git-scm.com\/book\/pl\/v2> (oficjalny podręcznik gita)\n - <https:\/\/help.github.com\/>       (pomoc <http:\/\/github.com|github.com>)\n - <https:\/\/www.youtube.com\/watch?v=D6EI7EbEN4Q&amp;list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH> (video kurs gita)",
+        "user": "UGA46DPAT",
+        "ts": "1550418111.012400",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Praktyczny kurs Git - #1\/12 Czym jest Git?",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=D6EI7EbEN4Q",
+                "author_name": "overment",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC_MIaHmSkt9JHNZfQ_gUmrg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/D6EI7EbEN4Q\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Praktyczny kurs Git - #1\/12 Czym jest Git?",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/D6EI7EbEN4Q?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=D6EI7EbEN4Q",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=D6EI7EbEN4Q&amp;list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7bbf7636-90ee-4fc3-86b2-1a3788044bb3",
+        "type": "message",
+        "text": "polecam <https:\/\/git-scm.com\/book\/pl\/v2\/Appendix-A%3A-Git-in-Other-Environments-Git-in-Zsh> bedziecie widziec w konsoli na jakim branchu jestescie i trochę innych dodatków :wink:",
+        "user": "UG693FN7L",
+        "ts": "1550418673.014400"
+    },
+    {
+        "client_msg_id": "a6fd136a-92c5-4649-8dac-bb9cb8aa7b41",
+        "type": "message",
+        "text": "<!channel> Przypominam o wypełnieniu ankiety :slightly_smiling_face:\n<https:\/\/ankiety.is-academy.pl\/poll\/-LDjsR30ylyU72y0gH8E\/-LY21-leMiT95LPNdF_H>",
+        "user": "UFP1NEA4F",
+        "ts": "1550431859.015200",
+        "edited": {
+            "user": "UFP1NEA4F",
+            "ts": "1550432293.000000"
+        }
+    },
+    {
+        "client_msg_id": "2582c96b-ee1d-4cd7-be1e-063914a23c0f",
+        "type": "message",
+        "text": "<!channel> AA i pamiętajcie, że każde wyjście przed końcem zajęć odejmowane jest z limitu nieobecności na cały kurs :slightly_smiling_face:",
+        "user": "UFP1NEA4F",
+        "ts": "1550432273.016500",
+        "edited": {
+            "user": "UFP1NEA4F",
+            "ts": "1550432284.000000"
+        },
+        "reactions": [
+            {
+                "name": "zany_face",
+                "users": [
+                    "UFP9WB0AV",
+                    "UFNNXNNBT"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e4c04c41-e11b-4a0d-887c-3277ff2a6ff0",
+        "type": "message",
+        "text": "O! To bym został i pisał. :pensive:",
+        "user": "UFP9WB0AV",
+        "ts": "1550432747.018400"
+    },
+    {
+        "client_msg_id": "329c4f15-bf73-4e71-8a17-b308b19212e5",
+        "type": "message",
+        "text": ":scream:",
+        "user": "UFRCP5Q4E",
+        "ts": "1550432822.018600"
+    },
+    {
+        "client_msg_id": "60151f24-a857-46ed-bf6a-d0703336c9ab",
+        "type": "message",
+        "text": "Bo nie ukrywam, że musiało mi to umknąć. W każdym razie właśnie nauczyłem sie nowej rzeczy :grin:",
+        "user": "UFP9WB0AV",
+        "ts": "1550432948.021800"
+    },
+    {
+        "client_msg_id": "59a1b7be-09a5-483e-be1f-6ea9066c9815",
+        "type": "message",
+        "text": ":smile:",
+        "user": "UFP1NEA4F",
+        "ts": "1550433119.022000"
+    },
+    {
+        "client_msg_id": "dc3d4894-20a7-4972-b72c-e2ab919a1dd2",
+        "type": "message",
+        "text": "O kurla, ale na tym kursie cisna :)",
+        "user": "UFPBXQW73",
+        "ts": "1550433615.022900",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UFNNXNNBT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "40df63b6-07be-46b5-94d6-f8152adfafc2",
+        "type": "message",
+        "text": "280h się samo nie zrobi :smile:",
+        "user": "UFP1NEA4F",
+        "ts": "1550438146.024400"
+    }
+]

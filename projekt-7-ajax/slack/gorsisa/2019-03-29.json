@@ -1,0 +1,52 @@
+[
+    {
+        "client_msg_id": "cbc586cb-0204-4f8d-bd18-d2abe81b256e",
+        "type": "message",
+        "text": "<https:\/\/github.com\/KarolKomosa\/Funkcjonalnosci>",
+        "user": "UFP7290SG",
+        "ts": "1553856372.000200",
+        "attachments": [
+            {
+                "fallback": "KarolKomosa\/Funkcjonalnosci",
+                "title": "KarolKomosa\/Funkcjonalnosci",
+                "footer": "<https:\/\/github.com\/KarolKomosa\/Funkcjonalnosci|KarolKomosa\/Funkcjonalnosci>",
+                "id": 1,
+                "ts": 1553856262,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "HTML",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "a minute ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BFPAU9ARE",
+                "app_unfurl_url": "https:\/\/github.com\/KarolKomosa\/Funkcjonalnosci",
+                "is_app_unfurl": true
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d7f3e46c-bda1-43b9-ba24-2c32b1995f43",
+        "type": "message",
+        "text": "Funkcjonalności, ale mój git...",
+        "user": "UFP7290SG",
+        "ts": "1553856382.000600"
+    },
+    {
+        "client_msg_id": "db5b596c-d2fc-457a-a042-eb0a78755bf7",
+        "type": "message",
+        "text": "Jak tam wam idzie praca domowa? Patryk kiedy formularz będzie? ",
+        "user": "UG1M63BEJ",
+        "ts": "1553874306.000600"
+    }
+]

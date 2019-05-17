@@ -1,0 +1,104 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGHUGSXJL",
+                "created": 1551295127,
+                "timestamp": 1551295127,
+                "name": "-.txt",
+                "title": "Untitled",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UFR1Y38B1",
+                "editable": true,
+                "size": 371,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FGHUGSXJL\/-.txt?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FGHUGSXJL\/download\/-.txt?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFR1Y38B1\/FGHUGSXJL\/-.txt",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FGHUGSXJL-a0300ce480",
+                "edit_link": "https:\/\/isajfdz11.slack.com\/files\/UFR1Y38B1\/FGHUGSXJL\/-.txt\/edit",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFR1Y38B1",
+        "display_as_bot": false,
+        "ts": "1551295127.000100"
+    },
+    {
+        "client_msg_id": "ec9df7d3-6c09-417c-8bfe-f9e43d135b6b",
+        "type": "message",
+        "text": "ma ktoś zrobione to zadanie ??",
+        "user": "UFR1Y38B1",
+        "ts": "1551295131.000500"
+    },
+    {
+        "client_msg_id": "39287671-1935-42cf-9237-9c5cb64efcdd",
+        "type": "message",
+        "text": "<https:\/\/github.com\/jagda\/JS-basic-exercises>\nplik 5_arrays.js",
+        "user": "UFNNXNNBT",
+        "ts": "1551299764.001200",
+        "attachments": [
+            {
+                "fallback": "jagda\/JS-basic-exercises",
+                "title": "jagda\/JS-basic-exercises",
+                "footer": "<https:\/\/github.com\/jagda\/JS-basic-exercises|jagda\/JS-basic-exercises>",
+                "id": 1,
+                "ts": 1551217986,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Language",
+                        "value": "JavaScript",
+                        "short": true
+                    },
+                    {
+                        "title": "Last updated",
+                        "value": "2 minutes ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BFPAU9ARE",
+                "app_unfurl_url": "https:\/\/github.com\/jagda\/JS-basic-exercises",
+                "is_app_unfurl": true
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3ce8aa74-d7cc-4f05-8dbc-f2a00b33c681",
+        "type": "message",
+        "text": "jak ktos ma to zrobione lepiej (prosciej) to niech sie podzieli sie :male-technologist:",
+        "user": "UFNNXNNBT",
+        "ts": "1551299841.002200",
+        "reactions": [
+            {
+                "name": "male-astronaut",
+                "users": [
+                    "UG693FN7L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UFR1Y38B1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

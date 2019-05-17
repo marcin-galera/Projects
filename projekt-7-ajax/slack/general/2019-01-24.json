@@ -1,0 +1,37 @@
+[
+    {
+        "user": "UFMUTFP7U",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548329125.000200",
+        "text": "<@UFMUTFP7U> has joined the channel"
+    },
+    {
+        "user": "UFP1NEA4F",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548331150.000400",
+        "text": "<@UFP1NEA4F> has joined the <@UFP1NEA4F> channel"
+    },
+    {
+        "user": "UFP1WTUP9",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548331887.000600",
+        "text": "<@UFP1WTUP9> has joined the channel"
+    },
+    {
+        "user": "UFNFNGQPL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548361529.000800",
+        "text": "<@UFNFNGQPL> has joined the channel"
+    },
+    {
+        "user": "UFMQ48LHE",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548362981.001000",
+        "text": "<@UFMQ48LHE> has joined the channel"
+    }
+]

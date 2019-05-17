@@ -1,0 +1,130 @@
+[
+    {
+        "user": "UFP4ZJ4DN",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548491861.000200",
+        "text": "<@UFP4ZJ4DN> has joined the channel"
+    },
+    {
+        "user": "UFP9WB0AV",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548501566.000200",
+        "text": "<@UFP9WB0AV> has joined the channel"
+    },
+    {
+        "user": "UFR08FNEB",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548503293.000200",
+        "text": "<@UFR08FNEB> has joined the channel"
+    },
+    {
+        "user": "UFR1Y38B1",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548516385.000200",
+        "text": "<@UFR1Y38B1> has joined the channel"
+    },
+    {
+        "user": "UFPBXQW73",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548517436.000400",
+        "text": "<@UFPBXQW73> has joined the channel"
+    },
+    {
+        "user": "UFRCP5Q4E",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548517601.000600",
+        "text": "<@UFRCP5Q4E> has joined the channel"
+    },
+    {
+        "user": "UFPC1B9UZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548518160.000800",
+        "text": "<@UFPC1B9UZ> has joined the channel"
+    },
+    {
+        "user": "UFPR4JWBE",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548518664.001000",
+        "text": "<@UFPR4JWBE> has joined the channel"
+    },
+    {
+        "user": "UFR2DECFR",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548519468.001200",
+        "text": "<@UFR2DECFR> has joined the channel"
+    },
+    {
+        "user": "UFPC99HFT",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548519752.001400",
+        "text": "<@UFPC99HFT> has joined the channel"
+    },
+    {
+        "client_msg_id": "c7a1fe92-3f74-4bce-804f-8307de9ff39c",
+        "type": "message",
+        "text": "<!channel>\nHej, dziękuję Wam bardzo za dzisiaj:)\nWiem, że poruszaliśmy trochę tematy nowe i na początku może to się wydawać nieco trudne ale uwierzcie mi, że to się poukłada w głowie. Wystarczy trochę poćwiczyć i to wejdzie w krew.\nWrzuciłem prezentacje na: <https:\/\/github.com\/infoshareacademy\/jfdz11-materialy> w katalogu slides (jeśli widzicie 404 to znaczy, że nie macie dostępu do repo)\nJeśli ktoś ma jakiś problem z poruszanymi zagadnieniami czy coś jest nie jasne, to śmiało pytajcie na jakimś kanale lub pm.",
+        "user": "UFP4ZJ4DN",
+        "ts": "1548535781.002800",
+        "edited": {
+            "user": "UFP4ZJ4DN",
+            "ts": "1548536518.000000"
+        },
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "UFPC99HFT",
+                    "UFRCP5Q4E"
+                ],
+                "count": 2
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UFR1Y38B1",
+                    "UFRCP5Q4E",
+                    "UFNFNGQPL"
+                ],
+                "count": 3
+            },
+            {
+                "name": "facepunch",
+                "users": [
+                    "UFNNXNNBT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0F372E3B-1EE4-45CB-AE12-E4DE4776C1AB",
+        "type": "message",
+        "text": "Dzięki Maciek :slightly_smiling_face:",
+        "user": "UFRCP5Q4E",
+        "ts": "1548539274.000400"
+    },
+    {
+        "client_msg_id": "BA9CF000-4C91-490C-A14F-07251EFF0CC8",
+        "type": "message",
+        "text": "Dzięki również :)",
+        "user": "UFPC1B9UZ",
+        "ts": "1548539592.001100"
+    },
+    {
+        "user": "UFQ32FA3V",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548574091.000200",
+        "text": "<@UFQ32FA3V> has joined the channel"
+    }
+]

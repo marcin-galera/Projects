@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "1233af6c-beca-42ba-808b-847be58c8dca",
+        "type": "message",
+        "text": "<!channel> W weekend będą utrudnienia na drogach, co może spowodować między innymi opóźnienia w komunikacji miejskiej.  <https:\/\/www.trojmiasto.pl\/wiadomosci\/W-weekend-biegi-uliczne-w-Gdansku-Podpowiadamy-jak-uniknac-utrudnien-n133424.html> Miejcie to na uwadze, żeby się nie spóźnić na zajęcia. :slightly_smiling_face:",
+        "user": "UFP1WTUP9",
+        "ts": "1555059898.001500",
+        "attachments": [
+            {
+                "service_name": "trojmiasto.pl",
+                "title": "W weekend biegi uliczne w Gdańsku. Podpowiadamy, jak uniknąć utrudnień",
+                "title_link": "https:\/\/www.trojmiasto.pl\/wiadomosci\/W-weekend-biegi-uliczne-w-Gdansku-Podpowiadamy-jak-uniknac-utrudnien-n133424.html",
+                "text": "Od piątku do niedzieli na ulicach Gdańska kierowcy i pasażerowie komunikacji miejskiej muszą liczyć się z utrudnieniami w ruchu. W tych dniach odbędzie się 5.",
+                "fallback": "trojmiasto.pl: W weekend biegi uliczne w Gdańsku. Podpowiadamy, jak uniknąć utrudnień",
+                "image_url": "https:\/\/static2.s-trojmiasto.pl\/zdj\/c\/n\/2\/2351\/600x0\/2351499.jpg?r=2019041210",
+                "ts": 1555077600,
+                "from_url": "https:\/\/www.trojmiasto.pl\/wiadomosci\/W-weekend-biegi-uliczne-w-Gdansku-Podpowiadamy-jak-uniknac-utrudnien-n133424.html",
+                "image_width": 445,
+                "image_height": 250,
+                "image_bytes": 69377,
+                "service_icon": "https:\/\/static2.s-trojmiasto.pl\/_img\/favicon\/apple-touch-icon-180x180-precomposed.png",
+                "id": 1,
+                "original_url": "https:\/\/www.trojmiasto.pl\/wiadomosci\/W-weekend-biegi-uliczne-w-Gdansku-Podpowiadamy-jak-uniknac-utrudnien-n133424.html"
+            }
+        ]
+    }
+]

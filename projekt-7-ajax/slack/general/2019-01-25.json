@@ -1,0 +1,30 @@
+[
+    {
+        "client_msg_id": "a7d6969f-034d-41e2-a6cd-74b2401515f6",
+        "type": "message",
+        "text": "<!channel> Cześć,\npodsyłam jeszcze krótką informację od zarządcy budynku Olivia Four, parking E, to parking, który znajduje się przy budynku Olivia Four. Parking będzie otwarty, natomiast możliwość wjazdu będzie wyłącznie przez główny wjazd do całego kompleksu OBC.\n\n\"Szanowni Państwo,\nchciałabym poinformować, że od piątku 25.01.2019 od godziny 15:00 do poniedziałku 28.01.2019 do godziny 09:00 zaplanowane są prace przy szlabanie wjazdowym na parking E od strony budowy.\n\nW trakcie prac, pobranie biletu przy wyżej wymienionym szlabanie nie będzie możliwe. W związku z tym, mam prośbę aby użytkownicy korzystający jednorazowo z parkingu, kierowali się w tym czasie bezpośrednio na główny wjazd na parking E przy Olivia Point.\n\nWszystkie karty abonamentowe oraz karty do hal garażowych będą działały bez zmian.\nZa utrudnienia przepraszamy.\"\nDla ułatwienia, załączam jeszcze raz link do mapki parkingów na terenie OBC :slightly_smiling_face:\n<http:\/\/www.oliviacentre.com\/wp-content\/uploads\/2017\/11\/OliviaBusinessCentre_parkingi.pdf>\n\nDo zobaczenia!",
+        "user": "UFP1WTUP9",
+        "ts": "1548431364.000700"
+    },
+    {
+        "user": "UFNNXNNBT",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548434363.000200",
+        "text": "<@UFNNXNNBT> has joined the channel"
+    },
+    {
+        "user": "UFP7290SG",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548435318.000200",
+        "text": "<@UFP7290SG> has joined the channel"
+    },
+    {
+        "user": "UFPAWAHQC",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548442640.000200",
+        "text": "<@UFPAWAHQC> has joined the channel"
+    }
+]

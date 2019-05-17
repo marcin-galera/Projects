@@ -1,0 +1,212 @@
+[
+    {
+        "client_msg_id": "b49287dd-c489-4ffe-ab71-415ae05f234a",
+        "type": "message",
+        "text": "Jakby ktoś bawił się z mobile to fajna opcja pod linkiem:\n\n<https:\/\/developers.google.com\/web\/tools\/chrome-devtools\/remote-debugging\/>\n<https:\/\/developer.android.com\/studio\/debug\/dev-options> (mały myczek jak włączyć debugowanie, które jest standardowo ukryte)",
+        "user": "UFNFNGQPL",
+        "ts": "1548697905.001000",
+        "attachments": [
+            {
+                "service_name": "Google Developers",
+                "title": "Get Started with Remote Debugging Android Devices  |  Tools for Web Developers        |  Google Developers",
+                "title_link": "https:\/\/developers.google.com\/web\/tools\/chrome-devtools\/remote-debugging\/",
+                "text": "Remote debug live content on an Android device from a Windows, Mac, or Linux computer.",
+                "fallback": "Google Developers: Get Started with Remote Debugging Android Devices  |  Tools for Web Developers        |  Google Developers",
+                "image_url": "https:\/\/developers.google.com\/web\/images\/social-webfu-16x9.png",
+                "image_width": 444,
+                "image_height": 250,
+                "from_url": "https:\/\/developers.google.com\/web\/tools\/chrome-devtools\/remote-debugging\/",
+                "image_bytes": 63300,
+                "service_icon": "https:\/\/developers.google.com\/_static\/a0b6e5b720\/images\/touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/developers.google.com\/web\/tools\/chrome-devtools\/remote-debugging\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d73151c0-0ac6-45d5-b39e-a290e16e6b7e",
+        "type": "message",
+        "text": "<!channel> Czy posiada z Was ktoś może książkę, która była w materiałach z preworku?",
+        "user": "UFP1NEA4F",
+        "ts": "1548706080.001800"
+    },
+    {
+        "client_msg_id": "53fd03cc-6de8-4609-9d56-2dd4de8cfa24",
+        "type": "message",
+        "text": "wysiadł link",
+        "user": "UFP1NEA4F",
+        "ts": "1548706086.002000"
+    },
+    {
+        "client_msg_id": "2728dd9a-5d6b-4a88-b9bd-c02a5d477394",
+        "type": "message",
+        "text": "na polską wersję czekam, jutro powinna byc w empiku",
+        "user": "UFR1Y38B1",
+        "ts": "1548706105.002500"
+    },
+    {
+        "client_msg_id": "bda93bdc-1a8b-4c57-85a5-66085215f38a",
+        "type": "message",
+        "text": "o, nie wiedziałem, że w empiku sprzedają darmowe książki",
+        "user": "UFP1NEA4F",
+        "ts": "1548706131.003100"
+    },
+    {
+        "client_msg_id": "17eeee2f-616c-4e0c-b765-585cc7e45a30",
+        "type": "message",
+        "text": "<https:\/\/www.empik.com\/tajniki-jezyka-javascript-na-drodze-do-bieglosci-simpson-kyle,p1121242324,ksiazka-p>",
+        "user": "UFR1Y38B1",
+        "ts": "1548706393.003300",
+        "attachments": [
+            {
+                "title": "Tajniki języka JavaScript. Na drodze do biegłości",
+                "title_link": "https:\/\/www.empik.com\/tajniki-jezyka-javascript-na-drodze-do-bieglosci-simpson-kyle,p1121242324,ksiazka-p",
+                "text": "Książka Tajniki języka JavaScript. Na drodze do biegłości autorstwa Simpson Kyle , dostępna w Sklepie <http:\/\/EMPIK.COM|EMPIK.COM> w cenie 17,49 zł . Przeczytaj recenzję Tajniki języka JavaScript. Na drodze do biegłości. Zamów dostawę do dowolnego salonu i zapłać przy odbiorze!",
+                "fallback": "Tajniki języka JavaScript. Na drodze do biegłości",
+                "image_url": "https:\/\/ecsmedia.pl\/c\/tajniki-jezyka-javascript-na-drodze-do-bieglosci-b-iext43255762.jpg",
+                "from_url": "https:\/\/www.empik.com\/tajniki-jezyka-javascript-na-drodze-do-bieglosci-simpson-kyle,p1121242324,ksiazka-p",
+                "image_width": 175,
+                "image_height": 250,
+                "image_bytes": 26974,
+                "service_icon": "https:\/\/www.empik.com\/b\/mp\/img\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "empik.com - salon internetowy",
+                "id": 1,
+                "original_url": "https:\/\/www.empik.com\/tajniki-jezyka-javascript-na-drodze-do-bieglosci-simpson-kyle,p1121242324,ksiazka-p"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Tak jak było w prework :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "FFR9U2MJ6",
+                "created": 1548706425,
+                "timestamp": 1548706425,
+                "name": "image.png",
+                "title": "Pasted image at 2019-01-28, 9:13 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFR1Y38B1",
+                "editable": false,
+                "size": 494496,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FFR9U2MJ6\/image.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FFR9U2MJ6\/download\/image.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFR9U2MJ6-a3a59a7f4e\/image_64.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFR9U2MJ6-a3a59a7f4e\/image_80.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFR9U2MJ6-a3a59a7f4e\/image_360.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFR9U2MJ6-a3a59a7f4e\/image_480.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFR9U2MJ6-a3a59a7f4e\/image_160.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFR9U2MJ6-a3a59a7f4e\/image_720.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFR9U2MJ6-a3a59a7f4e\/image_800.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFR9U2MJ6-a3a59a7f4e\/image_960.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFR9U2MJ6-a3a59a7f4e\/image_1024.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "image_exif_rotation": 1,
+                "original_w": 1920,
+                "original_h": 1080,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFR1Y38B1\/FFR9U2MJ6\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FFR9U2MJ6-032e1cce6a",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFR1Y38B1",
+        "display_as_bot": false,
+        "ts": "1548706430.003600"
+    },
+    {
+        "client_msg_id": "e24cfeea-31f8-4509-85a1-ba0a1ddede67",
+        "type": "message",
+        "text": "o ile o tą książkę chodzi ;d",
+        "user": "UFR1Y38B1",
+        "ts": "1548706444.004200"
+    },
+    {
+        "client_msg_id": "faeab0de-2222-4376-a567-9ca9d19a44c1",
+        "type": "message",
+        "text": "Ahh you don't know JS, to jest książka do JS'a a mi chodzi książkę, która jest kilka slajdów wyżej i dotyczy HTML + CSS :slightly_smiling_face:",
+        "user": "UFP1NEA4F",
+        "ts": "1548706454.004500"
+    },
+    {
+        "client_msg_id": "fc614c70-0bb5-4487-80f8-71669cb4b6c6",
+        "type": "message",
+        "text": "no to nie pomogę :disappointed:",
+        "user": "UFR1Y38B1",
+        "ts": "1548706531.005000"
+    },
+    {
+        "type": "message",
+        "text": "?",
+        "files": [
+            {
+                "id": "FFRFVT55K",
+                "created": 1548706550,
+                "timestamp": 1548706550,
+                "name": "book.pdf",
+                "title": "book.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UFNNXNNBT",
+                "editable": false,
+                "size": 20338869,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FFRFVT55K\/book.pdf?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FFRFVT55K\/download\/book.pdf?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFRFVT55K-eefd7e52c6\/book_thumb_pdf.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFNNXNNBT\/FFRFVT55K\/book.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FFRFVT55K-11622cc022",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFNNXNNBT",
+        "display_as_bot": false,
+        "ts": "1548706555.005100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFNFNGQPL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1bd1da86-67b3-424f-bbe0-bfa5cb03bb6b",
+        "type": "message",
+        "text": "<@UFNNXNNBT> jeżeli to było z tego <http:\/\/ferrante.pl\/books\/html\/book.pdf> to tak i dziękuję Ci bardzo!",
+        "user": "UFP1NEA4F",
+        "ts": "1548706667.006000"
+    }
+]

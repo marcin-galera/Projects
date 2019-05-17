@@ -1,0 +1,392 @@
+[
+    {
+        "client_msg_id": "6a1e551a-7d62-4175-88b3-2e1b088378c7",
+        "type": "message",
+        "text": "<https:\/\/github.com\/infoshareacademy\/jfdz11-materialy-ajax>",
+        "user": "UHEJYFVV0",
+        "ts": "1555246928.002000"
+    },
+    {
+        "client_msg_id": "041bb74e-2523-47f9-b7b1-757018043e52",
+        "type": "message",
+        "text": "<https:\/\/pokeapi.co\/api\/v2\/>",
+        "user": "UHEJYFVV0",
+        "ts": "1555247732.002400"
+    },
+    {
+        "client_msg_id": "f8e73c3a-fe89-4218-93cf-055a34af2da8",
+        "type": "message",
+        "text": "<https:\/\/http.cat\/>",
+        "user": "UHEJYFVV0",
+        "ts": "1555249433.002600",
+        "attachments": [
+            {
+                "service_name": "HTTP Status Cats API",
+                "title": "HTTP Cats",
+                "title_link": "https:\/\/http.cat\/",
+                "text": "API for HTTP Cats",
+                "fallback": "HTTP Status Cats API: HTTP Cats",
+                "image_url": "https:\/\/http.cat\/100.jpg",
+                "from_url": "https:\/\/http.cat\/",
+                "image_width": 313,
+                "image_height": 250,
+                "image_bytes": 38059,
+                "service_icon": "https:\/\/http.cat\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/http.cat\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20fc5592-6c43-4e1e-aaf0-c584ff9d0fcc",
+        "type": "message",
+        "text": "<https:\/\/www.dropbox.com\/s\/hbx7uxvbhkejoht\/Screenshot%202019-04-14%2016.12.49.png?dl=0>",
+        "user": "UHEJYFVV0",
+        "ts": "1555251172.002900"
+    },
+    {
+        "client_msg_id": "2072beba-7e1b-4a47-8f09-ebc0dd2ee8d1",
+        "type": "message",
+        "text": "<https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/Events>",
+        "user": "UHEJYFVV0",
+        "ts": "1555253468.003800",
+        "attachments": [
+            {
+                "service_name": "MDN Web Docs",
+                "title": "Event reference",
+                "title_link": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/Events",
+                "text": "DOM Events are sent to notify code of interesting things that have taken place. Each event is represented by an object which is based on the Event interface, and may have additional custom fields and\/or functions used to get additional information about what happened. Events can represent everything from basic user interactions to automated notifications of things happening in the rendering model.",
+                "fallback": "MDN Web Docs: Event reference",
+                "thumb_url": "https:\/\/developer.mozilla.org\/static\/img\/opengraph-logo.72382e605ce3.png",
+                "from_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/Events",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/developer.mozilla.org\/static\/img\/favicon144.e7e21ca263ca.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/Events"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "408c9893-c88a-42e1-9771-2ce6e8ffdaf4",
+        "type": "message",
+        "text": "<https:\/\/javascript.info\/bubbling-and-capturing>",
+        "user": "UHEJYFVV0",
+        "ts": "1555253669.004200"
+    },
+    {
+        "client_msg_id": "5eaa65e1-57ad-4498-8ee4-8fcb09aa30a0",
+        "type": "message",
+        "text": "Zadanie: Po kliknięciu w Pokemona chcę nad listą zobaczyć jego imię i wartość height",
+        "user": "UHEJYFVV0",
+        "ts": "1555253979.004800"
+    },
+    {
+        "type": "message",
+        "text": "JavaScript po polsku w pigule",
+        "files": [
+            {
+                "id": "FHPENSQQH",
+                "created": 1555254262,
+                "timestamp": 1555254262,
+                "name": "README.pdf",
+                "title": "README.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UHEJYFVV0",
+                "editable": false,
+                "size": 221744,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHPENSQQH\/readme.pdf?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHPENSQQH\/download\/readme.pdf?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHPENSQQH-83b93e37e8\/readme_thumb_pdf.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UHEJYFVV0\/FHPENSQQH\/readme.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHPENSQQH-7e8a362744",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UHEJYFVV0",
+        "display_as_bot": false,
+        "ts": "1555254263.005000",
+        "client_msg_id": "1a62a4f6-d233-4846-b3ac-24581f2cac50"
+    },
+    {
+        "client_msg_id": "ebeb9314-7186-4086-bd99-1829985f824d",
+        "type": "message",
+        "text": "<http:\/\/127.0.0.1:5500\/data\/sweets-collection.json>",
+        "user": "UHEJYFVV0",
+        "ts": "1555255481.005500"
+    },
+    {
+        "client_msg_id": "119c7bab-d478-4e11-915a-e56d99317a4c",
+        "type": "message",
+        "text": "<http:\/\/fabiensanglard.net\/floating_point_visually_explained\/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=learn>",
+        "user": "UHEJYFVV0",
+        "ts": "1555256955.006000",
+        "attachments": [
+            {
+                "title": "Floating Point Visually Explained",
+                "title_link": "http:\/\/fabiensanglard.net\/floating_point_visually_explained\/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn",
+                "text": "Floating Point Visually Explained",
+                "fallback": "Floating Point Visually Explained",
+                "from_url": "http:\/\/fabiensanglard.net\/floating_point_visually_explained\/?utm_source=hackernewsletter&utm_medium=email&utm_term=learn",
+                "service_icon": "http:\/\/fabiensanglard.net\/favicon.ico",
+                "service_name": "fabiensanglard.net",
+                "id": 1,
+                "original_url": "http:\/\/fabiensanglard.net\/floating_point_visually_explained\/?utm_source=hackernewsletter&amp;utm_medium=email&amp;utm_term=learn"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6fffa874-4d87-4436-b0fb-6ee487cb432d",
+        "type": "message",
+        "text": "<https:\/\/www.dropbox.com\/s\/w2l5dqxuel4xvx8\/Screenshot%202019-04-14%2017.54.41.png?dl=0>",
+        "user": "UHEJYFVV0",
+        "ts": "1555257283.006300"
+    },
+    {
+        "client_msg_id": "8bd2663b-393a-4282-9b53-936cbf276bee",
+        "type": "message",
+        "text": "<https:\/\/www.dropbox.com\/s\/ajbkf2b2wzwmfox\/Screenshot%202019-04-14%2018.01.11.png?dl=0>",
+        "user": "UHEJYFVV0",
+        "ts": "1555257674.006600"
+    },
+    {
+        "client_msg_id": "d3d77966-41bb-4acb-b461-ccc2a9e37f6b",
+        "type": "message",
+        "text": "<https:\/\/css-tricks.com\/the-difference-between-throttling-and-debouncing\/>",
+        "user": "UFNNXNNBT",
+        "ts": "1555262756.006900",
+        "attachments": [
+            {
+                "service_name": "CSS-Tricks",
+                "title": "The Difference Between Throttling and Debouncing | CSS-Tricks",
+                "title_link": "https:\/\/css-tricks.com\/the-difference-between-throttling-and-debouncing\/",
+                "text": "I got these confused the other day and someone corrected me. So I tossed it on the ol' list of blog post ideas and here we are. Both of them are ways to",
+                "fallback": "CSS-Tricks: The Difference Between Throttling and Debouncing | CSS-Tricks",
+                "thumb_url": "https:\/\/css-tricks.com\/wp-content\/uploads\/2014\/03\/css-tricks-star.png",
+                "ts": 1433963090,
+                "from_url": "https:\/\/css-tricks.com\/the-difference-between-throttling-and-debouncing\/",
+                "thumb_width": 512,
+                "thumb_height": 512,
+                "service_icon": "https:\/\/css-tricks.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/css-tricks.com\/the-difference-between-throttling-and-debouncing\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "960b90b7-c806-4f6e-81d8-736af94ae1a6",
+        "type": "message",
+        "text": "Przypominam, że 11 maja też mamy razem zajęcia :slightly_smiling_face: Chciałbym, żebyście przeczytali artykuły, które podesłałem w tym tygodniu i spróbowali w ramach ćwiczenia wykonać kilka rzeczy w naszym przykładzie z pokemonami:\n- pod listą wyświetlcie przyciski “next page”, który sprawi, że lista się wyczyści i załadowania zostane kolejne 20 pokemonów (podpwiedź: w każdej odpowiedzi z listą pokemonów pojawia się atrybut “next”, z linkiem do kolejnej strony);\n- sprawcie, żeby szczegóły pokemona pojawiały się pod jego nazwą na liście (nie tak jak teraz na górze strony) - w efekcie będziemy mogli zobaczyć szczegóły więcej niż jednego pokemona jednocześnie",
+        "user": "UHEJYFVV0",
+        "ts": "1555271806.010700"
+    },
+    {
+        "client_msg_id": "4bc5967d-ee09-4bec-9fbf-c1a244874e64",
+        "type": "message",
+        "text": "w razie problemów piszcie :wink:",
+        "user": "UHEJYFVV0",
+        "ts": "1555271820.011100"
+    },
+    {
+        "client_msg_id": "bfe45044-6f78-468a-91c1-99a422610c09",
+        "type": "message",
+        "text": "<@UFP1NEA4F> - możesz to wykorzystać jako element pracy domowej",
+        "user": "UHEJYFVV0",
+        "ts": "1555271831.011400"
+    },
+    {
+        "client_msg_id": "fcd4f372-50a8-4f39-b6cc-8d32fd1963ea",
+        "type": "message",
+        "text": "<@UFP1NEA4F> - zajrzyj do sekcji admin tego workspace’a - powinien być już gotowy plik z exportem - wgraj go tu proszę :wink:",
+        "user": "UHEJYFVV0",
+        "ts": "1555271857.012000"
+    },
+    {
+        "client_msg_id": "4aae8c83-00d2-44da-8ef7-a19effaf0cd0",
+        "type": "message",
+        "text": "<@UHEJYFVV0> tak będzie! :smile:",
+        "user": "UFP1NEA4F",
+        "ts": "1555271885.012400"
+    },
+    {
+        "client_msg_id": "2060b954-2d80-41e1-8a36-7b4c45734360",
+        "type": "message",
+        "text": "Poza tym w temacie przetwarzania danych: <https:\/\/edabit.com\/collection\/NAhTLFzByMouESqDB>",
+        "user": "UHEJYFVV0",
+        "ts": "1555271911.012700",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFP1NEA4F"
+                ],
+                "count": 1
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "UG1M63BEJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "33a2f8b4-f4e9-4743-b443-0d7b97d3674a",
+        "type": "message",
+        "text": "to jest kolekcja moich zadań na edabit",
+        "user": "UHEJYFVV0",
+        "ts": "1555271918.013000"
+    },
+    {
+        "client_msg_id": "8524075a-fdbc-487f-bcf7-d3d7445ce1d8",
+        "type": "message",
+        "text": "Za 4 tygodnie chciałbym, żeby każdy miał je zrobione - to są najczęstsze przypadki przetwarzania danych wykorzystywane w praktyce",
+        "user": "UHEJYFVV0",
+        "ts": "1555271999.014100"
+    },
+    {
+        "client_msg_id": "a503ba68-bd19-4658-8972-db8a744b251b",
+        "type": "message",
+        "text": "Za 4 tygodnie mamy razem 6h, więc nastawcie się, że będzie intensywniej niż dzisiaj",
+        "user": "UHEJYFVV0",
+        "ts": "1555272048.014600",
+        "reactions": [
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "UG693FN7L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHJDWPQ6N",
+                "created": 1555272136,
+                "timestamp": 1555272136,
+                "name": "isajfdz11 Slack export Jan 24 2019 - Apr 14 2019.zip",
+                "title": "isajfdz11 Slack export Jan 24 2019 - Apr 14 2019.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "UFP1NEA4F",
+                "editable": false,
+                "size": 176892,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHJDWPQ6N\/isajfdz11_slack_export_jan_24_2019_-_apr_14_2019.zip?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHJDWPQ6N\/download\/isajfdz11_slack_export_jan_24_2019_-_apr_14_2019.zip?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP1NEA4F\/FHJDWPQ6N\/isajfdz11_slack_export_jan_24_2019_-_apr_14_2019.zip",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHJDWPQ6N-1c570da530",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP1NEA4F",
+        "display_as_bot": false,
+        "ts": "1555272136.014700",
+        "client_msg_id": "d5d2f3b1-0bbd-47ad-a074-32d677d39ea5",
+        "thread_ts": "1555272136.014700",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1557563611.000200",
+        "reply_users": [
+            "UFP1NEA4F"
+        ],
+        "replies": [
+            {
+                "user": "UFP1NEA4F",
+                "ts": "1557563611.000200"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UHEJYFVV0"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "012aa0e8-9c53-464d-bb44-a922216903e2",
+        "type": "message",
+        "text": "Jeżeli otworzycie powyższy folder w VSCode, to możecie dodać sobie tam plik index.html i z użyciem fetcha pobrać pliki z rozmowami z katalogu general :wink:",
+        "user": "UHEJYFVV0",
+        "ts": "1555272250.015800"
+    },
+    {
+        "client_msg_id": "39ea6934-5d28-40aa-aa02-da479cf5d0c2",
+        "type": "message",
+        "text": "czyli: można sobie zrobić klona slacka",
+        "user": "UHEJYFVV0",
+        "ts": "1555272258.016100"
+    },
+    {
+        "client_msg_id": "9f160402-bd1c-437a-944a-cff0483d923b",
+        "type": "message",
+        "text": "takiego “tylko do odczytu”",
+        "user": "UHEJYFVV0",
+        "ts": "1555272266.016300"
+    },
+    {
+        "client_msg_id": "6c555442-4864-49af-9043-0a744a731f21",
+        "type": "message",
+        "text": "tylko nie commitujcie tego do publicznego repozytorium",
+        "user": "UHEJYFVV0",
+        "ts": "1555272275.016700"
+    },
+    {
+        "client_msg_id": "03756be3-2fdc-4a25-afc5-2a0c0bdcc025",
+        "type": "message",
+        "text": "(ewentualnie dodając katalog z rozmowami do .gitignore)",
+        "user": "UHEJYFVV0",
+        "ts": "1555272297.017300",
+        "reactions": [
+            {
+                "name": "dizzy",
+                "users": [
+                    "UG693FN7L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba8c9fda-145e-471c-a7f0-e052805d2a20",
+        "type": "message",
+        "text": "Przypominam o  ankiecie :slightly_smiling_face:\n<https:\/\/ankiety.is-academy.pl\/poll\/-LDjsR30ylyU72y0gH8E\/-Lb8_OY_f4bI0ssDGFFF>",
+        "user": "UFP1NEA4F",
+        "ts": "1555272317.017700"
+    },
+    {
+        "client_msg_id": "533ff43e-80ff-4bf1-9b1f-980df9979636",
+        "type": "message",
+        "text": "Ponadto: za 4 tygodnie będziemy robić takiego klona na zajęciach, więc spróbujcie się przed tym zmierzyć z tym sami :wink:",
+        "user": "UHEJYFVV0",
+        "ts": "1555272343.018300"
+    }
+]

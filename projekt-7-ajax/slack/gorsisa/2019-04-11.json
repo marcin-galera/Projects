@@ -1,0 +1,94 @@
+[
+    {
+        "client_msg_id": "260022c6-d492-426d-a933-d85388bd07bc",
+        "type": "message",
+        "text": "Siema, będzie ktoś coś działał z developem? ja po południu działam z:\n \"Podświetlanie w nawigacji aktualnie oglądanej sekcji strony\"",
+        "user": "UFP7290SG",
+        "ts": "1554974301.000500"
+    },
+    {
+        "client_msg_id": "0a6fabf9-bf85-45b3-bfcd-ac558a76aed0",
+        "type": "message",
+        "text": "P.S. dziś z dyrektorem mam rozmowę odnośnie przejścia na 3\/4 etatu, więc trzymajcie kciuki.",
+        "user": "UFP7290SG",
+        "ts": "1554974340.001800"
+    },
+    {
+        "client_msg_id": "a5f00a53-1851-4053-9698-27ba5fb1d4b6",
+        "type": "message",
+        "text": "Ja mam zamiar slider poprawić, chociaż dziś śmigam do Gdańska bo garniaka na wesele muszę kupić to nie będę miał dużo czasu.  No to ja trzymam kciuki za podawietlanie i za pozytywną rozmowę z dyrem :D",
+        "user": "UG1M63BEJ",
+        "ts": "1554974398.003100"
+    },
+    {
+        "type": "message",
+        "text": "Powodzenia! Obczaj ten:",
+        "files": [
+            {
+                "id": "FHLME4FRP",
+                "created": 1554974667,
+                "timestamp": 1554974667,
+                "name": "comment_NkiyP6ReMlGhEJbkwZ1Ceqk0B6mHCOWx.jpg",
+                "title": "comment_NkiyP6ReMlGhEJbkwZ1Ceqk0B6mHCOWx.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UFP7290SG",
+                "editable": false,
+                "size": 83615,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHLME4FRP\/comment_nkiyp6remlghejbkwz1ceqk0b6mhcowx.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHLME4FRP\/download\/comment_nkiyp6remlghejbkwz1ceqk0b6mhcowx.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLME4FRP-c82a50fbcb\/comment_nkiyp6remlghejbkwz1ceqk0b6mhcowx_64.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLME4FRP-c82a50fbcb\/comment_nkiyp6remlghejbkwz1ceqk0b6mhcowx_80.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLME4FRP-c82a50fbcb\/comment_nkiyp6remlghejbkwz1ceqk0b6mhcowx_360.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLME4FRP-c82a50fbcb\/comment_nkiyp6remlghejbkwz1ceqk0b6mhcowx_480.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLME4FRP-c82a50fbcb\/comment_nkiyp6remlghejbkwz1ceqk0b6mhcowx_160.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLME4FRP-c82a50fbcb\/comment_nkiyp6remlghejbkwz1ceqk0b6mhcowx_720.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLME4FRP-c82a50fbcb\/comment_nkiyp6remlghejbkwz1ceqk0b6mhcowx_800.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 600,
+                "thumb_800_h": 800,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLME4FRP-c82a50fbcb\/comment_nkiyp6remlghejbkwz1ceqk0b6mhcowx_960.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "image_exif_rotation": 1,
+                "original_w": 768,
+                "original_h": 1024,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP7290SG\/FHLME4FRP\/comment_nkiyp6remlghejbkwz1ceqk0b6mhcowx.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHLME4FRP-9c9c73470a",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP7290SG",
+        "display_as_bot": false,
+        "ts": "1554974670.003400",
+        "client_msg_id": "28cd826e-1f4e-4a46-9b47-c757ed94e892"
+    },
+    {
+        "client_msg_id": "d3e9fcf8-ce69-46fe-a739-03e0ea6786df",
+        "type": "message",
+        "text": "phahahah",
+        "user": "UG1M63BEJ",
+        "ts": "1554974773.003800"
+    },
+    {
+        "client_msg_id": "709501dd-2cf3-4851-b12f-b20c04023e25",
+        "type": "message",
+        "text": "jaki kartofel",
+        "user": "UG1M63BEJ",
+        "ts": "1554974781.004000"
+    }
+]

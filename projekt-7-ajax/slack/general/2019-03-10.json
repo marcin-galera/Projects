@@ -1,0 +1,120 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FGU2TUXB6",
+                "created": 1552226628,
+                "timestamp": 1552226628,
+                "name": "Git 3.pdf",
+                "title": "Git 3.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UGA46DPAT",
+                "editable": false,
+                "size": 661126,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FGU2TUXB6\/git_3.pdf?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FGU2TUXB6\/download\/git_3.pdf?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FGU2TUXB6-8923c00e27\/git_3_thumb_pdf.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_pdf_w": 1100,
+                "thumb_pdf_h": 619,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UGA46DPAT\/FGU2TUXB6\/git_3.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FGU2TUXB6-d43e1454d0",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UGA46DPAT",
+        "display_as_bot": false,
+        "ts": "1552226630.010500"
+    },
+    {
+        "client_msg_id": "54b7042d-7154-4e09-a002-d8488a69ea56",
+        "type": "message",
+        "text": "<https:\/\/github.com\/infoshareacademy\/jfdz11-git.git>",
+        "user": "UGA46DPAT",
+        "ts": "1552228986.011100"
+    },
+    {
+        "client_msg_id": "37b60779-f93c-452c-b045-53462477ba6e",
+        "type": "message",
+        "text": "git remote set-url origin ssh:\/\/&lt;URL&gt;",
+        "user": "UGA46DPAT",
+        "ts": "1552235097.011900"
+    },
+    {
+        "client_msg_id": "5bf7efdf-c804-43af-9a11-a49d10faaf27",
+        "type": "message",
+        "text": "<https:\/\/git-lfs.github.com\/>",
+        "user": "UGA46DPAT",
+        "ts": "1552237259.012200"
+    },
+    {
+        "client_msg_id": "9148901f-1490-4115-aa50-e76d2d1ca39b",
+        "type": "message",
+        "text": "<https:\/\/git-scm.com\/book\/pl\/v2> (oficjalny podręcznik gita)",
+        "user": "UGA46DPAT",
+        "ts": "1552237538.012400"
+    },
+    {
+        "client_msg_id": "c3170a83-f871-4b43-9026-519b60f00364",
+        "type": "message",
+        "text": "<https:\/\/help.github.com\/>       (pomoc <http:\/\/github.com|github.com>)",
+        "user": "UGA46DPAT",
+        "ts": "1552237545.012600"
+    },
+    {
+        "client_msg_id": "36856498-6f8b-44f0-9b5f-39ce1b7074a7",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=D6EI7EbEN4Q&amp;list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH> (video kurs gita)",
+        "user": "UGA46DPAT",
+        "ts": "1552237551.012800",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Praktyczny kurs Git - #1\/12 Czym jest Git?",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=D6EI7EbEN4Q",
+                "author_name": "overment",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC_MIaHmSkt9JHNZfQ_gUmrg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/D6EI7EbEN4Q\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Praktyczny kurs Git - #1\/12 Czym jest Git?",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/D6EI7EbEN4Q?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=D6EI7EbEN4Q",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=D6EI7EbEN4Q&amp;list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "64d2a988-e050-4529-8ca8-eb57adb01833",
+        "type": "message",
+        "text": "<!channel> Prośba o wypełnienie ankiety :slightly_smiling_face:\n<https:\/\/ankiety.is-academy.pl\/poll\/-LDjsR30ylyU72y0gH8E\/-L_DVZpaWQCSkh98Ds__>",
+        "user": "UFP1NEA4F",
+        "ts": "1552247829.013300",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UFR1Y38B1",
+                    "UG1M63BEJ"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

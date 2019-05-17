@@ -1,0 +1,44 @@
+[
+    {
+        "client_msg_id": "f99ea7d4-f531-4b3d-86f7-d43553d6b2fd",
+        "type": "message",
+        "text": "Zapisuje fefaq.pl :wink:",
+        "user": "UFNFNGQPL",
+        "ts": "1550345968.001500",
+        "thread_ts": "1550345968.001500",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1550346028.003300",
+        "reply_users": [
+            "UFP1NEA4F"
+        ],
+        "replies": [
+            {
+                "user": "UFP1NEA4F",
+                "ts": "1550346001.002300"
+            },
+            {
+                "user": "UFP1NEA4F",
+                "ts": "1550346028.003300"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "179A15B7-AA93-4E26-B41F-6C65BD40ECCB",
+        "type": "message",
+        "text": "Tworca jest jeden z trenerow akademii Tomasz Nastały!",
+        "user": "UFP1NEA4F",
+        "ts": "1550346001.002300",
+        "thread_ts": "1550345968.001500",
+        "parent_user_id": "UFNFNGQPL"
+    },
+    {
+        "client_msg_id": "F15FE812-FED5-49E1-805A-1FBCD5F118BD",
+        "type": "message",
+        "text": "Organizator Angular Tricity, Anguler ogolnie cienki ale zapraszam na meetup w najbliższy wtorek",
+        "user": "UFP1NEA4F",
+        "ts": "1550346028.003300",
+        "thread_ts": "1550345968.001500",
+        "parent_user_id": "UFNFNGQPL"
+    }
+]

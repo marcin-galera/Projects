@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Slack</title>
+</head>
+<body>
+  <div id="channels">
+
+  </div>
+  <div id="messages">
+
+  </div>
+  <script>
+    const channelsNode = document.querySelector('#channels');
+    const messagesNode = document.querySelector('#messages');
+
+    Promise.all([getUsers(), getChannels()]).then(
+      ([users, channels]) => {
+        const buttonNode = document.createElement('button');
+        buttonNode.textContent = 'show favs';
+        buttonNode.addEventListener('click', () => {
+          fetch('http://localhost:3000/favs').then(
+            response => response.json()
+          ).then(
+            clearMessages
+          ).then(
+            favs => favs.forEach(message => {
+                  displayMessage(message, users)
+                }) 
+          )
+        })
+        channelsNode.append(buttonNode);
+        refreshChannels(channels, users)
+      }
+    )
+   
+    function refreshChannels(channels, users) {
+      channels.forEach(channel => {
+        const channelNode = document.createElement('div');
+        channelNode.textContent = channel.name
+        channelNode.addEventListener('click', () => {
+          getChannel(channel.name).then(
+            dates => {
+              clearMessages()
+
+              const datePromises = dates.map(
+                date => getMessages(channel.name, date)
+              )
+
+              Promise.all(datePromises).then(
+                messagesPerDate => messagesPerDate.flat().forEach(message => {
+                  displayMessage(message, users)
+                }) 
+              )
+            }
+          )
+        })
+        channelsNode.appendChild(channelNode);
+      })          
+    }
+
+    function clearMessages(data) {
+      while (messagesNode.firstChild) {
+        messagesNode.removeChild(messagesNode.firstChild)
+      }
+      return Promise.resolve(data)
+    }
+
+    function displayMessage(message, users) {
+      const user = users[message.user]
+      const messageNode = document.createElement('div');
+      messageNode.textContent = message.text.replace(/<@([^>]+)>/g, (match, group1) => '<@' + users[group1].name + '>')
+      const userNode = document.createElement('strong');
+      userNode.textContent = user.name
+      messageNode.prepend(userNode);
+      const imageNode = document.createElement('img');
+      imageNode.setAttribute('src', user.profile.image_24);
+      userNode.prepend(imageNode);
+
+      messageNode.addEventListener('click', () => {
+        fetch('http://localhost:3000/favs', {
+          method: 'POST',
+          body: JSON.stringify(message), 
+          headers:{
+            'Content-Type': 'application/json'
+          }
+        })
+      })
+
+      messagesNode.appendChild(messageNode);
+    }
+
+    function getUsers() {
+      return fetch('/slack/users.json').then(
+        response => response.json()
+      ).then(
+        users => {
+          return users.reduce((result, next) => {
+            result[next.id] = next
+            return result
+          }, {})
+        }
+      )
+    }
+
+    function getChannels() {
+      return fetch('/slack/channels.json').then(
+        response => response.json()
+      )
+    }
+
+    function getChannel(channelName) {
+      return fetch('http://localhost:3000/channels/' + channelName).then(
+        response => response.json()
+      )
+    }
+
+    function getMessages(channelName, date) {
+      return fetch(
+        '/slack/' + channelName + '/' + date
+      ).then(
+        response => response.json()
+      )
+    }
+    
+  </script>
+</body>
+</html>

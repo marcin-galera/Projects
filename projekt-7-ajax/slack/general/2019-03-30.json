@@ -1,0 +1,253 @@
+[
+    {
+        "client_msg_id": "e22095a3-5991-430a-9450-a36b07bb74da",
+        "type": "message",
+        "text": "const bike = {\n    name: \"Rower\",\n    size: 24,\n    km: 1,\n    sayMyName: function() {\n        console.log(this.name);\n    },\n\n    go: function() {\n        <http:\/\/this.km|this.km>++;\n\n        return <http:\/\/this.km|this.km>;\n    },\n\n    stop: function() {\n\n    },\n};\n\n\nconsole.log(bike);\nconsole.log(bike.go())\nconsole.log(bike.go())\nconsole.log(bike.go())\nconsole.log(bike.go())\nconsole.log(bike);",
+        "user": "UFP4ZJ4DN",
+        "ts": "1553958578.000200"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHGEZ206R",
+                "created": 1553958826,
+                "timestamp": 1553958826,
+                "name": "image.png",
+                "title": "Pasted image at 2019-03-30, 4:16 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UG693FN7L",
+                "editable": false,
+                "size": 69508,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHGEZ206R\/image.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHGEZ206R\/download\/image.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHGEZ206R-683217b409\/image_64.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHGEZ206R-683217b409\/image_80.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHGEZ206R-683217b409\/image_360.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 284,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHGEZ206R-683217b409\/image_480.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 480,
+                "thumb_480_h": 379,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHGEZ206R-683217b409\/image_160.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHGEZ206R-683217b409\/image_720.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 720,
+                "thumb_720_h": 568,
+                "image_exif_rotation": 1,
+                "original_w": 765,
+                "original_h": 604,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UG693FN7L\/FHGEZ206R\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHGEZ206R-69a5d58373",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UG693FN7L",
+        "display_as_bot": false,
+        "ts": "1553958827.000300",
+        "client_msg_id": "7f4df6b4-0d35-43c2-8802-961108de57a3",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UFNNXNNBT",
+                    "UFP4ZJ4DN"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bed83474-db4f-49d1-aadd-7a85ff2e2c23",
+        "type": "message",
+        "text": "<https:\/\/medium.freecodecamp.org\/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26>",
+        "user": "UG693FN7L",
+        "ts": "1553958829.000700",
+        "edited": {
+            "user": "UG693FN7L",
+            "ts": "1553958834.000000"
+        }
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHHL8G0LW",
+                "created": 1553969500,
+                "timestamp": 1553969500,
+                "name": "-.txt",
+                "title": "Untitled",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UFP4ZJ4DN",
+                "editable": true,
+                "size": 701,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHHL8G0LW\/-.txt?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHHL8G0LW\/download\/-.txt?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP4ZJ4DN\/FHHL8G0LW\/-.txt",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHHL8G0LW-ca850dcfc6",
+                "edit_link": "https:\/\/isajfdz11.slack.com\/files\/UFP4ZJ4DN\/FHHL8G0LW\/-.txt\/edit",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP4ZJ4DN",
+        "display_as_bot": false,
+        "ts": "1553969501.001300"
+    },
+    {
+        "client_msg_id": "353fca7d-f953-4e33-9fe2-eadbf7b41678",
+        "type": "message",
+        "text": "<http:\/\/reduce.surge.sh\/>",
+        "user": "UFP4ZJ4DN",
+        "ts": "1553970238.001700"
+    },
+    {
+        "client_msg_id": "9e4cb55c-6dc1-4e7d-966a-90bd1480c02e",
+        "type": "message",
+        "text": "for (let i = 0; i &lt; table2.length; j++) {\n    console.log(table2[i])\n}\n\ntable2.forEach(function(element) {\n    console.log(element)\n})",
+        "user": "UFP4ZJ4DN",
+        "ts": "1553970369.001900"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHG6M5ULC",
+                "created": 1553970427,
+                "timestamp": 1553970427,
+                "name": "-.txt",
+                "title": "Untitled",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UFP4ZJ4DN",
+                "editable": true,
+                "size": 968,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHG6M5ULC\/-.txt?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHG6M5ULC\/download\/-.txt?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP4ZJ4DN\/FHG6M5ULC\/-.txt",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHG6M5ULC-22744a80c6",
+                "edit_link": "https:\/\/isajfdz11.slack.com\/files\/UFP4ZJ4DN\/FHG6M5ULC\/-.txt\/edit",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP4ZJ4DN",
+        "display_as_bot": false,
+        "ts": "1553970427.002000"
+    },
+    {
+        "client_msg_id": "51a19bff-1ffa-4871-a2ec-c2bb488d4ba3",
+        "type": "message",
+        "text": "Duplikacja linii: Windows:\n\nShift+Alt+Down and Shift+Alt+Up",
+        "user": "UFP4ZJ4DN",
+        "ts": "1553970704.002400"
+    },
+    {
+        "client_msg_id": "a52ab700-0b96-4a56-adc2-bf2918b6613d",
+        "type": "message",
+        "text": "const names = \"anna maciej michal Monika JOANNA\";\n\nconst namesArray = names.split(' ');\nconsole.log(namesArray)\n\nconst females = namesArray.filter(function(name) {\n    return name.charAt(name.length-1)\n        .toLowerCase() === 'a';\n})\n\nconsole.log(females)",
+        "user": "UFP4ZJ4DN",
+        "ts": "1553972467.002700"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHHA1E363",
+                "created": 1553972618,
+                "timestamp": 1553972618,
+                "name": "-.txt",
+                "title": "Untitled",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UFP4ZJ4DN",
+                "editable": true,
+                "size": 581,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHHA1E363\/-.txt?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHHA1E363\/download\/-.txt?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP4ZJ4DN\/FHHA1E363\/-.txt",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHHA1E363-5031c62824",
+                "edit_link": "https:\/\/isajfdz11.slack.com\/files\/UFP4ZJ4DN\/FHHA1E363\/-.txt\/edit",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP4ZJ4DN",
+        "display_as_bot": false,
+        "ts": "1553972618.003300"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHHAK0GLX",
+                "created": 1553975899,
+                "timestamp": 1553975899,
+                "name": "-.txt",
+                "title": "Untitled",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UFP4ZJ4DN",
+                "editable": true,
+                "size": 4426,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHHAK0GLX\/-.txt?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHHAK0GLX\/download\/-.txt?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP4ZJ4DN\/FHHAK0GLX\/-.txt",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHHAK0GLX-cd9201b02f",
+                "edit_link": "https:\/\/isajfdz11.slack.com\/files\/UFP4ZJ4DN\/FHHAK0GLX\/-.txt\/edit",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP4ZJ4DN",
+        "display_as_bot": false,
+        "ts": "1553975899.003600"
+    }
+]

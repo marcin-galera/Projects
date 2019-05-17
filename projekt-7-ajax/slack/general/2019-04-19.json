@@ -1,0 +1,66 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel>",
+        "files": [
+            {
+                "id": "FJ3GK3V4N",
+                "created": 1555677862,
+                "timestamp": 1555677862,
+                "name": "Have a Happy Easter!-5.png",
+                "title": "Have a Happy Easter!-5.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFP1WTUP9",
+                "editable": false,
+                "size": 160446,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FJ3GK3V4N\/have_a_happy_easter_-5.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FJ3GK3V4N\/download\/have_a_happy_easter_-5.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FJ3GK3V4N-93f1f0bab5\/have_a_happy_easter_-5_64.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FJ3GK3V4N-93f1f0bab5\/have_a_happy_easter_-5_80.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FJ3GK3V4N-93f1f0bab5\/have_a_happy_easter_-5_360.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 302,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FJ3GK3V4N-93f1f0bab5\/have_a_happy_easter_-5_480.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 480,
+                "thumb_480_h": 402,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FJ3GK3V4N-93f1f0bab5\/have_a_happy_easter_-5_160.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FJ3GK3V4N-93f1f0bab5\/have_a_happy_easter_-5_720.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 720,
+                "thumb_720_h": 604,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FJ3GK3V4N-93f1f0bab5\/have_a_happy_easter_-5_800.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 671,
+                "image_exif_rotation": 1,
+                "original_w": 940,
+                "original_h": 788,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP1WTUP9\/FJ3GK3V4N\/have_a_happy_easter_-5.png",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FJ3GK3V4N-9a1185d32b",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP1WTUP9",
+        "display_as_bot": false,
+        "ts": "1555677865.000200",
+        "client_msg_id": "a7afedac-6223-4a8e-9915-76a9ffe50d80",
+        "reactions": [
+            {
+                "name": "smiley",
+                "users": [
+                    "UG1M63BEJ",
+                    "UFPC99HFT"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

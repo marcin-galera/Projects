@@ -1,0 +1,101 @@
+[
+    {
+        "client_msg_id": "cdbe0325-1ad2-42e0-9b2a-04b9405d3a2c",
+        "type": "message",
+        "text": "<https:\/\/static.zbierak.com\/images\/static\/287\/87\/3811082287.jpeg>",
+        "user": "UG693FN7L",
+        "ts": "1552232348.004300",
+        "attachments": [
+            {
+                "fallback": "600x795px image",
+                "image_url": "https:\/\/static.zbierak.com\/images\/static\/287\/87\/3811082287.jpeg",
+                "image_width": 600,
+                "image_height": 795,
+                "image_bytes": 87082,
+                "from_url": "https:\/\/static.zbierak.com\/images\/static\/287\/87\/3811082287.jpeg",
+                "id": 1,
+                "original_url": "https:\/\/static.zbierak.com\/images\/static\/287\/87\/3811082287.jpeg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f23a92a-d29b-4066-81eb-346feaa3673e",
+        "type": "message",
+        "text": "polecasz?",
+        "user": "UFPBXQW73",
+        "ts": "1552233005.004600",
+        "thread_ts": "1552233005.004600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1552233410.004700",
+        "reply_users": [
+            "UG693FN7L"
+        ],
+        "replies": [
+            {
+                "user": "UG693FN7L",
+                "ts": "1552233410.004700"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f2d5a2a5-618e-4dc1-af7e-70d5486c51f8",
+        "type": "message",
+        "text": "jeżeli planujesz programowanie pralek :sweat_smile:",
+        "user": "UG693FN7L",
+        "ts": "1552233410.004700",
+        "thread_ts": "1552233005.004600",
+        "parent_user_id": "UFPBXQW73",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UFRCP5Q4E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb7b5f39-459f-44ea-a2bb-cdea49df5c31",
+        "type": "message",
+        "text": "kurla wszystkiego",
+        "user": "UFPBXQW73",
+        "ts": "1552235107.005100"
+    },
+    {
+        "client_msg_id": "8ffd4dac-46db-45d3-ad98-2b6aed8ad080",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=1g6QTpOGDzU>",
+        "user": "UFP7290SG",
+        "ts": "1552237332.005400",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Praktyczny kurs Git - #12\/12 Tagi",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=1g6QTpOGDzU",
+                "author_name": "overment",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC_MIaHmSkt9JHNZfQ_gUmrg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/1g6QTpOGDzU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Praktyczny kurs Git - #12\/12 Tagi",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/1g6QTpOGDzU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=1g6QTpOGDzU",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=1g6QTpOGDzU"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6b554b1d-1733-490e-b89f-79ab00a231c9",
+        "type": "message",
+        "text": "polski tutorial",
+        "user": "UFP7290SG",
+        "ts": "1552237338.005700"
+    }
+]

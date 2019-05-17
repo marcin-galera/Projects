@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "114fc480-0109-40d5-897b-86292651f8c6",
+        "type": "message",
+        "text": "<https:\/\/observablehq.com\/@ahilles107\/javascript-classes>",
+        "user": "UHKFQ75A4",
+        "ts": "1555160874.000200",
+        "attachments": [
+            {
+                "title": "Javascript Classes",
+                "title_link": "https:\/\/observablehq.com\/@ahilles107\/javascript-classes",
+                "text": "An Observable notebook by Paweł Mikołajczuk.",
+                "fallback": "Javascript Classes",
+                "image_url": "https:\/\/static.observableusercontent.com\/thumbnail\/e2b5e67520e0249b10b568dae050f944a58887c9159b28658f674f87875baf13.jpg",
+                "ts": 1555097711,
+                "from_url": "https:\/\/observablehq.com\/@ahilles107\/javascript-classes",
+                "image_width": 400,
+                "image_height": 250,
+                "image_bytes": 21503,
+                "service_icon": "https:\/\/static.observablehq.com\/favicon-512.e85350a27dfadeea7c7c78c797c24419525df5579de174d86d258c40ae57473a.png",
+                "service_name": "observablehq.com",
+                "id": 1,
+                "original_url": "https:\/\/observablehq.com\/@ahilles107\/javascript-classes"
+            }
+        ]
+    }
+]

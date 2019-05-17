@@ -1,0 +1,114 @@
+[
+    {
+        "client_msg_id": "aebb321f-3239-4d8e-9206-31b3898d945d",
+        "type": "message",
+        "text": "Chodzi o funkcje, które są wywoływane w reakcji na jakieś zdarzenie",
+        "user": "UHEJYFVV0",
+        "ts": "1555235732.002100",
+        "thread_ts": "1555216278.001100",
+        "parent_user_id": "UFNFNGQPL"
+    },
+    {
+        "client_msg_id": "48ad7117-b898-47f9-9175-59c072cff2fa",
+        "type": "message",
+        "text": "“są wywoływane”, bo to nie my je wywołujemy jawnie, tylko przekazujemy ich referencję jak argument do innej funkcji i ta “inna funkcja” wywoła je za nas",
+        "user": "UHEJYFVV0",
+        "ts": "1555235773.002300",
+        "thread_ts": "1555216278.001100",
+        "parent_user_id": "UFNFNGQPL"
+    },
+    {
+        "client_msg_id": "466694b6-b2fd-4aa5-a451-8d20dd5154e2",
+        "type": "message",
+        "text": "np. `element.addEventListener('click', ourFunction)`",
+        "user": "UHEJYFVV0",
+        "ts": "1555235799.002500",
+        "edited": {
+            "user": "UHEJYFVV0",
+            "ts": "1555235875.000000"
+        },
+        "thread_ts": "1555216278.001100",
+        "parent_user_id": "UFNFNGQPL"
+    },
+    {
+        "client_msg_id": "3723d9b2-e4e6-43e4-b66c-122952c8442d",
+        "type": "message",
+        "text": "przeglądarka zrobi `ourFunction(event)` i sprawi, że `ourFunction` zostanie w ten sposób wywołane z argumentem, którym jest event kliknięcia - możemy z tego eventu odczytać różne cechy (co zostało kliknięte, jakie były współrzędne itp.)",
+        "user": "UHEJYFVV0",
+        "ts": "1555235856.002700",
+        "thread_ts": "1555216278.001100",
+        "parent_user_id": "UFNFNGQPL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UHKFQ75A4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cf1ace38-eea6-4a40-bc3c-f9d0dd05ec3f",
+        "type": "message",
+        "text": "Pamiętajcie też że handlery są wywoływane z Window (bez strict) ustawionym jako kontekst",
+        "user": "UHKFQ75A4",
+        "ts": "1555265876.003300",
+        "thread_ts": "1555216278.001100",
+        "parent_user_id": "UFNFNGQPL"
+    },
+    {
+        "client_msg_id": "df79947b-06a3-402a-8440-4a96dc2611f3",
+        "type": "message",
+        "text": "więc albo je bindujemy, albo używamy arrow function żeby pracowac na this",
+        "user": "UHKFQ75A4",
+        "ts": "1555265894.003500",
+        "thread_ts": "1555216278.001100",
+        "parent_user_id": "UFNFNGQPL"
+    },
+    {
+        "client_msg_id": "360c05c0-b5ba-4d5a-8773-9d740e2ac1e2",
+        "type": "message",
+        "text": "<@UHKFQ75A4> - to zależy :wink:",
+        "user": "UHEJYFVV0",
+        "ts": "1555272142.003700",
+        "thread_ts": "1555216278.001100",
+        "parent_user_id": "UFNFNGQPL",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UHKFQ75A4"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "89b2691b-af8e-4483-b210-06025d2f508a",
+        "type": "message",
+        "text": "w addEventListener pod this znajduje się event.currentTarget",
+        "user": "UHEJYFVV0",
+        "ts": "1555272153.003900",
+        "thread_ts": "1555216278.001100",
+        "parent_user_id": "UFNFNGQPL"
+    },
+    {
+        "client_msg_id": "4c10a44b-1230-4e06-b2af-fa686465d8b9",
+        "type": "message",
+        "text": "chyba, że używamy arrow function - wtedy `window`",
+        "user": "UHEJYFVV0",
+        "ts": "1555272171.004100",
+        "thread_ts": "1555216278.001100",
+        "parent_user_id": "UFNFNGQPL"
+    },
+    {
+        "client_msg_id": "edd5ace5-9831-4ee6-a337-c911fa0249ba",
+        "type": "message",
+        "text": "lub `undefined`, jeżeli użyjemy `use strict`",
+        "user": "UHEJYFVV0",
+        "ts": "1555272182.004300",
+        "thread_ts": "1555216278.001100",
+        "parent_user_id": "UFNFNGQPL"
+    }
+]

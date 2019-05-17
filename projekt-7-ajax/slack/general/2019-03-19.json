@@ -1,0 +1,19 @@
+[
+    {
+        "client_msg_id": "7b536783-c6d8-4f8b-b031-1666259e743e",
+        "type": "message",
+        "text": "cześć, od jutra do końca przyszłego tygodnia będę na urlopie, gdyby coś się działo ze sprzętem\/licencjami etc. proszę o kontakt z Wojtkiem Makuratem :slightly_smiling_face:",
+        "user": "UFMUTFP7U",
+        "ts": "1552991584.037700",
+        "reactions": [
+            {
+                "name": "beach_with_umbrella",
+                "users": [
+                    "UFNNXNNBT",
+                    "UFP1WTUP9"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

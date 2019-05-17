@@ -1,0 +1,34 @@
+[
+    {
+        "client_msg_id": "02f87356-4b84-4077-ae2a-7cfa7c65b144",
+        "type": "message",
+        "text": "<https:\/\/github.com\/infoshareacademy\/jfdz11-materialy-struktury-danych>\nDodałem prezentacje + te przyklady z prezentacji",
+        "user": "UFP4ZJ4DN",
+        "ts": "1552850186.035500",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFNFNGQPL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fa0265b2-9512-4a1b-b846-7ce5b5c4242a",
+        "type": "message",
+        "text": "Hej, przesyłam ankietę do wypełnienia :slightly_smiling_face:\n<https:\/\/ankiety.is-academy.pl\/poll\/-LDjsR30ylyU72y0gH8E\/-L_DW4G2UjXnfL7ThjZH>",
+        "user": "UFP1NEA4F",
+        "ts": "1552887886.036300",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UFR1Y38B1"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

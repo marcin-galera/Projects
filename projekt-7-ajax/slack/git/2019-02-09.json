@@ -1,0 +1,282 @@
+[
+    {
+        "user": "UFNFNGQPL",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549733987.000200",
+        "text": "<@UFNFNGQPL> has joined the channel"
+    },
+    {
+        "user": "UFRCP5Q4E",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734422.000400",
+        "text": "<@UFRCP5Q4E> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFPR4JWBE",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734422.000600",
+        "text": "<@UFPR4JWBE> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFNNXNNBT",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734422.000800",
+        "text": "<@UFNNXNNBT> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFP7290SG",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734423.001000",
+        "text": "<@UFP7290SG> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFPAWAHQC",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734423.001200",
+        "text": "<@UFPAWAHQC> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFU6GEY3T",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734423.001400",
+        "text": "<@UFU6GEY3T> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFPC99HFT",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734423.001600",
+        "text": "<@UFPC99HFT> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFP1NEA4F",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734423.001800",
+        "text": "<@UFP1NEA4F> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFPBXQW73",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734424.002000",
+        "text": "<@UFPBXQW73> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFR08FNEB",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734424.002200",
+        "text": "<@UFR08FNEB> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFR2DECFR",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734424.002400",
+        "text": "<@UFR2DECFR> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFPC1B9UZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734424.002600",
+        "text": "<@UFPC1B9UZ> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFP1WTUP9",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734424.002800",
+        "text": "<@UFP1WTUP9> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFP9WB0AV",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734424.003000",
+        "text": "<@UFP9WB0AV> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFXJCFX32",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734424.003200",
+        "text": "<@UFXJCFX32> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFXLR7Y2D",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734424.003400",
+        "text": "<@UFXLR7Y2D> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFP4ZJ4DN",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734424.003600",
+        "text": "<@UFP4ZJ4DN> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UG1M63BEJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734425.003800",
+        "text": "<@UG1M63BEJ> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFR1Y38B1",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734425.004000",
+        "text": "<@UFR1Y38B1> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFMUTFP7U",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734425.004200",
+        "text": "<@UFMUTFP7U> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UG021KE3W",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734425.004400",
+        "text": "<@UG021KE3W> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFMQ48LHE",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734425.004600",
+        "text": "<@UFMQ48LHE> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "user": "UFQ32FA3V",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549734425.004800",
+        "text": "<@UFQ32FA3V> has joined the channel",
+        "inviter": "UFNFNGQPL"
+    },
+    {
+        "client_msg_id": "bc2d5476-92cd-4ee7-822f-0325920418b9",
+        "type": "message",
+        "text": "Proponowalym rozdzielac rozmowy z wzgledu na kurs. Bedzie latwiej szukac na przyszlosc",
+        "user": "UFNFNGQPL",
+        "ts": "1549734458.005500"
+    },
+    {
+        "client_msg_id": "b8cd097d-6a78-46f2-89fe-c041e807c1f0",
+        "type": "message",
+        "text": "git",
+        "user": "UFP7290SG",
+        "ts": "1549734538.005700"
+    },
+    {
+        "client_msg_id": "455fe2ba-7f3d-4600-b5a5-44e83210db18",
+        "type": "message",
+        "text": "jestem za",
+        "user": "UFRCP5Q4E",
+        "ts": "1549734681.005900"
+    },
+    {
+        "client_msg_id": "e3a2dba7-00cf-418f-b35b-4d88e5a0b015",
+        "type": "message",
+        "text": "Prezentacja:\n<https:\/\/github.com\/infoshareacademy\/jfdz11-git\/tree\/master\/Prezentacje>",
+        "user": "UFNFNGQPL",
+        "ts": "1549734688.006100",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "UFRCP5Q4E"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "F50A3234-9D72-4673-9558-4AE49EBC1270",
+        "type": "message",
+        "text": "Szlachetna inicjatywa! Tylko może być problematyczne, ponieważ dużo kanałów nam się porobi :( większość materiałów i tak będzie na GH i wygodniej trenerom pisać tylko na 2 kanałach tj. general i random :)",
+        "user": "UFP1NEA4F",
+        "ts": "1549734772.006300",
+        "thread_ts": "1549734772.006300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1549741175.007000",
+        "reply_users": [
+            "UFXJCFX32"
+        ],
+        "replies": [
+            {
+                "user": "UFXJCFX32",
+                "ts": "1549741175.007000"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFP1WTUP9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "31a8ac46-7ea3-4618-a1ee-c0926f2d2eb1",
+        "type": "message",
+        "text": "Wklejanie w terminalu Ctr + Shift + V",
+        "user": "UFNFNGQPL",
+        "ts": "1549735099.006900"
+    },
+    {
+        "client_msg_id": "6f5cc768-d5ec-4b30-9e72-a76cb7815efb",
+        "type": "message",
+        "text": "Ja miałem taki sam pomysł ze scrumem, więc jako trener daję łapkę w górę :+1: ",
+        "user": "UFXJCFX32",
+        "ts": "1549741175.007000",
+        "thread_ts": "1549734772.006300",
+        "parent_user_id": "UFP1NEA4F"
+    },
+    {
+        "client_msg_id": "03d1f461-fb2c-4068-bea6-15066a539366",
+        "type": "message",
+        "text": "Ewentualnie w unix środkowy przycisk myszy",
+        "user": "UFXJCFX32",
+        "ts": "1549741216.007900"
+    }
+]

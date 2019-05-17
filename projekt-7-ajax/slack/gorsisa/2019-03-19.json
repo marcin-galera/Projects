@@ -1,0 +1,9 @@
+[
+    {
+        "client_msg_id": "bfa44dc7-3ff7-421a-8880-a27efcb9b5d7",
+        "type": "message",
+        "text": "Zrobiłem dziś zdjęcia hero pod slider z rozdzielczościami różnymi w zależności od rozmiaru i będę robił do tego js. Wpisałem root w css, wybrałem logo i favicona. Robie menu i hero od początku (mobile first). Wybierzcie sobie zadanie-DO NIEDZIELI jest mi potrzebny formularz zgłoszeniowy i dodatkowe informacje o produkcie(kryteria na Jira). Zróbcie strukturę html i cssy i wyślijcie NA NOWYM BRANCHU, ja będę to sklejał. Aha, pamiętajcie o mobilku 320x480. Do następnego spotkania chce abyśmy 1 sprint mieli z głowy i wzięli się za drugi. ",
+        "user": "UG1M63BEJ",
+        "ts": "1553013000.011400"
+    }
+]

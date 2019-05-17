@@ -1,0 +1,79 @@
+[
+    {
+        "user": "UFP4ZJ4DN",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548491860.000200",
+        "text": "<@UFP4ZJ4DN> has joined the channel"
+    },
+    {
+        "user": "UFP9WB0AV",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548501566.000200",
+        "text": "<@UFP9WB0AV> has joined the channel"
+    },
+    {
+        "user": "UFR08FNEB",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548503293.000200",
+        "text": "<@UFR08FNEB> has joined the channel"
+    },
+    {
+        "user": "UFR1Y38B1",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548516385.000200",
+        "text": "<@UFR1Y38B1> has joined the channel"
+    },
+    {
+        "user": "UFPBXQW73",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548517436.000400",
+        "text": "<@UFPBXQW73> has joined the channel"
+    },
+    {
+        "user": "UFRCP5Q4E",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548517601.000600",
+        "text": "<@UFRCP5Q4E> has joined the channel"
+    },
+    {
+        "user": "UFPC1B9UZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548518160.000800",
+        "text": "<@UFPC1B9UZ> has joined the channel"
+    },
+    {
+        "user": "UFPR4JWBE",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548518664.001000",
+        "text": "<@UFPR4JWBE> has joined the channel"
+    },
+    {
+        "user": "UFR2DECFR",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548519468.001200",
+        "text": "<@UFR2DECFR> has joined the channel"
+    },
+    {
+        "user": "UFPC99HFT",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548519752.001400",
+        "text": "<@UFPC99HFT> has joined the channel"
+    },
+    {
+        "user": "UFQ32FA3V",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548574091.000200",
+        "text": "<@UFQ32FA3V> has joined the channel"
+    }
+]

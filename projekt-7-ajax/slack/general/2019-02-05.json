@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "156d6b51-c495-4b01-89b1-64f50a0b72fa",
+        "type": "message",
+        "text": "<https:\/\/slawomir.teetres.com\/images\/104\/1885-6\/1885-6-pattern-front.jpg>",
+        "user": "UFXJCFX32",
+        "ts": "1549360986.000400",
+        "attachments": [
+            {
+                "fallback": "555x800px image",
+                "image_url": "https:\/\/slawomir.teetres.com\/images\/104\/1885-6\/1885-6-pattern-front.jpg",
+                "image_width": 555,
+                "image_height": 800,
+                "image_bytes": 73905,
+                "from_url": "https:\/\/slawomir.teetres.com\/images\/104\/1885-6\/1885-6-pattern-front.jpg",
+                "id": 1,
+                "original_url": "https:\/\/slawomir.teetres.com\/images\/104\/1885-6\/1885-6-pattern-front.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c0bed65f-527a-4049-b751-98113e1e503c",
+        "type": "message",
+        "text": "Dzień dobry wszystkim, w niedzielę mamy szkolenie ze Scruma, jakie macie problemy\/pytania dotyczące tej działki?\nPozwoli mi to się lepiej przygotować do Waszych potrzeb na tym szkoleniu.",
+        "user": "UFXJCFX32",
+        "ts": "1549361075.002900",
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UFP1WTUP9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7f390208-8994-4caf-a85c-41c236df129f",
+        "type": "message",
+        "text": "Jakby co, tego *NIE* będziemy się uczyć, ale \"w życiu\" możecie się znaleźć w podobnych miejscach <https:\/\/docs.google.com\/document\/d\/1-2aZP3BlctQrWP8bNpSxkVBKphypALPINUGGTn26els\/mobilebasic>",
+        "user": "UFXJCFX32",
+        "ts": "1549361964.004800"
+    },
+    {
+        "client_msg_id": "eb149351-117b-47a2-83d0-cac941868a85",
+        "type": "message",
+        "text": "A co do Scruma, to chyba większość osób tutaj nie miała z nim do czynienia, więc tak trudno się do niego odnieść :stuck_out_tongue:\nJa bym chętnie zobaczył jak taki scrum wygląda w praktycznym życiu front\/backendowca.",
+        "user": "UFP7290SG",
+        "ts": "1549398008.007200",
+        "thread_ts": "1549398008.007200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1549445650.007500",
+        "reply_users": [
+            "UFXJCFX32"
+        ],
+        "replies": [
+            {
+                "user": "UFXJCFX32",
+                "ts": "1549445650.007500"
+            }
+        ]
+    }
+]

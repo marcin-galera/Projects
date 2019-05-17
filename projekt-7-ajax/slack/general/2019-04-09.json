@@ -1,0 +1,201 @@
+[
+    {
+        "client_msg_id": "00402b04-49e2-4bbf-a9af-cdc0c6952cfd",
+        "type": "message",
+        "text": "Mam nadzieje ze infoshare ma na to jakis sposob, bo w przeciwnym razie to byl bardzo kiepski pomysl zeby korzystac ze slacka.",
+        "user": "UFR1Y38B1",
+        "ts": "1554795971.005300"
+    },
+    {
+        "client_msg_id": "2b9ad9e1-2d61-42e8-be48-8a285da635ff",
+        "type": "message",
+        "text": "szczegolnie ze przykladowo Ania wysylala nam tutaj rozwiazania itd",
+        "user": "UFR1Y38B1",
+        "ts": "1554796059.005600"
+    },
+    {
+        "client_msg_id": "47631E46-033E-460C-8864-4637DBC73397",
+        "type": "message",
+        "text": "Tak, jestem święcie przekonany, że na pierwszym zjeździe mówiliśmy o tym żeby zapisywać sobie te wszystkie materiały ze slacka, bo one po prostu znikają :) Slack też sam wyświetla popupy o tym, że zbliżamy się do momentu, w którym zaczną być archiwizowane rzeczy dlatego materiały trzymamy na GH :) mam nadzieję, że rozwiązania z zajęć pushowaliście albo zapisywaliście sobie jako forma notatek z zajęć + własne zapiski ",
+        "user": "UFP1NEA4F",
+        "ts": "1554796397.009300",
+        "reactions": [
+            {
+                "name": "angryboi",
+                "users": [
+                    "UG693FN7L"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UFP1WTUP9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "77836d18-a589-4ef3-b246-e043510e0305",
+        "type": "message",
+        "text": "w tym wypadku ten caly slack mija sie z celem, nawet grupa na FB bylaby lepszym rozwiazaniem",
+        "user": "UFR1Y38B1",
+        "ts": "1554797379.009800",
+        "reactions": [
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "UG693FN7L"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "895617BB-32F8-4A32-A769-16B16C605674",
+        "type": "message",
+        "text": "Możliwe ale w pracy używany jest slack i fajnie obsługuje kawałki kodu, kanały i inne featury, a do pracy pójdziesz to wszędzie używają slacka :) \n\nNie chciałbyś być jeszcze większym obciążeniem na początku przez nieznajomość slacka :D korzystałem ze slacków 3 firm i żadna nie korzystała z płatnego programu także trzeba po prostu pilnować takich rzeczy :)",
+        "user": "UFP1NEA4F",
+        "ts": "1554797658.014300"
+    },
+    {
+        "client_msg_id": "7223b86e-0211-46eb-861b-ec0507a35ef6",
+        "type": "message",
+        "text": "no to teraz najwazniejsze pytanie, czy ktokolwiek slyszal ze te wiadomosci znikaja, i robil screeny tych wiadomosci, zeby mogl podeslac to co juz zniknelo ?",
+        "user": "UFR1Y38B1",
+        "ts": "1554798513.015800"
+    },
+    {
+        "client_msg_id": "67a4a0e1-35a9-44da-b095-8d6f132fff7e",
+        "type": "message",
+        "text": "Ja widziałem powiadomienie przy 8k wiadomości na kanale a przy 10k jest archiwizowane.",
+        "user": "UG1M63BEJ",
+        "ts": "1554799359.019300"
+    },
+    {
+        "client_msg_id": "d8637c32-c708-4125-b3f8-defc0e225d69",
+        "type": "message",
+        "text": "Same archiwum wiadomości jest taniutkie z tego co kojarze, pare$ miesiecznie, wolalbym doplacic te pare dolcow i miec wszystko :angryboi: :smile:",
+        "user": "UG693FN7L",
+        "ts": "1554799878.021100"
+    },
+    {
+        "client_msg_id": "b96f2f37-5918-42f7-8376-077d21f2b85b",
+        "type": "message",
+        "text": "Słuchajcie, Slack nie pamięta. Złota zasada. Od tej pory zapisujecie sobie linki do materiałów, które podsyłają Wam trenerzy. Gdziekolwiek chcecie - word, notatnik etc. :slightly_smiling_face: To żaden problem. :slightly_smiling_face: Slack też jest po to, aby usprawnić komunikację na kursie, ale też żeby nauczyć się obcować z tym narzędziem. Bo jak pisał Wam wcześniej Nikodem - wiele firm korzysta ze Slacka. :slightly_smiling_face:",
+        "user": "UFP1WTUP9",
+        "ts": "1554805811.024400"
+    },
+    {
+        "client_msg_id": "7ba2d3a0-b3c0-419c-864b-7d6f86029a59",
+        "type": "message",
+        "text": "Albo możecie wysyłać do <https:\/\/github.com\/infoshareacademy\/jfdz11-materialy\/wiki>",
+        "user": "UFP1NEA4F",
+        "ts": "1554805850.024700"
+    },
+    {
+        "client_msg_id": "ed33c9de-d895-4f4f-a0d2-8ed80c1821fc",
+        "type": "message",
+        "text": "i wtedy będzie wszystko w jednym miejscu, dodatkowo powiem wam, że na swoim kursie miałem to samo i byłem tą osobą, która wszystkie linki zbierała do kupy i wysyłała do zapisania do wiki :smile:",
+        "user": "UFP1NEA4F",
+        "ts": "1554805889.025600",
+        "thread_ts": "1554805889.025600",
+        "reply_count": 2,
+        "reply_users_count": 1,
+        "latest_reply": "1554806213.026200",
+        "reply_users": [
+            "UFP1NEA4F"
+        ],
+        "replies": [
+            {
+                "user": "UFP1NEA4F",
+                "ts": "1554805962.025700"
+            },
+            {
+                "user": "UFP1NEA4F",
+                "ts": "1554806213.026200"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFR1Y38B1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "na potwierdzenie słów :smile:",
+        "files": [
+            {
+                "id": "FHQ2WPACQ",
+                "created": 1554805958,
+                "timestamp": 1554805958,
+                "name": "image.png",
+                "title": "Pasted image at 2019-04-09, 12:32 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFP1NEA4F",
+                "editable": false,
+                "size": 391985,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHQ2WPACQ\/image.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHQ2WPACQ\/download\/image.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHQ2WPACQ-ef0a482647\/image_64.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHQ2WPACQ-ef0a482647\/image_80.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHQ2WPACQ-ef0a482647\/image_360.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 354,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHQ2WPACQ-ef0a482647\/image_480.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 480,
+                "thumb_480_h": 472,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHQ2WPACQ-ef0a482647\/image_160.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHQ2WPACQ-ef0a482647\/image_720.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 720,
+                "thumb_720_h": 708,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHQ2WPACQ-ef0a482647\/image_800.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 787,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHQ2WPACQ-ef0a482647\/image_960.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 960,
+                "thumb_960_h": 944,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHQ2WPACQ-ef0a482647\/image_1024.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 1007,
+                "image_exif_rotation": 1,
+                "original_w": 1483,
+                "original_h": 1459,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP1NEA4F\/FHQ2WPACQ\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHQ2WPACQ-b353ce9927",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP1NEA4F",
+        "display_as_bot": false,
+        "ts": "1554805962.025700",
+        "client_msg_id": "47477b3c-1f5a-40e3-b45b-8ae81b70806b",
+        "thread_ts": "1554805889.025600",
+        "parent_user_id": "UFP1NEA4F"
+    },
+    {
+        "client_msg_id": "61b2ea8a-1c1b-4238-bb43-d966a215d2b5",
+        "type": "message",
+        "text": "to tylko kawałek tych linków :stuck_out_tongue:",
+        "user": "UFP1NEA4F",
+        "ts": "1554806213.026200",
+        "thread_ts": "1554805889.025600",
+        "parent_user_id": "UFP1NEA4F"
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "673be826-16d3-4bb8-b0b8-1b3e330a2116",
+        "type": "message",
+        "text": "Idzie ktoś na spotkanie w środę ??",
+        "user": "UFR1Y38B1",
+        "ts": "1550503197.003900"
+    },
+    {
+        "client_msg_id": "d6701e27-8fdf-4ba6-9453-6d93ee3e5620",
+        "type": "message",
+        "text": "A nie jutro? Na którą to jest? ",
+        "user": "UFNFNGQPL",
+        "ts": "1550503462.004400"
+    },
+    {
+        "client_msg_id": "0efb7aaa-4b25-4a6a-99ad-17312c73bb31",
+        "type": "message",
+        "text": "sroda o 18-ej",
+        "user": "UFR1Y38B1",
+        "ts": "1550503824.004600"
+    },
+    {
+        "client_msg_id": "e412da2c-d602-4625-81dc-66f8226a0dcd",
+        "type": "message",
+        "text": "Jutro jest Angular Tricity, a w środę React up. Wszystkie wydarzenia są w O4. Na początku są prelekcje, a potem pizza i piwo\/woda :slightly_smiling_face: udzielajcie się! Może to dla Was stać się mega wartościowe! :slightly_smiling_face: na naszym fb powinny być linki do wydarzeń. :wink:",
+        "user": "UFP1WTUP9",
+        "ts": "1550507741.007100"
+    },
+    {
+        "client_msg_id": "a0b98d56-4f9f-4585-9f8a-3eb7014b2206",
+        "type": "message",
+        "text": "<@UFR1Y38B1> Ja będę w środę :wink:",
+        "user": "UG1M63BEJ",
+        "ts": "1550512611.008200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFNFNGQPL"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9aad7cfb-20db-4c3d-8581-6564a8433f10",
+        "type": "message",
+        "text": "Wrzucam link do 7 minutowego tutoriala z BEM dla przypomnienia :slightly_smiling_face: może nam to ułatwić pracę w grupie przy pisaniu jednego .css :slightly_smiling_face: <https:\/\/www.youtube.com\/watch?v=SLjHSVwXYq4&amp;fbclid=IwAR0ztZ6vS_SRKmRJmvAfBBp-R0NotPZmeQJSCICoULCXIOFnxZIFkVA0MGI>",
+        "user": "UG1M63BEJ",
+        "ts": "1550512729.009800",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Why I use the BEM naming convention for my CSS",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=SLjHSVwXYq4&amp;fbclid=IwAR0ztZ6vS_SRKmRJmvAfBBp-R0NotPZmeQJSCICoULCXIOFnxZIFkVA0MGI",
+                "author_name": "Kevin Powell",
+                "author_link": "https:\/\/www.youtube.com\/user\/KepowOb",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/SLjHSVwXYq4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Why I use the BEM naming convention for my CSS",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/SLjHSVwXYq4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=SLjHSVwXYq4&amp;fbclid=IwAR0ztZ6vS_SRKmRJmvAfBBp-R0NotPZmeQJSCICoULCXIOFnxZIFkVA0MGI",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=SLjHSVwXYq4&amp;fbclid=IwAR0ztZ6vS_SRKmRJmvAfBBp-R0NotPZmeQJSCICoULCXIOFnxZIFkVA0MGI"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a5274d57-cf6d-4b04-98d9-b6960cd1d540",
+        "type": "message",
+        "text": "Gdzie ta praca domowa od Nikodema czekam na nia jak na tykajaca bombe :)",
+        "user": "UFPBXQW73",
+        "ts": "1550515108.011200",
+        "thread_ts": "1550515108.011200",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1550523677.011300",
+        "reply_users": [
+            "UFP1NEA4F"
+        ],
+        "replies": [
+            {
+                "user": "UFP1NEA4F",
+                "ts": "1550523677.011300"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5fbdffb2-dbfb-4b60-8be9-e1a9b6dc1835",
+        "type": "message",
+        "text": "<https:\/\/github.com\/infoshareacademy\/jfdz11-homeworks\/tree\/master\/Zadanie_2> Smacznego :smile:",
+        "user": "UFP1NEA4F",
+        "ts": "1550523677.011300",
+        "thread_ts": "1550515108.011200",
+        "parent_user_id": "UFPBXQW73"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "type": "message",
+        "text": "Sklejam to co mamy i poprawiam + biorę się za inne zadanka w tym tygodniu.",
+        "files": [
+            {
+                "id": "FH3U6QB1D",
+                "created": 1552951388,
+                "timestamp": 1552951388,
+                "name": "IMG_20190319_001951.jpg",
+                "title": "IMG_20190319_001951.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UG1M63BEJ",
+                "editable": false,
+                "size": 619974,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FH3U6QB1D\/img_20190319_001951.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FH3U6QB1D\/download\/img_20190319_001951.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH3U6QB1D-982cfe773b\/img_20190319_001951_64.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH3U6QB1D-982cfe773b\/img_20190319_001951_80.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH3U6QB1D-982cfe773b\/img_20190319_001951_360.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH3U6QB1D-982cfe773b\/img_20190319_001951_480.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH3U6QB1D-982cfe773b\/img_20190319_001951_160.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH3U6QB1D-982cfe773b\/img_20190319_001951_720.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH3U6QB1D-982cfe773b\/img_20190319_001951_800.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH3U6QB1D-982cfe773b\/img_20190319_001951_960.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH3U6QB1D-982cfe773b\/img_20190319_001951_1024.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 4032,
+                "original_h": 3024,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UG1M63BEJ\/FH3U6QB1D\/img_20190319_001951.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FH3U6QB1D-5c386034a5",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UG1M63BEJ",
+        "display_as_bot": false,
+        "ts": "1552951388.003200",
+        "client_msg_id": "63e4d8ed-02ab-479a-b71b-143ca7e82b16",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UFP1NEA4F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b17706b2-365a-4b26-8fb9-92892df4408f",
+        "type": "message",
+        "text": "Dziekuje Ci :)",
+        "user": "UFPBXQW73",
+        "ts": "1552975544.000700"
+    }
+]

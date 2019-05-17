@@ -1,0 +1,125 @@
+[
+    {
+        "client_msg_id": "e204ec43-385b-4962-a669-979dd9b42794",
+        "type": "message",
+        "text": "<!channel> Cześć :slightly_smiling_face: Na GitHuba wrzuciłam prezentacje ze szkolenia z Marceliną i dodatkowo prezentację o tym, jak powinniście przedstawiać projekty podczas sprint review. CV i profile LinkedIn możecie podsyłać mi do sprawdzenia do 8 kwietnia. Wy podsyłacie, jak odsyłam z naniesionymi komentarzami, Wy podsyłacie poprawione, ja sprawdzam i tak do skutku :slightly_smiling_face: Jakbyście mieli jakieś pytania, to śmiało możecie do mnie pisać lub dzwonić.",
+        "user": "UG4354YKT",
+        "ts": "1552472411.018200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFP1WTUP9",
+                    "UFP1NEA4F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8278d765-aa5d-44f3-a971-c2c9a74372cf",
+        "type": "message",
+        "text": "Podsyłam też kilka artykułów do popołudniowej kawy :slightly_smiling_face:",
+        "user": "UG4354YKT",
+        "ts": "1552472511.018800"
+    },
+    {
+        "client_msg_id": "32c293db-1f99-4dc5-93fa-76e166f09841",
+        "type": "message",
+        "text": "<https:\/\/www.praca.pl\/poradniki\/cv-zyciorys\/idealne-cv-programisty_pr-1664.html>",
+        "user": "UG4354YKT",
+        "ts": "1552472513.019000",
+        "attachments": [
+            {
+                "service_name": "Portal Praca.pl",
+                "title": "Idealne CV programisty",
+                "title_link": "https:\/\/www.praca.pl\/poradniki\/cv-zyciorys\/idealne-cv-programisty_pr-1664.html",
+                "text": "Jak powinien przygotować CV programista, jeśli chce zostać doceniony i być uwzględniany przy ciekawych, dobrze płatnych projektach?",
+                "fallback": "Portal Praca.pl: Idealne CV programisty",
+                "image_url": "https:\/\/www.praca.pl\/pressroom\/poradniki\/960\/coder1.jpg",
+                "from_url": "https:\/\/www.praca.pl\/poradniki\/cv-zyciorys\/idealne-cv-programisty_pr-1664.html",
+                "image_width": 354,
+                "image_height": 250,
+                "image_bytes": 96286,
+                "service_icon": "https:\/\/www.praca.pl\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.praca.pl\/poradniki\/cv-zyciorys\/idealne-cv-programisty_pr-1664.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "133d575f-41d1-4716-a1c0-e1f7ee9689be",
+        "type": "message",
+        "text": "<https:\/\/www.praca.pl\/poradniki\/cv-zyciorys\/jak-napisac-dobre-cv-wszystko,co-wiedziec-nalezy_pr-1087.html>",
+        "user": "UG4354YKT",
+        "ts": "1552472587.019300",
+        "attachments": [
+            {
+                "service_name": "Portal Praca.pl",
+                "title": "Jak napisać dobre CV? - wszystko, co wiedzieć należy",
+                "title_link": "https:\/\/www.praca.pl\/poradniki\/cv-zyciorys\/jak-napisac-dobre-cv-wszystko,co-wiedziec-nalezy_pr-1087.html",
+                "text": "Curriculum Vitae to krótki, zazwyczaj 2-stronicowy dokument, który powinien prezentować się bez zarzutu zarówno pod względem treści, jak i pod względem formy. Stworzenie dobrej aplikacji",
+                "fallback": "Portal Praca.pl: Jak napisać dobre CV? - wszystko, co wiedzieć należy",
+                "image_url": "https:\/\/www.praca.pl\/pressroom\/poradniki\/960\/art5_960x678.jpg",
+                "from_url": "https:\/\/www.praca.pl\/poradniki\/cv-zyciorys\/jak-napisac-dobre-cv-wszystko,co-wiedziec-nalezy_pr-1087.html",
+                "image_width": 354,
+                "image_height": 250,
+                "image_bytes": 377307,
+                "service_icon": "https:\/\/www.praca.pl\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/www.praca.pl\/poradniki\/cv-zyciorys\/jak-napisac-dobre-cv-wszystko,co-wiedziec-nalezy_pr-1087.html"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "db5030a7-79eb-4b34-93be-8447c2e1a798",
+        "type": "message",
+        "text": "<https:\/\/interviewme.pl\/blog\/linkedin-na-ktory-zwroci-uwage-rekruter-6-porad>",
+        "user": "UG4354YKT",
+        "ts": "1552472624.019600",
+        "attachments": [
+            {
+                "title": "14 porad, jak poprawić profil na Linkedin i znaleźć lepszą pracę",
+                "title_link": "https:\/\/interviewme.pl\/blog\/linkedin-na-ktory-zwroci-uwage-rekruter-6-porad",
+                "text": "14 wskazówek jak stworzyć i prowadzić profil na LinkedIn, aby otrzymywać oferty pracy od headhunterów. Czytaj więcej!",
+                "fallback": "14 porad, jak poprawić profil na Linkedin i znaleźć lepszą pracę",
+                "image_url": "https:\/\/cdn-images.interviewme.pl\/pages\/3acd02e6338db4fe3b6564bb406dbc4a.jpg",
+                "from_url": "https:\/\/interviewme.pl\/blog\/linkedin-na-ktory-zwroci-uwage-rekruter-6-porad",
+                "image_width": 980,
+                "image_height": 250,
+                "image_bytes": 77523,
+                "service_icon": "http:\/\/cdn-assets.interviewme.pl\/images\/_im\/favicon.png",
+                "service_name": "InterviewMe",
+                "id": 1,
+                "original_url": "https:\/\/interviewme.pl\/blog\/linkedin-na-ktory-zwroci-uwage-rekruter-6-porad"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ccd28775-636c-42a4-ad94-9e991992c70b",
+        "type": "message",
+        "text": "<!channel> Hej, kolejny zjazd tuż tuż! Tym razem nauczymy się co to DOM i co z tym zrobić oraz zaczniemy blok JS - Przetwarzanie struktur danych, czyli to co najfajniejsze, trudny JS dopiero się zacznie :smile:\nMam nadzieję, że powtarzacie JS tylko z przerwami na projekt. Dodatkowo odwiedzi nas w weekend <@UFP1WTUP9> i <@UFMUTFP7U> zobaczą jak idzie progress. Możliwe, że w sobotę też będzie niespodzianka :slightly_smiling_face: `Stay curious!`\n\n*Rozkład zajęć i aktywności*\n    `sobota, 16 marca`\n          15:00 – 21:00 - JavaScript - DOM – Anna Rodziewicz\n    `niedziela, 17 marca`\n            15:00 – 18:00 – JavaScript - Przetwarzanie struktur danych – Maciej Kucharski\n            18:00 – 21: 00 – Sprint Review 1,Planowanie S2- Maciej Kucharski, N. Kalinowski\n*Trenerzy i godziny ich obecności*\n    `sobota, 16 marca`\n         Anna Rodziewicz: 15:00 - 21:00\n    `niedziela, 17 marca`\n        Maciej Kucharski: 15:00- 21:00\n        Nikodem Kalinowski: 18:00 – 21:00\n*Repozytoria i dostępy do nich*\n    `warsztaty:`\n        <https:\/\/github.com\/infoshareacademy\/jfdz11-materialy> (wszyscy)\n    `projekty:`\n        <https:\/\/github.com\/infoshareacademy\/jfdz11-TychTrzech> (TychTrzech)\n        <https:\/\/github.com\/infoshareacademy\/jfdz11-GorsiSA> (GorsiSA)\n        <https:\/\/github.com\/infoshareacademy\/jfdz11-DABE> (DABE)\n        <https:\/\/github.com\/infoshareacademy\/jfdz11-Specode> (Specode)\n*Materiały do przeczytania przed zjazdem*\n    <https:\/\/developer.mozilla.org\/pl\/docs\/DOM_i_JavaScript>\n<https:\/\/github.com\/getify\/You-Dont-Know-JS\/blob\/master\/up%20&amp;%20going\/README.md#you-dont-know-js-up--going>",
+        "user": "UFP1NEA4F",
+        "ts": "1552545196.022500",
+        "edited": {
+            "user": "UFP1NEA4F",
+            "ts": "1552583659.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Dokumentacja MDN",
+                "title": "DOM i JavaScript",
+                "title_link": "https:\/\/developer.mozilla.org\/pl\/docs\/DOM_i_JavaScript",
+                "text": "Efekty wizualne takie jak przesuwanie warstw na stronie, pokazywanie i ukrywanie ich, wyskakujące menu itd., są często określane pojęciami „DHTML” lub „Dynamiczny HTML”. Niektórzy kwestionują zasadność użycia tych technologii na stronach, które powinny przecież obejmować treść, a nie prezentację. Ale faktem jest, że technologie te nadal istnieją.",
+                "fallback": "Dokumentacja MDN: DOM i JavaScript",
+                "thumb_url": "https:\/\/developer.mozilla.org\/static\/img\/opengraph-logo.72382e605ce3.png",
+                "from_url": "https:\/\/developer.mozilla.org\/pl\/docs\/DOM_i_JavaScript",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/developer.mozilla.org\/static\/img\/favicon144.e7e21ca263ca.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/pl\/docs\/DOM_i_JavaScript"
+            }
+        ]
+    }
+]

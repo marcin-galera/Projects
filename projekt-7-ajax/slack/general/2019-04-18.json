@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel> Na wypełnienie ankiety czekam dzisiaj do godziny 13.00. Proszę osoby, które jeszcze tego nie zrobiły o rychłe wypełnienie!",
+        "files": [
+            {
+                "id": "FHTU9RNV7",
+                "created": 1555581124,
+                "timestamp": 1555581124,
+                "name": "image.png",
+                "title": "Pasted image at 2019-04-18, 11:52 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFP1WTUP9",
+                "editable": false,
+                "size": 196036,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHTU9RNV7\/image.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHTU9RNV7\/download\/image.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHTU9RNV7-52571ebe82\/image_64.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHTU9RNV7-52571ebe82\/image_80.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHTU9RNV7-52571ebe82\/image_360.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHTU9RNV7-52571ebe82\/image_160.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "image_exif_rotation": 1,
+                "original_w": 447,
+                "original_h": 447,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP1WTUP9\/FHTU9RNV7\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHTU9RNV7-b556619b08",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP1WTUP9",
+        "display_as_bot": false,
+        "ts": "1555581125.000900",
+        "client_msg_id": "c86bdc52-416b-40ef-a28a-63d911bf2741"
+    },
+    {
+        "client_msg_id": "4adfd2ed-d450-43ff-998d-28bf7ee39140",
+        "type": "message",
+        "text": "Ja też proszę!",
+        "user": "UHKFQ75A4",
+        "ts": "1555581163.001300"
+    },
+    {
+        "client_msg_id": "a83d5a8a-76ab-4bc0-9025-7019daaab1d2",
+        "type": "message",
+        "text": "Przyznaję się, że nie wypełniłem, aż do teraz.",
+        "user": "UFP7290SG",
+        "ts": "1555586445.002000"
+    },
+    {
+        "client_msg_id": "7011fae4-a1ca-4697-bb58-47223056f3f0",
+        "type": "message",
+        "text": "Przepraszam za lekki poślizg.",
+        "user": "UFP7290SG",
+        "ts": "1555586463.002500"
+    }
+]

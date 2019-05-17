@@ -1,0 +1,11 @@
+[
+    {
+        "client_msg_id": "3181bbcb-d902-4f82-9164-fb33121b8f5d",
+        "type": "message",
+        "text": "To pierwsze co, jako członek zespołu scrumowego masz dostarczyć wartość dla klienta\/użytkownika, a nie frontend czy backend. Jak będzie analiza do zrobienia, to robisz analizę, jak architektura, to robisz architekturę, jak infrastruktura robisz infrastrukturę, jak testowanie to testujesz. A jak będą chcieli jechać do muzeum lotnictwa to wiesz co :)",
+        "user": "UFXJCFX32",
+        "ts": "1549445650.007500",
+        "thread_ts": "1549398008.007200",
+        "parent_user_id": "UFP7290SG"
+    }
+]
