@@ -1,0 +1,248 @@
+[
+    {
+        "client_msg_id": "bdb5ea08-c48f-432d-a58e-912a4907880e",
+        "type": "message",
+        "text": "Cześć. Niestety w zipie którym wysłałaś nic nie ma",
+        "user": "UFP9WB0AV",
+        "ts": "1552808787.004700"
+    },
+    {
+        "client_msg_id": "c41d0dbf-eefe-40f6-aca6-8e6577785f9f",
+        "type": "message",
+        "text": "jest tylko macosowy pusty plik roboczy .ds_store",
+        "user": "UFP9WB0AV",
+        "ts": "1552808828.005500"
+    },
+    {
+        "client_msg_id": "e564d78f-fa4d-4312-8648-a40c7ad565e2",
+        "type": "message",
+        "text": "Wychodzi na to, ze spakowałaś i wysłałaś pusty folder",
+        "user": "UFP9WB0AV",
+        "ts": "1552808860.006300"
+    },
+    {
+        "client_msg_id": "ab4e6d27-e723-458c-9f5f-8201a1e46ea6",
+        "type": "message",
+        "text": "faktycznie, miałam przenieść do innego foldera i tamten wyrzuciłam, nie pilnowałam czy dobrze wpakowałam . obra zaraz robie od nowa",
+        "user": "UFMQ48LHE",
+        "ts": "1552808950.007900",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFP9WB0AV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e718e759-2608-4a8e-9d22-9c3651695c8c",
+        "type": "message",
+        "text": "wyslalam",
+        "user": "UFMQ48LHE",
+        "ts": "1552809878.008400"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FH1ATCN02",
+                "created": 1552810264,
+                "timestamp": 1552810264,
+                "name": "IMG_20190317_091034.jpg",
+                "title": "IMG_20190317_091034.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UFP9WB0AV",
+                "editable": false,
+                "size": 2409056,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FH1ATCN02\/img_20190317_091034.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FH1ATCN02\/download\/img_20190317_091034.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH1ATCN02-859ebdac54\/img_20190317_091034_64.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH1ATCN02-859ebdac54\/img_20190317_091034_80.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH1ATCN02-859ebdac54\/img_20190317_091034_360.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH1ATCN02-859ebdac54\/img_20190317_091034_480.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH1ATCN02-859ebdac54\/img_20190317_091034_160.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH1ATCN02-859ebdac54\/img_20190317_091034_720.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH1ATCN02-859ebdac54\/img_20190317_091034_800.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH1ATCN02-859ebdac54\/img_20190317_091034_960.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH1ATCN02-859ebdac54\/img_20190317_091034_1024.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3456,
+                "original_h": 4608,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP9WB0AV\/FH1ATCN02\/img_20190317_091034.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FH1ATCN02-f20f550e8d",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP9WB0AV",
+        "display_as_bot": false,
+        "ts": "1552810270.008500",
+        "client_msg_id": "4b0f900b-ef44-47b7-b656-7d6863492fa6"
+    },
+    {
+        "client_msg_id": "ca519c8f-82f2-4335-9ef6-324e49b63270",
+        "type": "message",
+        "text": "jak mówimy o 2 kolumnach",
+        "user": "UFP9WB0AV",
+        "ts": "1552810360.009200"
+    },
+    {
+        "client_msg_id": "9d8544d0-2512-46df-b6da-bbe38073a07c",
+        "type": "message",
+        "text": "to pamiętaj aby zachować responsywność przy małych rozdzielczościach to już najlepiej poprzez media query w css",
+        "user": "UFP9WB0AV",
+        "ts": "1552810481.010700"
+    },
+    {
+        "client_msg_id": "7a01e493-2342-4918-b84d-bc8fbaad4ec6",
+        "type": "message",
+        "text": "ok, plik co wysłałam one muszą być 2 kolumnach czy inny temat produktu z listami dopasowane do ikonki?",
+        "user": "UFMQ48LHE",
+        "ts": "1552810737.012900"
+    },
+    {
+        "client_msg_id": "34b37e08-02b1-4f95-9650-8db5815b36ef",
+        "type": "message",
+        "text": "Z tego co zrozumiałem to w tej sekcji ma się znaleźć opis poszczególnych funkcji produktu. Nie musi być ich 7-8.  Spokojnie możesz zrobić opis dla tych 4 co mamy w sekcji icon. Format taki jaki jest podany w zadaniu. Rozumiem to tak, że przykładowo po lewej jest reprezentacja graficzna tj jakiś obrazek\/ikonka z tytułem, a po prawej opis. Obrazki\/ikonki w jednej np lewej kolumnie... opisy w prawej kolumnie. Tak ja to zrozumiałem.",
+        "user": "UFP9WB0AV",
+        "ts": "1552811233.017000"
+    },
+    {
+        "client_msg_id": "c3f7d6d2-47ff-4579-a48b-95b75bf9542e",
+        "type": "message",
+        "text": "Zrozumiałam",
+        "user": "UFMQ48LHE",
+        "ts": "1552811746.017300"
+    },
+    {
+        "client_msg_id": "094ec7e8-c75a-4299-b379-1dbb4ec9af43",
+        "type": "message",
+        "text": "Robiłem zmiany żeby usunąć te paski o których mowiliśmy i jak złączyłem to z głównym plikiem naszego projektu to nie widać teraz obrazów. W Visualu wyskakuje błąd że pliki są za duże a w moim projekcie zanim złączyłem z naszym , wszystko działało cacy więc na razie proponuje zostawić jak było",
+        "user": "UFPC1B9UZ",
+        "ts": "1552819238.020700"
+    },
+    {
+        "client_msg_id": "affc1cc9-d39a-496d-bbf8-f9f8c0392411",
+        "type": "message",
+        "text": "Dobrze",
+        "user": "UFP9WB0AV",
+        "ts": "1552819282.021000"
+    },
+    {
+        "client_msg_id": "6591e593-8f9e-40cc-a6c5-1fae7b7752c8",
+        "type": "message",
+        "text": "Ja niestety mam teraz jeszcze swoja robotę do zrobienia bo juz ludzie do mnie już brzydko mówią. :pensive: Chcac zdążyć na kurs nawet nie mam jak na to spojrzeć :pensive: ",
+        "user": "UFP9WB0AV",
+        "ts": "1552819449.023400"
+    },
+    {
+        "client_msg_id": "c9b5365a-3b31-45f8-8542-9256a2cd3dc4",
+        "type": "message",
+        "text": "Ja od rana w szpitalu, mogę wyłącznie na zajeciach",
+        "user": "UFNNXNNBT",
+        "ts": "1552819492.024300"
+    },
+    {
+        "client_msg_id": "b681088d-fb58-4bcc-bc2f-311d75e0a880",
+        "type": "message",
+        "text": "wezmę laptopa ze sobą może będzie chwila żeby to zrobić jak nie to możecie na mnie brzydko mówić;)",
+        "user": "UFPC1B9UZ",
+        "ts": "1552819582.025100"
+    },
+    {
+        "user": "UFP1NEA4F",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1552846935.025300",
+        "text": "<@UFP1NEA4F> has joined the channel"
+    },
+    {
+        "client_msg_id": "8b21c003-47b5-4af6-ade6-2249c7f7ea7e",
+        "type": "message",
+        "text": "```\nLogo nie jest widoczne w menu. Jako Product Owner chciałbym żeby było widoczne cały czas :)\n\nHero text bardziej widoczne.\n\nKropki ze slajdera mają nie najeżdzać na menu.\n\nLorem ipsum text. Szczegółowy opis funkcjonalności.\nOpis zespołu do dopracowania. Nie ma miejsca na placeholdery.\n\nFormularz poprawa inputów. (Walidacja maila, numer telefonu)\n\nMenu zjeżdża za nisko. Do dopracowania\n\nResponsywność dla 330. Na średnim ekranie przycisk \"do góry\" nachodzi na kontent. \n```",
+        "user": "UFP1NEA4F",
+        "ts": "1552846951.025600"
+    },
+    {
+        "client_msg_id": "19b3bd92-7d6e-45ed-a59e-7223c23724b5",
+        "type": "message",
+        "text": "No i mamy szpiega na #dabe\n<https:\/\/youtu.be\/UYhj67zp-3I>",
+        "user": "UFP9WB0AV",
+        "ts": "1552857373.026200",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "KRS One Sound of da Police - Saxaphone Sample (short)",
+                "title_link": "https:\/\/youtu.be\/UYhj67zp-3I",
+                "author_name": "Shakira Haze",
+                "author_link": "https:\/\/www.youtube.com\/user\/GreenShrinetv",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/UYhj67zp-3I\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: KRS One Sound of da Police - Saxaphone Sample (short)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/UYhj67zp-3I?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/UYhj67zp-3I",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/youtu.be\/UYhj67zp-3I"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "grinning",
+                "users": [
+                    "UFPC1B9UZ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a4122e88-37c9-4c1b-a0eb-3e3b9d264158",
+        "type": "message",
+        "text": ":joy: :rolling_on_the_floor_laughing: :joy: :rolling_on_the_floor_laughing: :joy: :rolling_on_the_floor_laughing: :joy: :rolling_on_the_floor_laughing: ",
+        "user": "UFNNXNNBT",
+        "ts": "1552858045.026400"
+    },
+    {
+        "client_msg_id": "5c5daf90-9e31-4f72-8063-f3ea4ab7615b",
+        "type": "message",
+        "text": "hehe, ja i tak mialem podgląd na wszystko :smile:",
+        "user": "UFP1NEA4F",
+        "ts": "1552858110.026800"
+    },
+    {
+        "client_msg_id": "63eea15d-b0b4-46df-8cb0-dd4c7ff54589",
+        "type": "message",
+        "text": "tylko ja tego nie czytam, bo mnie to nie interesuje :smile:",
+        "user": "UFP1NEA4F",
+        "ts": "1552858122.027100"
+    }
+]

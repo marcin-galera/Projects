@@ -1,0 +1,98 @@
+[
+    {
+        "user": "UFP1NEA4F",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551034000.000200",
+        "text": "<@UFP1NEA4F> has joined the channel"
+    },
+    {
+        "user": "UG1M63BEJ",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551034000.000400",
+        "text": "<@UG1M63BEJ> has joined the channel",
+        "inviter": "UFP1NEA4F"
+    },
+    {
+        "user": "UFPBXQW73",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551034000.000600",
+        "text": "<@UFPBXQW73> has joined the channel",
+        "inviter": "UFP1NEA4F"
+    },
+    {
+        "user": "UFP7290SG",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551034001.000800",
+        "text": "<@UFP7290SG> has joined the channel",
+        "inviter": "UFP1NEA4F"
+    },
+    {
+        "user": "UFPC99HFT",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551034001.001000",
+        "text": "<@UFPC99HFT> has joined the channel",
+        "inviter": "UFP1NEA4F"
+    },
+    {
+        "client_msg_id": "1a26360a-411b-4b2c-8a22-5192aaa5773e",
+        "type": "message",
+        "text": "Macie w prezencie kanał ode mnie :slightly_smiling_face:",
+        "user": "UFP1NEA4F",
+        "ts": "1551034013.001300"
+    },
+    {
+        "client_msg_id": "d9e36699-b741-4436-97af-a99ccdafce0e",
+        "type": "message",
+        "text": "<https:\/\/github.com\/KarolKomosa>",
+        "user": "UFP7290SG",
+        "ts": "1551034180.001500",
+        "attachments": [
+            {
+                "footer": "<https:\/\/github.com\/KarolKomosa|@KarolKomosa>",
+                "id": 1,
+                "thumb_height": 420,
+                "thumb_width": 420,
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/45879792?v=4",
+                "ts": 1544802285,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Repositories",
+                        "value": "8",
+                        "short": true
+                    }
+                ],
+                "fallback": "[no preview available]",
+                "bot_id": "BFPAU9ARE",
+                "app_unfurl_url": "https:\/\/github.com\/KarolKomosa",
+                "is_app_unfurl": true
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c2196c2b-7c41-4431-931f-26a4ed6feca4",
+        "type": "message",
+        "text": "Mersi",
+        "user": "UFP7290SG",
+        "ts": "1551034187.001800"
+    },
+    {
+        "client_msg_id": "50e237ab-f805-4ba6-992f-727350dbf161",
+        "type": "message",
+        "text": "<https:\/\/www.facebook.com\/karol.komosa.1>",
+        "user": "UFP7290SG",
+        "ts": "1551034199.002000"
+    },
+    {
+        "client_msg_id": "0b170f57-24db-4e42-9322-c2a48f81f3ab",
+        "type": "message",
+        "text": "Podaje moje wirtualne zycia do stronki.",
+        "user": "UFP7290SG",
+        "ts": "1551034218.002500"
+    }
+]

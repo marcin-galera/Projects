@@ -1,0 +1,23 @@
+[
+    {
+        "user": "UFNNXNNBT",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548434363.000200",
+        "text": "<@UFNNXNNBT> has joined the channel"
+    },
+    {
+        "user": "UFP7290SG",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548435318.000200",
+        "text": "<@UFP7290SG> has joined the channel"
+    },
+    {
+        "user": "UFPAWAHQC",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1548442640.000200",
+        "text": "<@UFPAWAHQC> has joined the channel"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "client_msg_id": "2c9cdd7b-4804-4ed9-af38-05ad252eb091",
+        "type": "message",
+        "text": "<https:\/\/javascriptweekly.com\/>",
+        "user": "UG693FN7L",
+        "ts": "1554642188.001600",
+        "thread_ts": "1554642188.001600",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1554642318.001900",
+        "reply_users": [
+            "UFP1NEA4F"
+        ],
+        "replies": [
+            {
+                "user": "UFP1NEA4F",
+                "ts": "1554642318.001900"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFP1NEA4F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3FFA0FE6-7C70-4724-8596-F5DE56F850D3",
+        "type": "message",
+        "text": "Polecam ;)",
+        "user": "UFP1NEA4F",
+        "ts": "1554642318.001900",
+        "thread_ts": "1554642188.001600",
+        "parent_user_id": "UG693FN7L"
+    },
+    {
+        "client_msg_id": "9186706e-9846-47ec-8097-053f22fb2463",
+        "type": "message",
+        "text": "<!channel>  Hej :slightly_smiling_face: Podsyłam ankietę do wypełnienia :slightly_smiling_face:\n<https:\/\/ankiety.is-academy.pl\/poll\/-LDjsR30ylyU72y0gH8E\/-Lb7Q-qPlMxDpMMosV4_>",
+        "user": "UFP1NEA4F",
+        "ts": "1554661077.002600",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UFP1WTUP9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UG1M63BEJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "27ead756-c8fe-4106-a1b9-3d4b23669232",
+        "type": "message",
+        "text": ":point_up: Feedback który dostaje z ankiet to bardzo ważna dla mnie sprawa :wink:",
+        "user": "UHKFQ75A4",
+        "ts": "1554706391.003300",
+        "edited": {
+            "user": "UHKFQ75A4",
+            "ts": "1554706459.000000"
+        },
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UFP1WTUP9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "zipper_mouth_face",
+                "users": [
+                    "UFNNXNNBT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

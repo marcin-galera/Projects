@@ -1,0 +1,30 @@
+[
+    {
+        "client_msg_id": "347c7967-fa3a-48db-bc10-0fa69992da1c",
+        "type": "message",
+        "text": "Siema. Chciałem dodać do githuba moje zadanie, to mam po prostu dodać index.html i main.css do naszego repozytorium jfdz11-DABE?",
+        "user": "UFPC1B9UZ",
+        "ts": "1549963163.001600"
+    },
+    {
+        "client_msg_id": "1dadb7ca-0beb-4143-84e3-4e307b7c5f43",
+        "type": "message",
+        "text": "Jestem w pracy, jak wrócę to popiszemy no trza jakąś konwencję przyjąć...",
+        "user": "UFNNXNNBT",
+        "ts": "1549966511.003500"
+    },
+    {
+        "client_msg_id": "bb6957dc-2dac-46cf-a7bc-226a2ed70ba4",
+        "type": "message",
+        "text": "Index.html i main.css jest już na gitcie więc musisz zrobić pulla a następnie zrobić bruncha o nazwie najlepiej - zadanie ze zdziry którego robota dotyczy. Później push na zdalne repo i pullrequest... ",
+        "user": "UFNNXNNBT",
+        "ts": "1549980889.008200"
+    },
+    {
+        "client_msg_id": "7654a1ac-00f4-4bf1-8363-adf2edc0b48f",
+        "type": "message",
+        "text": "Chyba najlepiej zrobić to wspólnie w sobotę, wtedy ustalimy żebyśmy wszyscy na jedno kopyto robili ",
+        "user": "UFNNXNNBT",
+        "ts": "1549980965.009900"
+    }
+]

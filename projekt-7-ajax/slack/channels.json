@@ -1,0 +1,321 @@
+[
+    {
+        "id": "CFP10N42K",
+        "name": "random",
+        "created": "1548329125",
+        "creator": "UFMUTFP7U",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "UFMQ48LHE",
+            "UFMUTFP7U",
+            "UFNFNGQPL",
+            "UFNNXNNBT",
+            "UFP1NEA4F",
+            "UFP1WTUP9",
+            "UFP4ZJ4DN",
+            "UFP7290SG",
+            "UFP9WB0AV",
+            "UFPAWAHQC",
+            "UFPBXQW73",
+            "UFPC1B9UZ",
+            "UFPC99HFT",
+            "UFQ32FA3V",
+            "UFR08FNEB",
+            "UFR1Y38B1",
+            "UFR2DECFR",
+            "UFRCP5Q4E",
+            "UFU6GEY3T",
+            "UFXJCFX32",
+            "UFXLR7Y2D",
+            "UG021KE3W",
+            "UG1M63BEJ",
+            "UG3QEG68Y",
+            "UG4354YKT",
+            "UG693FN7L",
+            "UGA46DPAT",
+            "UHEJYFVV0",
+            "UHKFQ75A4",
+            "UHYL3TQ57"
+        ],
+        "topic": {
+            "value": "Non-work banter and water cooler conversation",
+            "creator": "UFMUTFP7U",
+            "last_set": "1548329125"
+        },
+        "purpose": {
+            "value": "A place for non-work-related flimflam, faffing, hodge-podge or jibber-jabber you'd prefer to keep out of more focused work-related channels.",
+            "creator": "UFMUTFP7U",
+            "last_set": "1548329125"
+        }
+    },
+    {
+        "id": "CFPBNNEJJ",
+        "name": "general",
+        "created": "1548329125",
+        "creator": "UFMUTFP7U",
+        "is_archived": false,
+        "is_general": true,
+        "members": [
+            "UFMQ48LHE",
+            "UFMUTFP7U",
+            "UFNFNGQPL",
+            "UFNNXNNBT",
+            "UFP1NEA4F",
+            "UFP1WTUP9",
+            "UFP4ZJ4DN",
+            "UFP7290SG",
+            "UFP9WB0AV",
+            "UFPAWAHQC",
+            "UFPBXQW73",
+            "UFPC1B9UZ",
+            "UFPC99HFT",
+            "UFQ32FA3V",
+            "UFR08FNEB",
+            "UFR1Y38B1",
+            "UFR2DECFR",
+            "UFRCP5Q4E",
+            "UFU6GEY3T",
+            "UFXJCFX32",
+            "UFXLR7Y2D",
+            "UG021KE3W",
+            "UG1M63BEJ",
+            "UG3QEG68Y",
+            "UG4354YKT",
+            "UG693FN7L",
+            "UGA46DPAT",
+            "UHEJYFVV0",
+            "UHKFQ75A4",
+            "UHYL3TQ57"
+        ],
+        "pins": [
+            {
+                "id": "1554920349.030500",
+                "type": "C",
+                "created": 1554920356,
+                "user": "UHEJYFVV0",
+                "owner": "UHEJYFVV0"
+            },
+            {
+                "id": "1554920475.031000",
+                "type": "C",
+                "created": 1554920488,
+                "user": "UHEJYFVV0",
+                "owner": "UHEJYFVV0"
+            },
+            {
+                "id": "1554920527.031500",
+                "type": "C",
+                "created": 1554920533,
+                "user": "UHEJYFVV0",
+                "owner": "UHEJYFVV0"
+            },
+            {
+                "id": "1555253979.004800",
+                "type": "C",
+                "created": 1555253986,
+                "user": "UHEJYFVV0",
+                "owner": "UHEJYFVV0"
+            },
+            {
+                "id": "1555271806.010700",
+                "type": "C",
+                "created": 1555271813,
+                "user": "UHEJYFVV0",
+                "owner": "UHEJYFVV0"
+            },
+            {
+                "id": "1555271911.012700",
+                "type": "C",
+                "created": 1555271926,
+                "user": "UHEJYFVV0",
+                "owner": "UHEJYFVV0"
+            },
+            {
+                "id": "1555271999.014100",
+                "type": "C",
+                "created": 1555272005,
+                "user": "UHEJYFVV0",
+                "owner": "UHEJYFVV0"
+            },
+            {
+                "id": "1555272343.018300",
+                "type": "C",
+                "created": 1555272357,
+                "user": "UHEJYFVV0",
+                "owner": "UHEJYFVV0"
+            }
+        ],
+        "topic": {
+            "value": "Company-wide announcements and work-based matters",
+            "creator": "UFMUTFP7U",
+            "last_set": "1548329125"
+        },
+        "purpose": {
+            "value": "This channel is for workspace-wide communication and announcements. All members are in this channel.",
+            "creator": "UFMUTFP7U",
+            "last_set": "1548329125"
+        }
+    },
+    {
+        "id": "CG21P2LKS",
+        "name": "git",
+        "created": "1549733986",
+        "creator": "UFNFNGQPL",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "UFMQ48LHE",
+            "UFMUTFP7U",
+            "UFNFNGQPL",
+            "UFNNXNNBT",
+            "UFP1NEA4F",
+            "UFP1WTUP9",
+            "UFP4ZJ4DN",
+            "UFP7290SG",
+            "UFP9WB0AV",
+            "UFPAWAHQC",
+            "UFPBXQW73",
+            "UFPC1B9UZ",
+            "UFPC99HFT",
+            "UFQ32FA3V",
+            "UFR08FNEB",
+            "UFR1Y38B1",
+            "UFR2DECFR",
+            "UFRCP5Q4E",
+            "UFU6GEY3T",
+            "UFXLR7Y2D",
+            "UG021KE3W",
+            "UG1M63BEJ"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CG2EWEXFB",
+        "name": "dabe",
+        "created": "1549824596",
+        "creator": "UFP9WB0AV",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "UFMQ48LHE",
+            "UFNNXNNBT",
+            "UFP1NEA4F",
+            "UFP9WB0AV",
+            "UFPC1B9UZ"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CG31NF2HG",
+        "name": "scrum",
+        "created": "1549811244",
+        "creator": "UFXJCFX32",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "UFMQ48LHE",
+            "UFMUTFP7U",
+            "UFNFNGQPL",
+            "UFNNXNNBT",
+            "UFP1NEA4F",
+            "UFP1WTUP9",
+            "UFP4ZJ4DN",
+            "UFP7290SG",
+            "UFP9WB0AV",
+            "UFPAWAHQC",
+            "UFPBXQW73",
+            "UFPC1B9UZ",
+            "UFPC99HFT",
+            "UFQ32FA3V",
+            "UFR08FNEB",
+            "UFR1Y38B1",
+            "UFR2DECFR",
+            "UFRCP5Q4E",
+            "UFU6GEY3T",
+            "UFXJCFX32",
+            "UFXLR7Y2D",
+            "UG021KE3W",
+            "UG1M63BEJ"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CGFBAMGN8",
+        "name": "tychtrzech",
+        "created": "1551034050",
+        "creator": "UFP1NEA4F",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "UFP1NEA4F",
+            "UFPAWAHQC",
+            "UFR08FNEB",
+            "UFR2DECFR",
+            "UG693FN7L"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CGGRANEEA",
+        "name": "gorsisa",
+        "created": "1551033999",
+        "creator": "UFP1NEA4F",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "UFMUTFP7U",
+            "UFP1NEA4F",
+            "UFP7290SG",
+            "UFPBXQW73",
+            "UFPC99HFT",
+            "UG1M63BEJ"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    }
+]

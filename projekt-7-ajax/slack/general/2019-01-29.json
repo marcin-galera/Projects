@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "febc0253-882f-482c-99ad-9ac004eff8ee",
+        "type": "message",
+        "text": "<!channel> Jedna prośba - niektóre osoby już to zrobiły i bardzo mnie to cieszy - ustawcie sobie proszę tutaj swoje zdjęcie profilowe.\nMi (jako opiekunowi), oraz trenerom prowadzącym zajęcia, a także i wam będzie łatwiej się rozpoznać. :slightly_smiling_face:",
+        "user": "UFP1WTUP9",
+        "ts": "1548766310.001700",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "UFRCP5Q4E",
+                    "UFP7290SG"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!channel> Kto jeszcze nie uzupełnił ankiety???",
+        "files": [
+            {
+                "id": "FFS67SJHE",
+                "created": 1548834117,
+                "timestamp": 1548834117,
+                "name": "image.png",
+                "title": "Pasted image at 2019-01-30, 8:41 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFP1WTUP9",
+                "editable": false,
+                "size": 117162,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FFS67SJHE\/image.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FFS67SJHE\/download\/image.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFS67SJHE-4ce18a8ef1\/image_64.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFS67SJHE-4ce18a8ef1\/image_80.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFS67SJHE-4ce18a8ef1\/image_360.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 356,
+                "thumb_360_h": 276,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFS67SJHE-4ce18a8ef1\/image_160.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "image_exif_rotation": 1,
+                "original_w": 356,
+                "original_h": 276,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP1WTUP9\/FFS67SJHE\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FFS67SJHE-82e256d642",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP1WTUP9",
+        "display_as_bot": false,
+        "ts": "1548834119.000400"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "client_msg_id": "ead02785-13ba-4a36-a958-d8a69d01645e",
+        "type": "message",
+        "text": "<!channel> Podczas najbliższej konferencji <https:\/\/infoshare.pl\/> odbędzie się warsztat, który może was zainteresować ”Machine Learning: jak obliczyć szanse przeżycia katastrofy na Titanicu?” Warsztat jest prowadzony przez naszych trenerów Marcina Zadrogę i Jakuba Lachowicza. Polecam serdecznie :slightly_smiling_face: <https:\/\/infoshare.pl\/workshops\/>",
+        "user": "UFP1WTUP9",
+        "ts": "1556536870.000300",
+        "attachments": [
+            {
+                "service_name": "Infoshare 2019",
+                "title": "Infoshare - the biggest tech conference in CEE",
+                "title_link": "https:\/\/infoshare.pl\/",
+                "text": "Infoshare 2019 - the biggest Tech Conference in CEE (6000+ attendees, 200+ speakers and 500+ startups). Great Networking Party with Live Concert. Take part in this unique experience and join us in Gdansk, Poland, 8-9 May, 2019! Let’s grow with technology!",
+                "fallback": "Infoshare 2019: Infoshare - the biggest tech conference in CEE",
+                "image_url": "https:\/\/infoshare.pl\/_media\/FB\/infoshare_2019_website_og.png",
+                "from_url": "https:\/\/infoshare.pl\/",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 84365,
+                "service_icon": "https:\/\/infoshare.pl\/favicon_new.ico",
+                "id": 1,
+                "original_url": "https:\/\/infoshare.pl\/"
+            },
+            {
+                "service_name": "Infoshare 2019",
+                "title": "Infoshare 2019 - Take part in workshops led by experts",
+                "title_link": "https:\/\/infoshare.pl\/workshops\/",
+                "text": "Workshops are focused on providing attendees with a masterclass on any given topic. You're welcome to attend as many Workshops as you like. 25% discount for all workshops if you have the Conference, Startup, Executive or Investor pass.",
+                "fallback": "Infoshare 2019: Infoshare 2019 - Take part in workshops led by experts",
+                "image_url": "https:\/\/infoshare.pl\/_media\/FB\/is19_workshop_og.png",
+                "from_url": "https:\/\/infoshare.pl\/workshops\/",
+                "image_width": 478,
+                "image_height": 250,
+                "image_bytes": 337076,
+                "service_icon": "https:\/\/infoshare.pl\/favicon_new.ico",
+                "id": 2,
+                "original_url": "https:\/\/infoshare.pl\/workshops\/"
+            }
+        ],
+        "thread_ts": "1556536870.000300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1556557162.001600",
+        "reply_users": [
+            "UFP1NEA4F"
+        ],
+        "replies": [
+            {
+                "user": "UFP1NEA4F",
+                "ts": "1556557162.001600"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48F69681-204B-47BF-925F-77CC0A9A4EC3",
+        "type": "message",
+        "text": "Proste, 50%, albo przeżyjesz albo nie :zany_face:",
+        "user": "UFP1NEA4F",
+        "ts": "1556557162.001600",
+        "thread_ts": "1556536870.000300",
+        "parent_user_id": "UFP1WTUP9"
+    }
+]

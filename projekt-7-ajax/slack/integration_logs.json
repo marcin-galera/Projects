@@ -1,0 +1,99 @@
+[
+    {
+        "user_id": "UFP4ZJ4DN",
+        "user_name": "maciekek",
+        "date": "1552850207",
+        "change_type": "resource_grant_created",
+        "service_id": "533368316864",
+        "service_type": "App",
+        "scope": null,
+        "channel": "private",
+        "app_type": "GitHub",
+        "app_id": "A8GBNUWU8"
+    },
+    {
+        "user_id": "UGA46DPAT",
+        "user_name": "daniel",
+        "date": "1552235087",
+        "change_type": "resource_grant_created",
+        "service_id": "533368316864",
+        "service_type": "App",
+        "scope": null,
+        "channel": "private",
+        "app_type": "GitHub",
+        "app_id": "A8GBNUWU8"
+    },
+    {
+        "user_id": "UFXJCFX32",
+        "user_name": "jacek.jan.durlik",
+        "date": "1549361096",
+        "change_type": "added",
+        "service_id": "541760647377",
+        "service_type": "Giphy",
+        "scope": "commands"
+    },
+    {
+        "user_id": "UFNFNGQPL",
+        "user_name": "zamiastecki",
+        "date": "1548539787",
+        "change_type": "expanded",
+        "service_id": "533368316864",
+        "service_type": "App",
+        "scope": null,
+        "app_type": "GitHub",
+        "app_id": "A8GBNUWU8"
+    },
+    {
+        "user_id": "UFNFNGQPL",
+        "user_name": "zamiastecki",
+        "date": "1548539787",
+        "change_type": "expanded",
+        "service_id": "533368316864",
+        "service_type": "App",
+        "scope": null,
+        "app_type": "GitHub",
+        "app_id": "A8GBNUWU8"
+    },
+    {
+        "user_id": "UFNFNGQPL",
+        "user_name": "zamiastecki",
+        "date": "1548539787",
+        "change_type": "resource_grant_created",
+        "service_id": "533368316864",
+        "service_type": "App",
+        "scope": null,
+        "app_type": "GitHub",
+        "app_id": "A8GBNUWU8"
+    },
+    {
+        "user_id": "UFNFNGQPL",
+        "user_name": "zamiastecki",
+        "date": "1548539787",
+        "change_type": "resource_grant_created",
+        "service_id": "533368316864",
+        "service_type": "App",
+        "scope": null,
+        "channel": "private",
+        "app_type": "GitHub",
+        "app_id": "A8GBNUWU8"
+    },
+    {
+        "user_id": "UFNFNGQPL",
+        "user_name": "zamiastecki",
+        "date": "1548539787",
+        "change_type": "wildcard_resource_grant_created",
+        "service_id": "533368316864",
+        "service_type": "App",
+        "scope": null,
+        "app_type": "GitHub",
+        "app_id": "A8GBNUWU8"
+    },
+    {
+        "user_id": "UFNFNGQPL",
+        "user_name": "zamiastecki",
+        "date": "1548539787",
+        "change_type": "added",
+        "app_type": "GitHub",
+        "app_id": "A8GBNUWU8"
+    }
+]

@@ -1,0 +1,147 @@
+[
+    {
+        "type": "message",
+        "text": "Głupie pytanie nr 1.\nWiecie czy da się zmienić kolor linii w svg?",
+        "files": [
+            {
+                "id": "FH4H006RW",
+                "created": 1553256745,
+                "timestamp": 1553256745,
+                "name": "Przechwytywanie.PNG",
+                "title": "Przechwytywanie.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFP7290SG",
+                "editable": false,
+                "size": 34204,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FH4H006RW\/przechwytywanie.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FH4H006RW\/download\/przechwytywanie.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH4H006RW-c5df551359\/przechwytywanie_64.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH4H006RW-c5df551359\/przechwytywanie_80.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH4H006RW-c5df551359\/przechwytywanie_360.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 122,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH4H006RW-c5df551359\/przechwytywanie_480.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 480,
+                "thumb_480_h": 163,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH4H006RW-c5df551359\/przechwytywanie_160.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH4H006RW-c5df551359\/przechwytywanie_720.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 720,
+                "thumb_720_h": 245,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH4H006RW-c5df551359\/przechwytywanie_800.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 272,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH4H006RW-c5df551359\/przechwytywanie_960.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 960,
+                "thumb_960_h": 326,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH4H006RW-c5df551359\/przechwytywanie_1024.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 348,
+                "image_exif_rotation": 1,
+                "original_w": 1532,
+                "original_h": 521,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP7290SG\/FH4H006RW\/przechwytywanie.png",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FH4H006RW-f8d2daf0d3",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP7290SG",
+        "display_as_bot": false,
+        "ts": "1553256748.000100"
+    },
+    {
+        "client_msg_id": "8c19274a-9e35-49b3-bb01-597272b0b99a",
+        "type": "message",
+        "text": "Nie kumam co to ta linia svg :stuck_out_tongue:",
+        "user": "UG1M63BEJ",
+        "ts": "1553256945.000600"
+    },
+    {
+        "client_msg_id": "018912ef-7885-479e-bf17-eab6bb8ffab1",
+        "type": "message",
+        "text": "<https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/SVG\/Tutorial\/Fills_and_Strokes>",
+        "user": "UFP7290SG",
+        "ts": "1553257025.000800",
+        "attachments": [
+            {
+                "service_name": "MDN Web Docs",
+                "title": "Fills and Strokes",
+                "title_link": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/SVG\/Tutorial\/Fills_and_Strokes",
+                "text": "There are several ways to color shapes (including specifying attributes on the object) using inline CSS, an embedded CSS section, or an external CSS file. Most SVG you'll find around the web use inline CSS, but there are advantages and disadvantages associated with each type.",
+                "fallback": "MDN Web Docs: Fills and Strokes",
+                "thumb_url": "https:\/\/developer.mozilla.org\/static\/img\/opengraph-logo.72382e605ce3.png",
+                "from_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/SVG\/Tutorial\/Fills_and_Strokes",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/developer.mozilla.org\/static\/img\/favicon144.e7e21ca263ca.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/SVG\/Tutorial\/Fills_and_Strokes"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cccd98a0-d72a-43e3-8df3-4818678b41b2",
+        "type": "message",
+        "text": "Znalazłem jedynie elemnty\nstroke\nfill",
+        "user": "UFP7290SG",
+        "ts": "1553257043.001400"
+    },
+    {
+        "client_msg_id": "6d356ce7-887e-4668-ba36-39df58c97aea",
+        "type": "message",
+        "text": "A więc chciałbym żeby symbol był biały :stuck_out_tongue:",
+        "user": "UFP7290SG",
+        "ts": "1553257085.002000"
+    },
+    {
+        "client_msg_id": "13766522-504e-4bc5-905b-1a50c79397f9",
+        "type": "message",
+        "text": "Jego kontury były białe",
+        "user": "UFP7290SG",
+        "ts": "1553257095.002300"
+    },
+    {
+        "client_msg_id": "5595d91f-88e6-4976-b4c8-f0b17bcb532f",
+        "type": "message",
+        "text": "Ja się ogarniam do pracy na 14, zobaczę jak będę miał chwilę to podpowiem coś moze",
+        "user": "UG1M63BEJ",
+        "ts": "1553257183.003200"
+    },
+    {
+        "client_msg_id": "be6e5ae4-efb6-4079-83d4-24921c09c3a8",
+        "type": "message",
+        "text": "A to pewnie już znajdę do tego czasu :stuck_out_tongue:",
+        "user": "UFP7290SG",
+        "ts": "1553257235.003500"
+    },
+    {
+        "client_msg_id": "fe4aca86-fff4-40af-8aa3-4a3d9600c017",
+        "type": "message",
+        "text": "Miłego pracowania",
+        "user": "UFP7290SG",
+        "ts": "1553257241.003800"
+    },
+    {
+        "client_msg_id": "02ccc1c9-5088-42a1-b4c2-cd8aa8c99804",
+        "type": "message",
+        "text": "I jak? :D",
+        "user": "UG1M63BEJ",
+        "ts": "1553266234.004200"
+    },
+    {
+        "client_msg_id": "fec24267-e370-4f35-ae5f-82f897286a65",
+        "type": "message",
+        "text": "Chyba się nei da, można tylko wypełniać svg",
+        "user": "UFP7290SG",
+        "ts": "1553267736.005200"
+    }
+]

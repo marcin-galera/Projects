@@ -1,0 +1,81 @@
+[
+    {
+        "client_msg_id": "4d80c612-7f63-4d96-8691-ce362106d040",
+        "type": "message",
+        "text": "<!channel> Product Owner się niepokoi, bo na developie nic nie ma :slightly_smiling_face:",
+        "user": "UFP1NEA4F",
+        "ts": "1552821938.000500"
+    },
+    {
+        "client_msg_id": "389e4971-915c-4754-907c-a4d41c85a23b",
+        "type": "message",
+        "text": "Podzielam odczucia product ownera, dziś jadę jak na wyrok :D",
+        "user": "UG1M63BEJ",
+        "ts": "1552822118.001300"
+    },
+    {
+        "client_msg_id": "94f3fe37-2fb4-49e7-89c7-f472621e6df7",
+        "type": "message",
+        "text": "Dobrze to bedzie wyglądało przed klientem :smile:",
+        "user": "UFP1NEA4F",
+        "ts": "1552822148.001600"
+    },
+    {
+        "client_msg_id": "2e5a339d-ed56-4a17-95c8-83d8d92a8061",
+        "type": "message",
+        "text": "1.root i kolorystyka, faviicon i logo na hero (Mikolaj)\n2. responsywne menu, hero na 100% (Karol)\n3. planowane funkcje produktu (Marcin)\n4.  dodatkowe funckje o produkcie (Patryk zrob css tak aby nie nadpisywaly wszystkich tagow, jeszcze raz zerknij na Jire)\n5. formularz- zapis na premiere (Mikolaj)\n6. o nas (Marcin)\n7. stopka (copyright, gh zespolu)",
+        "user": "UG1M63BEJ",
+        "ts": "1552851736.003200"
+    },
+    {
+        "client_msg_id": "273c5fe3-d1a3-4ccc-a862-ddf020c71f9a",
+        "type": "message",
+        "text": "A ktore tagi.nadpisuje ?",
+        "user": "UFPBXQW73",
+        "ts": "1552854158.000400"
+    },
+    {
+        "client_msg_id": "410a59cb-eb4b-407b-b6fe-f0d53bdcbb1a",
+        "type": "message",
+        "text": "w chromie `document.documentElement.scrollTop` :smile: to czego szukałem, `document.body.scrollTop` jest w innych przeglądarkach i dlatego nie działało",
+        "user": "UFP1NEA4F",
+        "ts": "1552858177.000800",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UG1M63BEJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3a507154-17e1-4e67-b460-1041885b853c",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=0echJVeK0nU&amp;list=PLjHmWifVUNMLJqo4jyY5UKJefNmH3Vslu> tutaj tutorial po Polsku jak staramy się pisać CSS'y",
+        "user": "UG1M63BEJ",
+        "ts": "1552861067.001400",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Poznaj CSS #1 - Metodologia BEM - styl myślenia",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=0echJVeK0nU",
+                "author_name": "overment",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC_MIaHmSkt9JHNZfQ_gUmrg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/0echJVeK0nU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Poznaj CSS #1 - Metodologia BEM - styl myślenia",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/0echJVeK0nU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=0echJVeK0nU",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=0echJVeK0nU&amp;list=PLjHmWifVUNMLJqo4jyY5UKJefNmH3Vslu"
+            }
+        ]
+    }
+]

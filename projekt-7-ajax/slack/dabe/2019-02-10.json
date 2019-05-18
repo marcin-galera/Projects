@@ -1,0 +1,566 @@
+[
+    {
+        "user": "UFP9WB0AV",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549824597.000200",
+        "text": "<@UFP9WB0AV> has joined the channel"
+    },
+    {
+        "user": "UFMQ48LHE",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549824597.000400",
+        "text": "<@UFMQ48LHE> has joined the channel",
+        "inviter": "UFP9WB0AV"
+    },
+    {
+        "user": "UFNNXNNBT",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549824597.000600",
+        "text": "<@UFNNXNNBT> has joined the channel",
+        "inviter": "UFP9WB0AV"
+    },
+    {
+        "user": "UFPC1B9UZ",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1549824597.000800",
+        "text": "<@UFPC1B9UZ> has joined the channel",
+        "inviter": "UFP9WB0AV"
+    },
+    {
+        "client_msg_id": "4e33df78-39a5-4fcf-8725-c25a444d9345",
+        "type": "message",
+        "text": "Siema",
+        "user": "UFP9WB0AV",
+        "ts": "1549824619.001000"
+    },
+    {
+        "client_msg_id": "fab0a8d5-86a5-45af-aa13-269107bd5781",
+        "type": "message",
+        "text": "Siema",
+        "user": "UFNNXNNBT",
+        "ts": "1549824667.001400"
+    },
+    {
+        "client_msg_id": "39effbaf-0748-4299-84d6-ec517d78e9d4",
+        "type": "message",
+        "text": "Co tam na projekcie",
+        "user": "UFNNXNNBT",
+        "ts": "1549824692.002100"
+    },
+    {
+        "client_msg_id": "f59130b7-ba14-4028-bc7a-8be45431ffef",
+        "type": "message",
+        "text": "??",
+        "user": "UFNNXNNBT",
+        "ts": "1549824695.002300"
+    },
+    {
+        "client_msg_id": "b96d713c-754d-484a-843c-5eeff34152fe",
+        "type": "message",
+        "text": "Obecnie jesteśmy już bo ustaleniu story pointsów",
+        "user": "UFP9WB0AV",
+        "ts": "1549824763.003300"
+    },
+    {
+        "client_msg_id": "685f0993-d022-481b-b692-3ee708eaee5f",
+        "type": "message",
+        "text": "W grupach czy wszyscy razem",
+        "user": "UFNNXNNBT",
+        "ts": "1549824786.004300"
+    },
+    {
+        "client_msg_id": "2848d3bc-cdb0-4f09-8996-5c2849e4fc60",
+        "type": "message",
+        "text": "??",
+        "user": "UFNNXNNBT",
+        "ts": "1549824791.004600"
+    },
+    {
+        "client_msg_id": "637c8099-1ccc-4f87-8396-e474766a2f50",
+        "type": "message",
+        "text": "właśnie",
+        "user": "UFP9WB0AV",
+        "ts": "1549824800.004900"
+    },
+    {
+        "client_msg_id": "bf5b7829-f601-423f-98ea-616434bece81",
+        "type": "message",
+        "text": "Pracujemy w grupach",
+        "user": "UFP9WB0AV",
+        "ts": "1549824807.005100"
+    },
+    {
+        "client_msg_id": "dde353e5-827e-404e-8098-fbe83bc1a0ea",
+        "type": "message",
+        "text": "Wow to sory za dzisiaj ",
+        "user": "UFNNXNNBT",
+        "ts": "1549824826.006100"
+    },
+    {
+        "client_msg_id": "8f68171d-bd28-49c1-b345-afe873de9a67",
+        "type": "message",
+        "text": "ten sprint trwa do 17 marca",
+        "user": "UFP9WB0AV",
+        "ts": "1549824837.006400"
+    },
+    {
+        "client_msg_id": "9da02686-efe2-4f9d-85b8-db5f9a5d25e5",
+        "type": "message",
+        "text": "mamy 7 zadan",
+        "user": "UFP9WB0AV",
+        "ts": "1549824851.006700"
+    },
+    {
+        "client_msg_id": "fe272004-1fa5-412b-ad3a-96a01882a6ba",
+        "type": "message",
+        "text": "masz juz je na jira",
+        "user": "UFP9WB0AV",
+        "ts": "1549824856.007000"
+    },
+    {
+        "client_msg_id": "231fbe7a-e0da-4fa3-a977-91b0d7909d42",
+        "type": "message",
+        "text": "w DABE",
+        "user": "UFP9WB0AV",
+        "ts": "1549824864.007300"
+    },
+    {
+        "client_msg_id": "9596f004-c98f-4188-8189-8138fa5d71bb",
+        "type": "message",
+        "text": "Ewa musiała już wyjść i zostałem sam z Adrianem",
+        "user": "UFP9WB0AV",
+        "ts": "1549824894.007700"
+    },
+    {
+        "client_msg_id": "0d004884-b47a-410e-a5fe-a00f81325fdf",
+        "type": "message",
+        "text": "Dzielne chłopy :muscle::muscle::muscle::muscle::muscle::muscle::muscle::muscle:",
+        "user": "UFNNXNNBT",
+        "ts": "1549824926.008700"
+    },
+    {
+        "client_msg_id": "ab5fe62b-02f3-4274-8f5f-729c95de0eb7",
+        "type": "message",
+        "text": "tzn obecnie jest przerwa a do tej pory pracowaliśmy wspólnie. Ewa dopiero teraz wyszła",
+        "user": "UFP9WB0AV",
+        "ts": "1549824965.009400"
+    },
+    {
+        "client_msg_id": "973d7270-56f1-4f56-94a5-40576a1ea7b6",
+        "type": "message",
+        "text": "obecne zadania są bardzo proste",
+        "user": "UFP9WB0AV",
+        "ts": "1549824978.009700"
+    },
+    {
+        "client_msg_id": "814eafab-7d01-4e16-8067-4ab5df310c28",
+        "type": "message",
+        "text": "i teraz pytanie",
+        "user": "UFP9WB0AV",
+        "ts": "1549824982.009900"
+    },
+    {
+        "client_msg_id": "532f7d7b-40fe-4bb4-b3e6-2a2ed8981dd4",
+        "type": "message",
+        "text": "czy pracujemy na zajęciach czy spotykamy się w ciągu tygodnia i ustalamy co kto robi",
+        "user": "UFP9WB0AV",
+        "ts": "1549825026.010600"
+    },
+    {
+        "client_msg_id": "e05b5bd2-a083-4130-87e7-5316786ebec8",
+        "type": "message",
+        "text": "?",
+        "user": "UFP9WB0AV",
+        "ts": "1549825029.010800"
+    },
+    {
+        "client_msg_id": "cfc30035-b640-4c0f-b5fe-b5d9efa48645",
+        "type": "message",
+        "text": "Hmmmm",
+        "user": "UFNNXNNBT",
+        "ts": "1549825035.011000"
+    },
+    {
+        "client_msg_id": "99bc89d8-9581-4866-8b2c-6a0c8c4c4a78",
+        "type": "message",
+        "text": "A dostępu do jiry",
+        "user": "UFNNXNNBT",
+        "ts": "1549825043.011400"
+    },
+    {
+        "client_msg_id": "a744a376-3a34-4153-9bdd-2357fe19818a",
+        "type": "message",
+        "text": "??",
+        "user": "UFNNXNNBT",
+        "ts": "1549825046.011600"
+    },
+    {
+        "client_msg_id": "9382434e-8f61-4c65-9396-020111d5b7ed",
+        "type": "message",
+        "text": "tam nie ma dużo pracy",
+        "user": "UFP9WB0AV",
+        "ts": "1549825046.011700"
+    },
+    {
+        "client_msg_id": "3ccd1001-1c2c-45fd-8203-a3aba5b9e50f",
+        "type": "message",
+        "text": "Jak to działa",
+        "user": "UFNNXNNBT",
+        "ts": "1549825052.012100"
+    },
+    {
+        "client_msg_id": "e1b8a292-ee8e-4cf0-8c1b-eb8cc9b3bff0",
+        "type": "message",
+        "text": "nie masz zaproszenia od Daniela?",
+        "user": "UFP9WB0AV",
+        "ts": "1549825055.012200"
+    },
+    {
+        "client_msg_id": "bd8b45af-b8cf-4379-86f1-96e85ccb2895",
+        "type": "message",
+        "text": "??",
+        "user": "UFNNXNNBT",
+        "ts": "1549825057.012400"
+    },
+    {
+        "client_msg_id": "2b1e7032-c3a8-425d-b9d9-487676501e20",
+        "type": "message",
+        "text": "ok czekaj",
+        "user": "UFP9WB0AV",
+        "ts": "1549825060.012600"
+    },
+    {
+        "client_msg_id": "74787fa6-7339-426e-85f9-d8e5633611a1",
+        "type": "message",
+        "text": "tzn nie od Daniela tylko od Nikodema :smile:",
+        "user": "UFP9WB0AV",
+        "ts": "1549825070.012900"
+    },
+    {
+        "client_msg_id": "a6647054-0114-477e-86b3-137992813288",
+        "type": "message",
+        "text": "przepraszam",
+        "user": "UFP9WB0AV",
+        "ts": "1549825072.013200"
+    },
+    {
+        "client_msg_id": "d1b719cb-956c-4b51-92cc-3551683f6afb",
+        "type": "message",
+        "text": "jestem juz zmęczony",
+        "user": "UFP9WB0AV",
+        "ts": "1549825081.013400"
+    },
+    {
+        "client_msg_id": "e2cf8867-5c6f-48aa-aad0-f3dfcf1f0fb2",
+        "type": "message",
+        "text": "Ok",
+        "user": "UFNNXNNBT",
+        "ts": "1549825095.013600"
+    },
+    {
+        "client_msg_id": "e0cae594-1fe9-41d2-8210-388fd1bbd370",
+        "type": "message",
+        "text": "Zobaczę co tam jest i się skomunikujemy",
+        "user": "UFNNXNNBT",
+        "ts": "1549825114.014400"
+    },
+    {
+        "client_msg_id": "226e7ad3-f809-437d-945e-f0231f2e979c",
+        "type": "message",
+        "text": "Wg Nikodema jesteś już w DABE na Jira",
+        "user": "UFP9WB0AV",
+        "ts": "1549825463.015300"
+    },
+    {
+        "client_msg_id": "0470d7f6-a760-4a22-87ed-3540da1fedfc",
+        "type": "message",
+        "text": "Chcemy to wszystko zrobić jako prosty ONE-PAGER",
+        "user": "UFP9WB0AV",
+        "ts": "1549825521.016000"
+    },
+    {
+        "client_msg_id": "1246cf74-099e-4dbe-a9b2-7ea43e92257e",
+        "type": "message",
+        "text": "inspirując się kolorystyką st<https:\/\/bitcoin.org\/en\/wallets\/web\/rony>",
+        "user": "UFP9WB0AV",
+        "ts": "1549825547.016400",
+        "attachments": [
+            {
+                "title": "Bitcoin - Open source P2P money",
+                "title_link": "https:\/\/bitcoin.org\/en\/wallets\/web\/rony",
+                "text": "Bitcoin is an innovative payment network and a new kind of money. Find all you need to know and get started with Bitcoin on <http:\/\/bitcoin.org|bitcoin.org>.",
+                "fallback": "Bitcoin - Open source P2P money",
+                "image_url": "https:\/\/bitcoin.org\/img\/icons\/opengraph.png?1549818360",
+                "from_url": "https:\/\/bitcoin.org\/en\/wallets\/web\/rony",
+                "image_width": 250,
+                "image_height": 250,
+                "image_bytes": 14655,
+                "service_icon": "https:\/\/bitcoin.org\/img\/icons\/logo_ios.png?1549818360",
+                "service_name": "bitcoin.org",
+                "id": 1,
+                "original_url": "https:\/\/bitcoin.org\/en\/wallets\/web\/rony"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51a13f65-a8b7-4e16-aa32-2dc4c28e9c32",
+        "type": "message",
+        "text": "tej strony",
+        "user": "UFP9WB0AV",
+        "ts": "1549825560.016700"
+    },
+    {
+        "client_msg_id": "f86ec4cd-e618-4653-b700-1a6a7e6f88e8",
+        "type": "message",
+        "text": "wg mobile first więc zaczęliśmy projektowa w ukadzie pionowym",
+        "user": "UFP9WB0AV",
+        "ts": "1549825635.017500"
+    },
+    {
+        "client_msg_id": "f5dc8bf8-a136-4d41-97bb-db2b1ce5a024",
+        "type": "message",
+        "text": "Ok",
+        "user": "UFNNXNNBT",
+        "ts": "1549825919.017700"
+    },
+    {
+        "client_msg_id": "dbd5bbc6-ef54-4c96-8cbe-f992467d2c74",
+        "type": "message",
+        "text": "Dostałem linka do ździry więc spojrzę i się odezwę jutro...",
+        "user": "UFNNXNNBT",
+        "ts": "1549826121.019000"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FG2BESJ2U",
+                "created": 1549827960,
+                "timestamp": 1549827960,
+                "name": "IMG_20190210_204525.jpg",
+                "title": "IMG_20190210_204525.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UFP9WB0AV",
+                "editable": false,
+                "size": 319687,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FG2BESJ2U\/img_20190210_204525.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FG2BESJ2U\/download\/img_20190210_204525.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BESJ2U-f1b92d7189\/img_20190210_204525_64.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BESJ2U-f1b92d7189\/img_20190210_204525_80.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BESJ2U-f1b92d7189\/img_20190210_204525_360.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BESJ2U-f1b92d7189\/img_20190210_204525_480.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BESJ2U-f1b92d7189\/img_20190210_204525_160.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BESJ2U-f1b92d7189\/img_20190210_204525_720.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BESJ2U-f1b92d7189\/img_20190210_204525_800.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BESJ2U-f1b92d7189\/img_20190210_204525_960.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BESJ2U-f1b92d7189\/img_20190210_204525_1024.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3456,
+                "original_h": 4608,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP9WB0AV\/FG2BESJ2U\/img_20190210_204525.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FG2BESJ2U-85aaab60c8",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP9WB0AV",
+        "display_as_bot": false,
+        "ts": "1549827966.019200",
+        "client_msg_id": "928598ac-8bb7-4732-ab12-62443c798d28"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FG2BF3WFJ",
+                "created": 1549828000,
+                "timestamp": 1549828000,
+                "name": "IMG_20190210_204552.jpg",
+                "title": "IMG_20190210_204552.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UFP9WB0AV",
+                "editable": false,
+                "size": 345510,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FG2BF3WFJ\/img_20190210_204552.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FG2BF3WFJ\/download\/img_20190210_204552.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BF3WFJ-b328167a54\/img_20190210_204552_64.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BF3WFJ-b328167a54\/img_20190210_204552_80.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BF3WFJ-b328167a54\/img_20190210_204552_360.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BF3WFJ-b328167a54\/img_20190210_204552_480.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BF3WFJ-b328167a54\/img_20190210_204552_160.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BF3WFJ-b328167a54\/img_20190210_204552_720.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BF3WFJ-b328167a54\/img_20190210_204552_800.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BF3WFJ-b328167a54\/img_20190210_204552_960.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG2BF3WFJ-b328167a54\/img_20190210_204552_1024.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3456,
+                "original_h": 4608,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP9WB0AV\/FG2BF3WFJ\/img_20190210_204552.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FG2BF3WFJ-a090b3f628",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP9WB0AV",
+        "display_as_bot": false,
+        "ts": "1549828006.019500",
+        "client_msg_id": "d9c47fed-e84d-4339-8846-24c75b5e2dd1"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FG33M26HG",
+                "created": 1549827999,
+                "timestamp": 1549827999,
+                "name": "IMG_20190210_204537.jpg",
+                "title": "IMG_20190210_204537.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UFP9WB0AV",
+                "editable": false,
+                "size": 408344,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FG33M26HG\/img_20190210_204537.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FG33M26HG\/download\/img_20190210_204537.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG33M26HG-a316db46f7\/img_20190210_204537_64.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG33M26HG-a316db46f7\/img_20190210_204537_80.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG33M26HG-a316db46f7\/img_20190210_204537_360.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG33M26HG-a316db46f7\/img_20190210_204537_480.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG33M26HG-a316db46f7\/img_20190210_204537_160.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG33M26HG-a316db46f7\/img_20190210_204537_720.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG33M26HG-a316db46f7\/img_20190210_204537_800.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG33M26HG-a316db46f7\/img_20190210_204537_960.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG33M26HG-a316db46f7\/img_20190210_204537_1024.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3456,
+                "original_h": 4608,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP9WB0AV\/FG33M26HG\/img_20190210_204537.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FG33M26HG-dd80824fd6",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP9WB0AV",
+        "display_as_bot": false,
+        "ts": "1549828007.019800",
+        "client_msg_id": "cf77719a-c2af-4f38-b13d-e61b2f92b533"
+    },
+    {
+        "client_msg_id": "d7626639-e49a-4871-b9cf-ccd7f5f6b9aa",
+        "type": "message",
+        "text": "1. trzeba stworzyć repo na gicie\n2. stworzyć index.html i plik css\n3. podzielić się zadaniami\n4. wyznaczyć kogoś kto będzie wszystkie elementy kody sklejał do indexu i pliku css bo jeszcze nie wszyscy ogarniają pracę ba branchach",
+        "user": "UFP9WB0AV",
+        "ts": "1549828182.022600"
+    },
+    {
+        "client_msg_id": "93a86aca-4c60-48af-943f-24d5c6b780d9",
+        "type": "message",
+        "text": "Daniel wyznaczamy Ciebie :smile: :smile: :smile:",
+        "user": "UFP9WB0AV",
+        "ts": "1549828212.023000"
+    },
+    {
+        "client_msg_id": "352987c1-eb24-4efd-acfb-14a27fe880be",
+        "type": "message",
+        "text": "ja mogę powalczyć z menu",
+        "user": "UFP9WB0AV",
+        "ts": "1549828249.023300"
+    },
+    {
+        "client_msg_id": "c22ea6b9-f5ea-435a-8a37-27796d80c973",
+        "type": "message",
+        "text": "Adrian chce wziąć hero",
+        "user": "UFP9WB0AV",
+        "ts": "1549828265.023800"
+    },
+    {
+        "client_msg_id": "cec9240c-61bd-420b-8149-08e1bcea7c87",
+        "type": "message",
+        "text": "przypisaliśmy się już do tych zadań w ździrze",
+        "user": "UFP9WB0AV",
+        "ts": "1549828288.024100"
+    },
+    {
+        "client_msg_id": "cf2d5ace-a6ec-479b-b708-8b33cc4524a6",
+        "type": "message",
+        "text": "Ok",
+        "user": "UFNNXNNBT",
+        "ts": "1549829387.000200"
+    },
+    {
+        "client_msg_id": "5da4cdaa-eca8-4b5d-afba-cc2206edf250",
+        "type": "message",
+        "text": "mam linka do zdziry a co  loginem i haslem ???",
+        "user": "UFNNXNNBT",
+        "ts": "1549838866.000500"
+    }
+]

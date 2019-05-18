@@ -1,0 +1,384 @@
+[
+    {
+        "client_msg_id": "16104778-e20d-4e15-a83a-71866765a556",
+        "type": "message",
+        "text": "postaram sie byc predzej",
+        "user": "UFNNXNNBT",
+        "ts": "1552729963.000300"
+    },
+    {
+        "client_msg_id": "19a21044-3202-404b-bbcd-892732137a11",
+        "type": "message",
+        "text": "może wszyscy umówimy się na konkretną godzinę?",
+        "user": "UFP9WB0AV",
+        "ts": "1552730033.001300"
+    },
+    {
+        "client_msg_id": "97361aac-f5a6-44ac-a09c-adeb74d863c0",
+        "type": "message",
+        "text": "14.30?",
+        "user": "UFNNXNNBT",
+        "ts": "1552730049.001500"
+    },
+    {
+        "client_msg_id": "c28f7f86-e47c-4f94-b002-542cf8e4e271",
+        "type": "message",
+        "text": "dla mnie spoko, ale z biorąc pod uwagę doświadczenie sprzed tygodnia to domyślam się, że półgodziny to będzie mało :disappointed:",
+        "user": "UFP9WB0AV",
+        "ts": "1552730101.002500"
+    },
+    {
+        "client_msg_id": "3cd5f9d2-ed76-4133-b9f7-1c4b6ed67cf3",
+        "type": "message",
+        "text": "zrobie wszystko co w mojej mocy aby byc predzej tzn. na 14.00",
+        "user": "UFNNXNNBT",
+        "ts": "1552730670.004000"
+    },
+    {
+        "client_msg_id": "078a8ba7-e530-442c-a77e-918f19d5eb5f",
+        "type": "message",
+        "text": "dobra to ja też będę",
+        "user": "UFP9WB0AV",
+        "ts": "1552730681.004200"
+    },
+    {
+        "client_msg_id": "3db2d33a-9ced-4c2f-88d4-e196e69df6ba",
+        "type": "message",
+        "text": "na 14",
+        "user": "UFP9WB0AV",
+        "ts": "1552730686.004500"
+    },
+    {
+        "client_msg_id": "004d8fdf-e24d-4841-b2de-f8043b7ac0ed",
+        "type": "message",
+        "text": "daj mi znać do 13 czy się wyrobisz",
+        "user": "UFP9WB0AV",
+        "ts": "1552730702.004800"
+    },
+    {
+        "client_msg_id": "4d51a4f7-b46a-42db-93ce-87ba19742570",
+        "type": "message",
+        "text": "ok",
+        "user": "UFNNXNNBT",
+        "ts": "1552730713.005000"
+    },
+    {
+        "client_msg_id": "F4FAAEA4-5578-4940-9B78-162333FC6A4E",
+        "type": "message",
+        "text": "To ja tez będę na 14",
+        "user": "UFPC1B9UZ",
+        "ts": "1552731078.005300"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FH0VCA0JG",
+                "created": 1552731177,
+                "timestamp": 1552731177,
+                "name": "569x824_loga39.jpg",
+                "title": "569x824_loga39.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UFP9WB0AV",
+                "editable": false,
+                "size": 95830,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FH0VCA0JG\/569x824_loga39.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FH0VCA0JG\/download\/569x824_loga39.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH0VCA0JG-ccb67d97c2\/569x824_loga39_64.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH0VCA0JG-ccb67d97c2\/569x824_loga39_80.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH0VCA0JG-ccb67d97c2\/569x824_loga39_360.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 249,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH0VCA0JG-ccb67d97c2\/569x824_loga39_480.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 331,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH0VCA0JG-ccb67d97c2\/569x824_loga39_160.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH0VCA0JG-ccb67d97c2\/569x824_loga39_720.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 497,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH0VCA0JG-ccb67d97c2\/569x824_loga39_800.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 552,
+                "thumb_800_h": 800,
+                "image_exif_rotation": 1,
+                "original_w": 569,
+                "original_h": 824,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP9WB0AV\/FH0VCA0JG\/569x824_loga39.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FH0VCA0JG-fbb2d1a6a2",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP9WB0AV",
+        "display_as_bot": false,
+        "ts": "1552731179.005400"
+    },
+    {
+        "client_msg_id": "fd45aeac-704b-41f4-ab24-37afbf9166bf",
+        "type": "message",
+        "text": "Jeszcze tylko Ewa",
+        "user": "UFP9WB0AV",
+        "ts": "1552731198.005800"
+    },
+    {
+        "client_msg_id": "a3c14411-d4f8-425e-b1c4-57e8eb60db20",
+        "type": "message",
+        "text": "stare dobre animy :stuck_out_tongue:",
+        "user": "UFNNXNNBT",
+        "ts": "1552731213.006100"
+    },
+    {
+        "client_msg_id": "da84e1f7-7d16-4793-bbac-9ff60a5c0453",
+        "type": "message",
+        "text": "Ja najwcześniej to na 14.30 bede :hushed:",
+        "user": "UFNNXNNBT",
+        "ts": "1552736883.007400"
+    },
+    {
+        "client_msg_id": "ea27d5f2-5fa9-48ee-a2b4-3f1f2ebb7423",
+        "type": "message",
+        "text": "Sorry ale nie dam rady prędzej ",
+        "user": "UFNNXNNBT",
+        "ts": "1552736906.007900"
+    },
+    {
+        "client_msg_id": "afe90ad8-0ce1-4023-b60c-6c4ec7e40a0c",
+        "type": "message",
+        "text": "dobra to ja postaram się być na 14",
+        "user": "UFP9WB0AV",
+        "ts": "1552737069.008200"
+    },
+    {
+        "client_msg_id": "b82dc6f1-d3da-48c2-8a8d-89e11e2e3154",
+        "type": "message",
+        "text": "i już zacznę coś rzeźbić może z Adrianem",
+        "user": "UFP9WB0AV",
+        "ts": "1552737079.008500"
+    },
+    {
+        "client_msg_id": "adec2d6a-c3da-4320-83e7-13989420ab07",
+        "type": "message",
+        "text": "Na developie jest wersja z tym co zrobilem",
+        "user": "UFNNXNNBT",
+        "ts": "1552737133.009500"
+    },
+    {
+        "client_msg_id": "f6f12f2a-ea2a-4d71-8fee-e169ea768c9d",
+        "type": "message",
+        "text": "spoko",
+        "user": "UFP9WB0AV",
+        "ts": "1552737655.009700"
+    },
+    {
+        "client_msg_id": "6db4fb7a-cbda-468e-a70a-e9246ff95474",
+        "type": "message",
+        "text": "Ewo zrobiłem Twoje zadanie",
+        "user": "UFP9WB0AV",
+        "ts": "1552737661.010000"
+    },
+    {
+        "client_msg_id": "4f954ac8-1770-46d5-8b0c-66a2fc4c6210",
+        "type": "message",
+        "text": "jak przyjdziesz to Ci powiem jak",
+        "user": "UFP9WB0AV",
+        "ts": "1552737672.010200"
+    },
+    {
+        "client_msg_id": "8d485605-f453-46cc-9b26-527070143ed7",
+        "type": "message",
+        "text": "niestety zdalnie przez slacka nie miałem dzisiaj czasu podpowiadać",
+        "user": "UFP9WB0AV",
+        "ts": "1552737694.010700"
+    },
+    {
+        "client_msg_id": "a2ae00ff-83f3-463c-81d5-8da651101c97",
+        "type": "message",
+        "text": "Danielu przed 14:30 proszę zastanów się co poszło nie tak, że menu nie chce się kleić góry :wink:",
+        "user": "UFP9WB0AV",
+        "ts": "1552737758.011300"
+    },
+    {
+        "client_msg_id": "6285ce8b-2afd-491d-9115-844c4195666f",
+        "type": "message",
+        "text": "idę coś zjeść i jadę do OBC",
+        "user": "UFP9WB0AV",
+        "ts": "1552737783.011800"
+    },
+    {
+        "client_msg_id": "29640E8A-F6B7-4D2E-8FEC-9A1009EACEF2",
+        "type": "message",
+        "text": "Ja już jestem na miejscu i jest problem bo sala jest zajęta ",
+        "user": "UFPC1B9UZ",
+        "ts": "1552741045.000600"
+    },
+    {
+        "client_msg_id": "F1DA78C2-19C7-4EB4-8988-D289CDB7CDD6",
+        "type": "message",
+        "text": "Zwolniła się sala :)",
+        "user": "UFPC1B9UZ",
+        "ts": "1552741946.001000"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FH11GBHEX",
+                "created": 1552756737,
+                "timestamp": 1552756737,
+                "name": "IMG_20190312_145120.jpg",
+                "title": "Image from Android",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UFP9WB0AV",
+                "editable": false,
+                "size": 4589062,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FH11GBHEX\/img_20190312_145120.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FH11GBHEX\/download\/img_20190312_145120.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH11GBHEX-6b427c78aa\/img_20190312_145120_64.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH11GBHEX-6b427c78aa\/img_20190312_145120_80.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH11GBHEX-6b427c78aa\/img_20190312_145120_360.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH11GBHEX-6b427c78aa\/img_20190312_145120_480.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 480,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH11GBHEX-6b427c78aa\/img_20190312_145120_160.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH11GBHEX-6b427c78aa\/img_20190312_145120_720.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 720,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH11GBHEX-6b427c78aa\/img_20190312_145120_800.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 801,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH11GBHEX-6b427c78aa\/img_20190312_145120_960.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 959,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH11GBHEX-6b427c78aa\/img_20190312_145120_1024.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 1023,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 3120,
+                "original_h": 3122,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP9WB0AV\/FH11GBHEX\/img_20190312_145120.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FH11GBHEX-9f324ebfe2",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP9WB0AV",
+        "display_as_bot": false,
+        "ts": "1552756742.001100",
+        "client_msg_id": "f5e88d5e-9936-4f58-8a2b-0560b37dec4c"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FH271KJ4F",
+                "created": 1552756787,
+                "timestamp": 1552756787,
+                "name": "IMG_1792.jpg",
+                "title": "IMG_1792.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UFPC1B9UZ",
+                "editable": false,
+                "size": 192134,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FH271KJ4F\/img_1792.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FH271KJ4F\/download\/img_1792.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH271KJ4F-5f214bb370\/img_1792_64.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH271KJ4F-5f214bb370\/img_1792_80.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH271KJ4F-5f214bb370\/img_1792_360.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH271KJ4F-5f214bb370\/img_1792_480.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH271KJ4F-5f214bb370\/img_1792_160.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH271KJ4F-5f214bb370\/img_1792_720.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH271KJ4F-5f214bb370\/img_1792_800.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH271KJ4F-5f214bb370\/img_1792_960.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH271KJ4F-5f214bb370\/img_1792_1024.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 915,
+                "original_h": 1220,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFPC1B9UZ\/FH271KJ4F\/img_1792.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FH271KJ4F-0be769e7bf",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFPC1B9UZ",
+        "display_as_bot": false,
+        "ts": "1552756790.001400"
+    },
+    {
+        "client_msg_id": "2fb8df71-0b25-4182-ba15-e816d87eb085",
+        "type": "message",
+        "text": "ja sie poddaje dzisiaj nic nie ogarne :disappointed: ide spac",
+        "user": "UFNNXNNBT",
+        "ts": "1552772682.002100"
+    },
+    {
+        "client_msg_id": "ded38bc0-faac-4bf7-94bc-91cacb0b6165",
+        "type": "message",
+        "text": "spoko dobranoc",
+        "user": "UFP9WB0AV",
+        "ts": "1552776232.002400"
+    },
+    {
+        "client_msg_id": "ff46b468-b4fd-492a-982b-de562240133b",
+        "type": "message",
+        "text": "ja poprawiłem respo w nav i icon",
+        "user": "UFP9WB0AV",
+        "ts": "1552776270.003200"
+    },
+    {
+        "client_msg_id": "ba4ef647-ca68-4def-addf-64b98d663d66",
+        "type": "message",
+        "text": "też już idę spać :slightly_smiling_face:",
+        "user": "UFP9WB0AV",
+        "ts": "1552776275.003400"
+    },
+    {
+        "client_msg_id": "0ab6322c-9175-48cb-bf7d-e607c88d93c4",
+        "type": "message",
+        "text": "Bartku, zrobiłam opis funkcjonalności i mam nadzieję że tak ma wyglądać :slightly_smiling_face:",
+        "user": "UFMQ48LHE",
+        "ts": "1552780772.004200"
+    }
+]

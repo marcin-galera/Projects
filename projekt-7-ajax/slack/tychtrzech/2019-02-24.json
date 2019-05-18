@@ -1,0 +1,48 @@
+[
+    {
+        "user": "UFP1NEA4F",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551034050.000200",
+        "text": "<@UFP1NEA4F> has joined the channel"
+    },
+    {
+        "user": "UFR2DECFR",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551034051.000400",
+        "text": "<@UFR2DECFR> has joined the channel",
+        "inviter": "UFP1NEA4F"
+    },
+    {
+        "user": "UFPAWAHQC",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551034051.000600",
+        "text": "<@UFPAWAHQC> has joined the channel",
+        "inviter": "UFP1NEA4F"
+    },
+    {
+        "user": "UFR08FNEB",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551034051.000800",
+        "text": "<@UFR08FNEB> has joined the channel",
+        "inviter": "UFP1NEA4F"
+    },
+    {
+        "user": "UG693FN7L",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1551034051.001000",
+        "text": "<@UG693FN7L> has joined the channel",
+        "inviter": "UFP1NEA4F"
+    },
+    {
+        "client_msg_id": "5fa7e265-eb53-40a7-b8f3-3a6ad97a2dc9",
+        "type": "message",
+        "text": "Macie w prezencie ode mnie channel",
+        "user": "UFP1NEA4F",
+        "ts": "1551034058.001300"
+    }
+]

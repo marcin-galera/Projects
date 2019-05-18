@@ -1,0 +1,18 @@
+[
+    {
+        "client_msg_id": "e5bbcc66-4530-4095-bfdd-4ab5689d48c7",
+        "type": "message",
+        "text": "<!channel> HALO HALO, są tylko 3 wypełnienia ankiety. Proszę jak najszybsze jej uzupełnienie!",
+        "user": "UFP1WTUP9",
+        "ts": "1555415547.000600",
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "UHEJYFVV0"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

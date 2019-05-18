@@ -1,0 +1,64 @@
+[
+    {
+        "client_msg_id": "fc863db5-9b28-4456-af31-7bf85d03b95f",
+        "type": "message",
+        "text": "<!channel> Hej! Pewnie się stęskniliście :slightly_smiling_face: W najbliższy weekend kolejny zjazd i kolejna dawka wiedzy, kontynuujemy przetwarzanie struktur danych. Mam nadzieję, że nikt nie zrobił sobie 2 tygodniowej przerwy i wszystkiego co było nie zapomniał :smile: Dlatego przypominam o pracy domowej, którą należy zrobić do godziny 12:00 w południe w sobote tak żeby odświeżyć sobie informacje :wink:\n\nRozkład zajęć i aktywności\n    `sobota, 30 marca`\n        15:00 – 21:00 - JavaScript - Przetwarzanie struktur danych – Maciej Kucharski\n    `niedziela, 31 marca`\n        15:00 – 18:00 – JavaScript - Przetwarzanie struktur danych – Maciej Kucharski\n        18:00 – 21: 00 – TEST 1, Projekt  - Maciej Kucharski, N. Kalinowski\nTrenerzy i godziny ich obecności\n    `sobota, 30 marca`\n        Maciej Kucharski: 15:00 - 21:00\n    `niedziela, 31 marca`\n        Maciej Kucharski: 15:00- 21:00\n        Nikodem Kalinowski: 18:00 – 21:00\n\n*Materiały do przeczytania*\n<https:\/\/github.com\/getify\/You-Dont-Know-JS\/blob\/master\/up%20&amp;%20going\/README.md#you-dont-know-js-up--going>\n\n<https:\/\/medium.com\/jsguru\/javascript-functional-programming-map-filter-and-reduce-846ff9ba492d>",
+        "user": "UFP1NEA4F",
+        "ts": "1553756991.001900",
+        "attachments": [
+            {
+                "service_name": "Medium",
+                "title": "JavaScript Functional Programming — map, filter and reduce",
+                "title_link": "https:\/\/medium.com\/jsguru\/javascript-functional-programming-map-filter-and-reduce-846ff9ba492d",
+                "text": "Even if you don’t know what functional programming is you’ve probably been using map, filter and reduce just because they’re so incredibly…",
+                "fallback": "Medium: JavaScript Functional Programming — map, filter and reduce",
+                "image_url": "https:\/\/cdn-images-1.medium.com\/max\/1200\/1*z5EFmxOOAA3WTPdSLtlpHg.png",
+                "fields": [
+                    {
+                        "title": "Reading time",
+                        "value": "6 min read",
+                        "short": true
+                    }
+                ],
+                "ts": 1508880501,
+                "from_url": "https:\/\/medium.com\/jsguru\/javascript-functional-programming-map-filter-and-reduce-846ff9ba492d",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 56630,
+                "service_icon": "https:\/\/cdn-images-1.medium.com\/fit\/c\/304\/304\/1*NzU4-5ks46mw6bDSuPKzug.png",
+                "id": 1,
+                "original_url": "https:\/\/medium.com\/jsguru\/javascript-functional-programming-map-filter-and-reduce-846ff9ba492d"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "502dd265-fbbe-4664-aefb-c9976b84d71b",
+        "type": "message",
+        "text": "Aaa i będzie test, postarałem się przygotowując pytania także mam nadzieję, że też się postaracie przy odpowiedziach :smile:",
+        "user": "UFP1NEA4F",
+        "ts": "1553757066.003100",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFP1WTUP9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "muscle",
+                "users": [
+                    "UG1M63BEJ"
+                ],
+                "count": 1
+            },
+            {
+                "name": "zany_face",
+                "users": [
+                    "UFNNXNNBT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "a4931858-f24c-407b-bb3e-a974ac9f7d71",
+        "type": "message",
+        "text": "<!channel> Hej, przypominam o wypełnieniu ankiet!\n\nPodsyłam również materiały, które pomogą w następnych zajęciach\n <https:\/\/developer.mozilla.org\/pl\/docs\/DOM_i_JavaScript>\n    <https:\/\/github.com\/getify\/You-Dont-Know-JS\/blob\/master\/up%20&amp;%20going\/README.md#you-dont-know-js-up--going>",
+        "user": "UFP1NEA4F",
+        "ts": "1552408114.014400",
+        "edited": {
+            "user": "UFP1NEA4F",
+            "ts": "1552469066.000000"
+        },
+        "attachments": [
+            {
+                "service_name": "Dokumentacja MDN",
+                "title": "DOM i JavaScript",
+                "title_link": "https:\/\/developer.mozilla.org\/pl\/docs\/DOM_i_JavaScript",
+                "text": "Efekty wizualne takie jak przesuwanie warstw na stronie, pokazywanie i ukrywanie ich, wyskakujące menu itd., są często określane pojęciami „DHTML” lub „Dynamiczny HTML”. Niektórzy kwestionują zasadność użycia tych technologii na stronach, które powinny przecież obejmować treść, a nie prezentację. Ale faktem jest, że technologie te nadal istnieją.",
+                "fallback": "Dokumentacja MDN: DOM i JavaScript",
+                "thumb_url": "https:\/\/developer.mozilla.org\/static\/img\/opengraph-logo.72382e605ce3.png",
+                "from_url": "https:\/\/developer.mozilla.org\/pl\/docs\/DOM_i_JavaScript",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/developer.mozilla.org\/static\/img\/favicon144.e7e21ca263ca.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/pl\/docs\/DOM_i_JavaScript"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9c764e97-54a0-4728-b967-c1cb28061f54",
+        "type": "message",
+        "text": "Pamiętajcie, że praktyka czyni mistrza i JS sam z siebie do głowy wejdzie, ani nikt go tam nie włoży, trzeba go wstukać :smile:",
+        "user": "UFP1NEA4F",
+        "ts": "1552408145.015100"
+    },
+    {
+        "client_msg_id": "68f9b952-49e6-459e-8f53-d53e0b6f1c8f",
+        "type": "message",
+        "text": "druga pozycja to bardziej pomoc z samym JSem :slightly_smiling_face:",
+        "user": "UFP1NEA4F",
+        "ts": "1552408153.015400"
+    }
+]

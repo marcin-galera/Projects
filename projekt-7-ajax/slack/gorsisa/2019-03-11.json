@@ -1,0 +1,16 @@
+[
+    {
+        "client_msg_id": "07578e7d-9554-4c94-bde5-34cc57e76880",
+        "type": "message",
+        "text": "Siemanko, zrobiłem dziś funkcje produktu. \nZróbcie nowe branche, na każdym nazwa zadania z Jiry. Mikołaj jak z tą kolorystyką? Kontaktowales się z \"product ownerem\"?",
+        "user": "UG1M63BEJ",
+        "ts": "1552310203.004500"
+    },
+    {
+        "client_msg_id": "c64b1e01-a134-4daf-8b20-d3b6eb89c89c",
+        "type": "message",
+        "text": "Dziś poprawię literowki i polskie znaki w about us i wrzucę to na gh. Btw nie wiem jak zrobić to co zostało nam dorzucone (ikony na odwrocie zdjęcia).",
+        "user": "UG1M63BEJ",
+        "ts": "1552310357.006800"
+    }
+]

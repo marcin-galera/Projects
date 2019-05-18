@@ -1,0 +1,30 @@
+[
+    {
+        "client_msg_id": "620d4e08-7290-4b39-82d7-799663fd9faa",
+        "type": "message",
+        "text": "<!channel> czemu nie ma nic na developie jeszcze?",
+        "user": "UFP1NEA4F",
+        "ts": "1554396166.000500"
+    },
+    {
+        "client_msg_id": "aad98d9b-bd8d-4180-8fa8-1929ec629659",
+        "type": "message",
+        "text": "ani żadnego pull requesta?",
+        "user": "UFP1NEA4F",
+        "ts": "1554396180.000700"
+    },
+    {
+        "client_msg_id": "9e53286a-b2ef-478d-8fdd-7f5b0d7df434",
+        "type": "message",
+        "text": "Zbieramy siły. Jutro od rana będę siedział nad projektem, zrobię coś w tym kierunku aby pojawiły się efekty naszej pracy na developie.",
+        "user": "UG1M63BEJ",
+        "ts": "1554403565.001600"
+    },
+    {
+        "client_msg_id": "eb5dc655-6c32-4910-b936-cb04020337b3",
+        "type": "message",
+        "text": "Marcin efekt jest ale z dwoch stron cos w tym kodzie nie dzialalo, w jednym sie nie pojawialo a w  drugim  nie znikalo narazie w  formie widzetu",
+        "user": "UFPBXQW73",
+        "ts": "1554410121.002400"
+    }
+]

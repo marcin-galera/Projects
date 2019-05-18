@@ -1,0 +1,30 @@
+[
+    {
+        "client_msg_id": "88fc1d56-87b4-4b8b-bd7d-5a9cd0e5d199",
+        "type": "message",
+        "text": "5 mi ",
+        "user": "UFNNXNNBT",
+        "ts": "1553331800.000200"
+    },
+    {
+        "client_msg_id": "ac8b930d-6135-4b9c-afba-6d1a6ea6f921",
+        "type": "message",
+        "text": "N",
+        "user": "UFNNXNNBT",
+        "ts": "1553331803.000400"
+    },
+    {
+        "client_msg_id": "fd1e4405-e2e6-4273-b62b-f70f54767085",
+        "type": "message",
+        "text": "U",
+        "user": "UFNNXNNBT",
+        "ts": "1553331806.000600"
+    },
+    {
+        "client_msg_id": "e043d44d-397d-471a-bd0a-973fc83fa766",
+        "type": "message",
+        "text": "T",
+        "user": "UFNNXNNBT",
+        "ts": "1553331809.000700"
+    }
+]

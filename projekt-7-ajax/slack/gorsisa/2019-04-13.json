@@ -1,0 +1,126 @@
+[
+    {
+        "client_msg_id": "48ca1901-186f-4d1d-b383-5cb453787a72",
+        "type": "message",
+        "text": "współczesne niewolnictwo",
+        "user": "UFPBXQW73",
+        "ts": "1555149778.000400"
+    },
+    {
+        "client_msg_id": "e9c6cce3-b785-4ff7-a72a-0b1a84e6612e",
+        "type": "message",
+        "text": "<https:\/\/kursjs.pl>    mobilizacja js sie sam nie nauczy",
+        "user": "UFPBXQW73",
+        "ts": "1555174476.000400",
+        "attachments": [
+            {
+                "title": "Kurs Javascript",
+                "title_link": "https:\/\/kursjs.pl\/",
+                "text": "Kurs Javascript dla superbohaterów",
+                "fallback": "Kurs Javascript",
+                "thumb_url": "http:\/\/www.kursjs.pl\/kursjs.png",
+                "from_url": "https:\/\/kursjs.pl\/",
+                "thumb_width": 180,
+                "thumb_height": 180,
+                "service_icon": "https:\/\/kursjs.pl\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "kursjs.pl",
+                "id": 1,
+                "original_url": "https:\/\/kursjs.pl"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UG1M63BEJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Praca nad projektem się pali, już prawie przez godzinę was nie ma :)",
+        "files": [
+            {
+                "id": "FHZBXDC5U",
+                "created": 1555178172,
+                "timestamp": 1555178172,
+                "name": "IMG_20190413_195427.jpg",
+                "title": "IMG_20190413_195427.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UG1M63BEJ",
+                "editable": false,
+                "size": 601329,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHZBXDC5U\/img_20190413_195427.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHZBXDC5U\/download\/img_20190413_195427.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHZBXDC5U-b65adfd1be\/img_20190413_195427_64.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHZBXDC5U-b65adfd1be\/img_20190413_195427_80.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHZBXDC5U-b65adfd1be\/img_20190413_195427_360.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHZBXDC5U-b65adfd1be\/img_20190413_195427_480.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHZBXDC5U-b65adfd1be\/img_20190413_195427_160.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHZBXDC5U-b65adfd1be\/img_20190413_195427_720.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHZBXDC5U-b65adfd1be\/img_20190413_195427_800.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHZBXDC5U-b65adfd1be\/img_20190413_195427_960.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 960,
+                "thumb_960_h": 720,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHZBXDC5U-b65adfd1be\/img_20190413_195427_1024.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 768,
+                "image_exif_rotation": 1,
+                "original_w": 4032,
+                "original_h": 3024,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UG1M63BEJ\/FHZBXDC5U\/img_20190413_195427.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHZBXDC5U-8222e26bfc",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UG1M63BEJ",
+        "display_as_bot": false,
+        "ts": "1555178172.001700",
+        "client_msg_id": "c5c362a9-0214-4bf4-befc-69e6b348700b"
+    },
+    {
+        "client_msg_id": "d93a82a8-2fd9-454f-be93-bde9ee6f9265",
+        "type": "message",
+        "text": "<https:\/\/observablehq.com\/@ahilles107\/javascript-classes>",
+        "user": "UFPBXQW73",
+        "ts": "1555180684.002600",
+        "attachments": [
+            {
+                "title": "Javascript Classes",
+                "title_link": "https:\/\/observablehq.com\/@ahilles107\/javascript-classes",
+                "text": "An Observable notebook by Paweł Mikołajczuk.",
+                "fallback": "Javascript Classes",
+                "image_url": "https:\/\/static.observableusercontent.com\/thumbnail\/76905d479933335632ba3491cdeb54ed84067f545e3add08d07fbd7f24f86dfe.jpg",
+                "ts": 1555097711,
+                "from_url": "https:\/\/observablehq.com\/@ahilles107\/javascript-classes",
+                "image_width": 400,
+                "image_height": 250,
+                "image_bytes": 22976,
+                "service_icon": "https:\/\/static.observablehq.com\/favicon-512.e85350a27dfadeea7c7c78c797c24419525df5579de174d86d258c40ae57473a.png",
+                "service_name": "observablehq.com",
+                "id": 1,
+                "original_url": "https:\/\/observablehq.com\/@ahilles107\/javascript-classes"
+            }
+        ]
+    }
+]

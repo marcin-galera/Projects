@@ -1,0 +1,37 @@
+[
+    {
+        "client_msg_id": "13d07e16-f431-4239-871c-ed2385c3965a",
+        "type": "message",
+        "text": "na repo aktualna wersja...",
+        "user": "UFNNXNNBT",
+        "ts": "1553422546.000500"
+    },
+    {
+        "client_msg_id": "4a8a4a61-82cb-4d43-984d-0e48f8523b07",
+        "type": "message",
+        "text": "rzućcie okiem czy aby o to chodziło",
+        "user": "UFNNXNNBT",
+        "ts": "1553422562.000900"
+    },
+    {
+        "client_msg_id": "293018f0-a5a4-45fc-bfc2-317de49c7db1",
+        "type": "message",
+        "text": "?",
+        "user": "UFNNXNNBT",
+        "ts": "1553422563.001100"
+    },
+    {
+        "client_msg_id": "57e220f6-4c16-4c70-ade3-c7a54aa13eb1",
+        "type": "message",
+        "text": "trochę pozmieniałem, w każdym momencie możemy to poprawić",
+        "user": "UFNNXNNBT",
+        "ts": "1553422632.001900"
+    },
+    {
+        "client_msg_id": "0509d9b3-7662-458b-83f4-e36e2093c98d",
+        "type": "message",
+        "text": "mysle ze fajnie byoby dodac logo do navigacji?",
+        "user": "UFNNXNNBT",
+        "ts": "1553455815.000600"
+    }
+]

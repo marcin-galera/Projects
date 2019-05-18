@@ -1,0 +1,16 @@
+[
+    {
+        "client_msg_id": "023ee3b7-ce18-47d7-a92b-50fda1e95123",
+        "type": "message",
+        "text": "Zróbcie proszę subtaski w JIRZE odnośnie gry takie oto:\n- plansza 4x4\n- design karty (odkrytej i zakrytej)\n- mechanizm punktowania (czyli jak 2 te same karty odkryte to punkt)\n- mechanizm klikania w kartę (po kliknięciu się odwracają maksymalnie 2 karty)\n- timer w grze\n- wprowadzanie imienia gracza i przycisk start\n- zliczanie punktacji i pokazywanie wyniku\n- zapisywanie wyników w localStorage\n* dodatkowy poziom trudności\n* możecie urozmaicić punktację o uwzględnianie czasu (tj. jak ktoś szybciej klika i znajduje pary to więcej punktów dostanie)",
+        "user": "UFP1NEA4F",
+        "ts": "1554051373.003800"
+    },
+    {
+        "client_msg_id": "43d8505a-5148-4cf1-ad80-4c3d0000260c",
+        "type": "message",
+        "text": "Jakbyście mieli kłopoty z tworzeniem subtasków dajcie znać",
+        "user": "UFP1NEA4F",
+        "ts": "1554051396.004100"
+    }
+]

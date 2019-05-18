@@ -1,0 +1,75 @@
+[
+    {
+        "client_msg_id": "7AEEE9FE-0F47-4E8E-B8B0-23E360191FF1",
+        "type": "message",
+        "text": "<https:\/\/frontendmasters.com\/books\/front-end-handbook\/2019\/>",
+        "user": "UFP1NEA4F",
+        "ts": "1556023699.000300",
+        "attachments": [
+            {
+                "title": "Front-end Developer Handbook 2019 - Learn the entire JavaScript, CSS and HTML development practice!",
+                "title_link": "https:\/\/frontendmasters.com\/books\/front-end-handbook\/2019\/",
+                "text": "A guide for front-end developers to equip themselves with latest learning resources and development tools in front-end engineering.",
+                "fallback": "Front-end Developer Handbook 2019 - Learn the entire JavaScript, CSS and HTML development practice!",
+                "image_url": "https:\/\/frontendmasters.com\/books\/front-end-handbook\/2019\/assets\/images\/FM_2019Cover_small.jpg",
+                "from_url": "https:\/\/frontendmasters.com\/books\/front-end-handbook\/2019\/",
+                "image_width": 180,
+                "image_height": 250,
+                "image_bytes": 147902,
+                "service_icon": "https:\/\/frontendmasters.com\/favicon.ico",
+                "service_name": "frontendmasters.com",
+                "id": 1,
+                "original_url": "https:\/\/frontendmasters.com\/books\/front-end-handbook\/2019\/"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UG1M63BEJ",
+                    "UFR1Y38B1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "man-facepalming",
+                "users": [
+                    "UFNNXNNBT"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "E1291BA3-F349-4974-A4EC-464D9C92D518",
+        "type": "message",
+        "text": "Nowy handbook ;)",
+        "user": "UFP1NEA4F",
+        "ts": "1556023704.000700"
+    },
+    {
+        "client_msg_id": "a1467ec2-6b73-4fcf-ad3b-a1c968f11d48",
+        "type": "message",
+        "text": "<!channel> nowa praca domowa w repo, a w niej do zrobienia prościutki Pokedex! :slightly_smiling_face:",
+        "user": "UFP1NEA4F",
+        "ts": "1556086016.002300",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFP1WTUP9",
+                    "UG1M63BEJ",
+                    "UHEJYFVV0"
+                ],
+                "count": 3
+            },
+            {
+                "name": "zany_face",
+                "users": [
+                    "UFNNXNNBT"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

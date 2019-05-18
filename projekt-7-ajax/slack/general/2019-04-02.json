@@ -1,0 +1,41 @@
+[
+    {
+        "type": "message",
+        "text": "Przesyłam odpowiedzi do testu :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "FHAK3NRA5",
+                "created": 1554221165,
+                "timestamp": 1554221165,
+                "name": "Question_03_31_2019__17_07_QZ_jfdz11test1.pdf",
+                "title": "Question_03_31_2019__17_07_QZ_jfdz11test1.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UFP1NEA4F",
+                "editable": false,
+                "size": 76175,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHAK3NRA5\/question_03_31_2019__17_07_qz_jfdz11test1.pdf?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHAK3NRA5\/download\/question_03_31_2019__17_07_qz_jfdz11test1.pdf?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHAK3NRA5-24983fd453\/question_03_31_2019__17_07_qz_jfdz11test1_thumb_pdf.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_pdf_w": 935,
+                "thumb_pdf_h": 1210,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP1NEA4F\/FHAK3NRA5\/question_03_31_2019__17_07_qz_jfdz11test1.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHAK3NRA5-27c2343a7d",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP1NEA4F",
+        "display_as_bot": false,
+        "ts": "1554221168.000600",
+        "client_msg_id": "d8cb3b9a-7e5f-4901-a7c0-28b8bd85040b"
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "client_msg_id": "06fa0bd6-7519-4270-8469-9a0abdab0946",
+        "type": "message",
+        "text": "Czesc jest juz po czasie a zauwazylem, ze moja praca domowa wyglada jak trzeba tylko w Chromie jak dasz dzien to poprawie to , chyba ze nie odejmiesz za to punktow.",
+        "user": "UFPBXQW73",
+        "ts": "1549807745.000300",
+        "thread_ts": "1549134927.002300",
+        "parent_user_id": "UFP1NEA4F"
+    },
+    {
+        "client_msg_id": "292e95a1-3701-453a-836e-b5baa0d55724",
+        "type": "message",
+        "text": "<!channel> proszę o wypełnienie ankiety :slightly_smiling_face:\n<https:\/\/ankiety.is-academy.pl\/poll\/-LDjsR30ylyU72y0gH8E\/-LY1ssfnMgbtpyzGcbhu>",
+        "user": "UFP1NEA4F",
+        "ts": "1549827125.001200"
+    },
+    {
+        "client_msg_id": "84baf359-347a-4b2b-8df9-1c6800ef6bd4",
+        "type": "message",
+        "text": "Drodzy kursanci,\n\nogłoszenie parafialne :slightly_smiling_face:\n\nW waszych repozytoriach dotyczących projektów jest branch `master`, do którego pushowanie odbywa się tylko poprzez pull requesty (spokojnie to nie czarna magia :slightly_smiling_face: ) Założe wam branche `develop` i z tego brancha możecie się checkoutować i tworzyć zadania i do tego brancha będą dodawane zadania, które są DONE :slightly_smiling_face:",
+        "user": "UFP1NEA4F",
+        "ts": "1549828403.003100"
+    },
+    {
+        "client_msg_id": "43dcb08f-f8b8-4f86-bc4d-5b4a8855f1d6",
+        "type": "message",
+        "text": "Na gicie dostępne jest świetne źródło wiedzy - <https:\/\/github.com\/FrontendMasters\/front-end-handbook-2018>\n\njeśli będziecie mieli problem z jakiś zagadnieniem, zajrzyjcie :slightly_smiling_face: wielki agregator wiedzy frontowej",
+        "user": "UFQ32FA3V",
+        "ts": "1549868914.000900",
+        "attachments": [
+            {
+                "fallback": "FrontendMasters\/front-end-handbook-2018",
+                "text": "2018 edition of our front-end development handbook",
+                "title": "FrontendMasters\/front-end-handbook-2018",
+                "footer": "<https:\/\/github.com\/FrontendMasters\/front-end-handbook-2018|FrontendMasters\/front-end-handbook-2018>",
+                "id": 1,
+                "footer_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "ts": 1510951470,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Stars",
+                        "value": "3892",
+                        "short": true
+                    },
+                    {
+                        "title": "Language",
+                        "value": "JavaScript",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BFPAU9ARE",
+                "app_unfurl_url": "https:\/\/github.com\/FrontendMasters\/front-end-handbook-2018",
+                "is_app_unfurl": true
+            }
+        ],
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UFP1NEA4F",
+                    "UFP7290SG"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]
