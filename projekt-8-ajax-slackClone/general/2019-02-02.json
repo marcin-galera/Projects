@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "42b2a403-2491-4ddd-95e8-4d7fbef01918",
+        "type": "message",
+        "text": "<!channel> Hej wszystkim! Tak pomyślałem, że pewnie się nudzicie i tęsknicie za weekendem z kursem i fajnie by było coś porobić poza preworkiem :wink: Podrzucam pierwszą pracę domową, nie było jeszcze zajęć z GITa także nie wymagam na razie wrzucania tego na repo ale mile widziane jakby chętni zrobili swoje zadania w tym repo na swoim branchu o nazwie ImieNazwisko :slightly_smiling_face: A jak ktoś się nie czuje to po prostu przesyłajcie do mnie, jakby było coś niejasne to piszcie bezpośrednio do mnie.\n\n<https:\/\/github.com\/infoshareacademy\/jfdz11-homeworks\/tree\/master\/Zadanie_1>",
+        "user": "UFP1NEA4F",
+        "ts": "1549134927.002300",
+        "thread_ts": "1549134927.002300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1549807745.000300",
+        "reply_users": [
+            "UFPBXQW73"
+        ],
+        "replies": [
+            {
+                "user": "UFPBXQW73",
+                "ts": "1549807745.000300"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "heart",
+                "users": [
+                    "UFP1WTUP9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00AFB665-3B3C-4DFA-B86B-C0BAECEC8A62",
+        "type": "message",
+        "text": "Wiadomo że tęsknimy :grin::rolling_on_the_floor_laughing:",
+        "user": "UFRCP5Q4E",
+        "ts": "1549137025.002800",
+        "reactions": [
+            {
+                "name": "blush",
+                "users": [
+                    "UFP1NEA4F",
+                    "UFQ32FA3V"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "user": "UFMUTFP7U",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1557387124.000200",
+        "text": "<@UFMUTFP7U> has joined the channel"
+    },
+    {
+        "client_msg_id": "90747af1-74ac-4141-bf91-f64574ac5188",
+        "type": "message",
+        "text": "Czołem Panowie, słuchajcie bardzo nas niepokoi \"progres prac\" w Waszej grupie. Po zakończeniu sprintu Marcin dostaje od nas zielone światło do przejścia do innego teamu. Kolejne 2 sprinty to będzie aplikacja w reaccie. Zupełnie od zera będzie wszystko realizowane. Dociśnijcie proszę ten sprint i postarajcie się dowieźć taski z waszego backlogu. Źle to wygląda.",
+        "user": "UFMUTFP7U",
+        "ts": "1557387284.002300"
+    },
+    {
+        "client_msg_id": "157d61fc-12ce-42c0-914f-f14f31714314",
+        "type": "message",
+        "text": "w trakcie projektu zapraszamy do komputerów, piłkarzyki są do dyspozycji w trakcie przerw :slightly_smiling_face:",
+        "user": "UFMUTFP7U",
+        "ts": "1557387332.002900"
+    },
+    {
+        "client_msg_id": "1043ee99-3100-4ce1-ad9c-e0c89934c4d0",
+        "type": "message",
+        "text": "Przypominam też, że wkład commitowy do projektu jest wymagany do zaliczenia naszego bootcampu",
+        "user": "UFMUTFP7U",
+        "ts": "1557387413.003800"
+    },
+    {
+        "client_msg_id": "452b7753-5e07-42ef-b254-1b2d5d3ce933",
+        "type": "message",
+        "text": "tak tylko grupy mające praktykujących programistów  dostają grę w odsłanianie kart a my chodzonkę gdzie w gre wchodza kolizję, przesuwanie tła i inne rzeczy",
+        "user": "UFPBXQW73",
+        "ts": "1557427966.001800",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UFP1NEA4F"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

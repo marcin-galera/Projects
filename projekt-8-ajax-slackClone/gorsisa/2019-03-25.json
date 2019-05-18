@@ -1,0 +1,166 @@
+[
+    {
+        "type": "message",
+        "text": "Tak odnośnie tego jak wygląda, chcielibyście żebym coś pozmieniał?",
+        "files": [
+            {
+                "id": "FH8KR2HMJ",
+                "created": 1553513482,
+                "timestamp": 1553513482,
+                "name": "Przechwytywanie.PNG",
+                "title": "Przechwytywanie.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFP7290SG",
+                "editable": false,
+                "size": 126127,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FH8KR2HMJ\/przechwytywanie.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FH8KR2HMJ\/download\/przechwytywanie.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH8KR2HMJ-212cf0fef1\/przechwytywanie_64.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH8KR2HMJ-212cf0fef1\/przechwytywanie_80.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH8KR2HMJ-212cf0fef1\/przechwytywanie_360.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 218,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH8KR2HMJ-212cf0fef1\/przechwytywanie_480.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 480,
+                "thumb_480_h": 291,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH8KR2HMJ-212cf0fef1\/przechwytywanie_160.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH8KR2HMJ-212cf0fef1\/przechwytywanie_720.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 720,
+                "thumb_720_h": 437,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH8KR2HMJ-212cf0fef1\/przechwytywanie_800.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 485,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH8KR2HMJ-212cf0fef1\/przechwytywanie_960.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 960,
+                "thumb_960_h": 583,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FH8KR2HMJ-212cf0fef1\/przechwytywanie_1024.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 621,
+                "image_exif_rotation": 1,
+                "original_w": 1671,
+                "original_h": 1014,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP7290SG\/FH8KR2HMJ\/przechwytywanie.png",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FH8KR2HMJ-6fc3089fe8",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP7290SG",
+        "display_as_bot": false,
+        "ts": "1553513486.000100"
+    },
+    {
+        "client_msg_id": "0a463452-256f-4644-83d2-5bb79a3a1e3e",
+        "type": "message",
+        "text": "Może słabo na tym obrazku widać, ale na dole też jest kreska tylko bardziej szara niż u góry.",
+        "user": "UFP7290SG",
+        "ts": "1553513531.000900"
+    },
+    {
+        "client_msg_id": "2571d179-3594-421c-9447-56c3ebdd7480",
+        "type": "message",
+        "text": "A media querry mnie przybiło...",
+        "user": "UFP7290SG",
+        "ts": "1553513551.001200"
+    },
+    {
+        "client_msg_id": "218019c6-eb29-4b02-9064-451a00c2dc2a",
+        "type": "message",
+        "text": "Może łatwiej będzie skopiować jej wartości z pozostałych części dokumentu?",
+        "user": "UFP7290SG",
+        "ts": "1553513566.001600"
+    },
+    {
+        "client_msg_id": "5cb6d459-45cd-48c9-b5d9-08c841e6d34e",
+        "type": "message",
+        "text": "Z czym masz problem w @media?",
+        "user": "UG1M63BEJ",
+        "ts": "1553515690.002200"
+    },
+    {
+        "client_msg_id": "e984122d-ba97-4663-92a2-8d5e28584c23",
+        "type": "message",
+        "text": "Jak dla mnie to mogłoby być trochę większe ",
+        "user": "UG1M63BEJ",
+        "ts": "1553515875.002600"
+    },
+    {
+        "client_msg_id": "a23e649e-99ca-4673-b291-cd661f53e343",
+        "type": "message",
+        "text": "Sory źle patrzę, dopiero wstaje po nockach i slack mnie w chu robi  :) jest ok ",
+        "user": "UG1M63BEJ",
+        "ts": "1553515927.003500"
+    },
+    {
+        "client_msg_id": "0259da31-9e82-4996-ba6c-d144b94fcb8e",
+        "type": "message",
+        "text": "Flexem czy gridem robiłeś?",
+        "user": "UG1M63BEJ",
+        "ts": "1553515962.003800"
+    },
+    {
+        "client_msg_id": "98230719-55f6-477d-955e-a536da2920c5",
+        "type": "message",
+        "text": "Aa i po polsku robimy cała ",
+        "user": "UG1M63BEJ",
+        "ts": "1553516030.004200"
+    },
+    {
+        "client_msg_id": "f60f47ea-91bd-4982-bcc3-8355b5abf317",
+        "type": "message",
+        "text": "Wszystko flexem zrobiłem.",
+        "user": "UFP7290SG",
+        "ts": "1553529661.000600"
+    },
+    {
+        "client_msg_id": "91014b21-419d-4a96-bb1a-a308f9fa0d4f",
+        "type": "message",
+        "text": "No i dzięki temu, nie widzę gdzie mógłbym coś pozmieniać w media query :stuck_out_tongue:",
+        "user": "UFP7290SG",
+        "ts": "1553529696.001200"
+    },
+    {
+        "client_msg_id": "728c8061-ef88-4a6a-b9d0-3e0ffc067ee1",
+        "type": "message",
+        "text": "Bo wszystko dobrze się nawiguje na każdym ekranie.",
+        "user": "UFP7290SG",
+        "ts": "1553529714.001600"
+    },
+    {
+        "client_msg_id": "633b349d-a07e-4767-9552-a8c6aa473705",
+        "type": "message",
+        "text": "Teraz rozkminiam jak stworzyć nowego brancha i to wysłać na naszego gita.",
+        "user": "UFP7290SG",
+        "ts": "1553529760.002100"
+    },
+    {
+        "client_msg_id": "1df23f2c-718d-43c3-9652-c36f7ebb1351",
+        "type": "message",
+        "text": "Brawo :)",
+        "user": "UFPBXQW73",
+        "ts": "1553547946.000300"
+    },
+    {
+        "client_msg_id": "00fed602-45b3-4f0c-9b65-549f88f9b23e",
+        "type": "message",
+        "text": "A Tobie Patryk jak formularz idzie?",
+        "user": "UG1M63BEJ",
+        "ts": "1553549971.000700"
+    },
+    {
+        "client_msg_id": "d82484cf-f5ad-44e1-ba5b-fa6f191ba316",
+        "type": "message",
+        "text": "Muszę podszkolić sie z tego gita.",
+        "user": "UFP7290SG",
+        "ts": "1553550457.001000"
+    }
+]

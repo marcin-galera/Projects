@@ -1,0 +1,32 @@
+[
+    {
+        "client_msg_id": "E401B24D-3BB5-4015-8373-1455C990ED82",
+        "type": "message",
+        "text": "<!channel> prosiliście o przypominajke o ankietach to przypominam :D",
+        "user": "UFP1NEA4F",
+        "ts": "1551176408.013900"
+    },
+    {
+        "client_msg_id": "703a90a3-c806-46ed-aae8-a176fd5f21f5",
+        "type": "message",
+        "text": "O fajnie. Czekałem. Dzieki :+1: :wink:",
+        "user": "UFP9WB0AV",
+        "ts": "1551176995.014600",
+        "reactions": [
+            {
+                "name": "smile",
+                "users": [
+                    "UFP1NEA4F"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5d00d6d1-766f-41f2-afb4-27eaed546548",
+        "type": "message",
+        "text": "nice! proszę pamiętać, bardzo ładnie! :heart:",
+        "user": "UFP1WTUP9",
+        "ts": "1551177561.015300"
+    }
+]

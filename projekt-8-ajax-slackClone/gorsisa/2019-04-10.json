@@ -1,0 +1,100 @@
+[
+    {
+        "client_msg_id": "246f55d0-ab1b-430a-9b31-79b3f3b4fdc9",
+        "type": "message",
+        "text": "To nie plik root.css a form css, kręci kolorami na całej stronie...",
+        "user": "UFP7290SG",
+        "ts": "1554885918.000700"
+    },
+    {
+        "client_msg_id": "2104156f-9768-47f4-8f61-d6af59dd016e",
+        "type": "message",
+        "text": "Poprawiłem kolorystykę, oraz kształt i zachowanie obramowań w sekcji o produkcie.",
+        "user": "UFP7290SG",
+        "ts": "1554886174.001400"
+    },
+    {
+        "client_msg_id": "68b81cb8-8224-4f50-ac53-def32681f8f6",
+        "type": "message",
+        "text": "Teraz może uda mi się wrzucić to na zdalne",
+        "user": "UFP7290SG",
+        "ts": "1554886188.001700"
+    },
+    {
+        "client_msg_id": "6f0d4912-5880-410d-b3df-dbe826e4084f",
+        "type": "message",
+        "text": "repo",
+        "user": "UFP7290SG",
+        "ts": "1554886194.001900"
+    },
+    {
+        "client_msg_id": "ef25ebe4-39d5-403e-a764-5710ba59a61e",
+        "type": "message",
+        "text": "Z takich rzeczy\/ tasków do zrobienia, jest jeszcze to: \"Podświetlanie w nawigacji aktualnie oglądanej sekcji strony\"",
+        "user": "UFP7290SG",
+        "ts": "1554886581.002500"
+    },
+    {
+        "client_msg_id": "07b4d82b-2318-4171-bff3-1b3e17e9f9e9",
+        "type": "message",
+        "text": "No to pobawię się tym ja.",
+        "user": "UFP7290SG",
+        "ts": "1554886596.002700"
+    },
+    {
+        "client_msg_id": "55e9fb48-c357-4e87-8e0f-64c317102a2b",
+        "type": "message",
+        "text": "Jarowski coś typing :stuck_out_tongue:",
+        "user": "UFP7290SG",
+        "ts": "1554886653.004200"
+    },
+    {
+        "client_msg_id": "ec2134d6-4213-4e9c-88ab-25d2b5240750",
+        "type": "message",
+        "text": "Coś się kroi",
+        "user": "UFP7290SG",
+        "ts": "1554886656.004500"
+    },
+    {
+        "client_msg_id": "8a734e4c-6bbb-4897-a8b9-996fcfa79e68",
+        "type": "message",
+        "text": "Ok dobrze słyszeć :p ja właśnie siadam i dorzucam aboutus bo wczoraj wieczorem to już mi się wszystko mieszało jak zwykle o tej porze :smiley: hahah",
+        "user": "UG1M63BEJ",
+        "ts": "1554886693.005000"
+    },
+    {
+        "client_msg_id": "3da6f866-fccc-4526-bf7c-1ea6cec4574c",
+        "type": "message",
+        "text": "Jak będziesz miał problem z wrzuceniem do repo przez vsc to pisz",
+        "user": "UG1M63BEJ",
+        "ts": "1554886722.005800"
+    },
+    {
+        "client_msg_id": "1beadf9a-2d1b-47b5-a8d2-704295b9f5a9",
+        "type": "message",
+        "text": "I pytanie zagadka, kiedy info o ciastkach ma się pojawić?",
+        "user": "UFP7290SG",
+        "ts": "1554886732.006000"
+    },
+    {
+        "client_msg_id": "e1dc11ed-38c7-4dad-985b-d4a3ad3039c5",
+        "type": "message",
+        "text": "pojawiać*",
+        "user": "UFP7290SG",
+        "ts": "1554886736.006200"
+    },
+    {
+        "client_msg_id": "a30ef27e-d0ae-4f0e-8a05-bc7155364011",
+        "type": "message",
+        "text": "ok",
+        "user": "UFP7290SG",
+        "ts": "1554886741.006500"
+    },
+    {
+        "client_msg_id": "d2282f04-eb54-492a-9fd2-82581770ca56",
+        "type": "message",
+        "text": "Niby działało na zajęciach to trzeba domergowac bo wisi w pull requestach. Ogarnę zaraz, tylko najpierw hajs przeleje do infoshare bo dziś 10 :p",
+        "user": "UG1M63BEJ",
+        "ts": "1554886794.008100"
+    }
+]

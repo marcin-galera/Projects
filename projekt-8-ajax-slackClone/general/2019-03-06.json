@@ -1,0 +1,41 @@
+[
+    {
+        "client_msg_id": "f22c22b7-dac3-42af-989d-a1d305033807",
+        "type": "message",
+        "text": "<!channel> Cześć :slightly_smiling_face: W najbliższą sobotę tj. 9 marca o godzinie 14:00 odbędzie się pierwsze szkolenie HR, które dotyczyć będzie przygotowania profesjonalnego CV i profilu LinkedIn w branży IT. Szkolenie odbędzie się w Waszej sali i poprowadzi je Marcelina Spica. Zapraszam wszystkich do wzięcia udziału :slightly_smiling_face:",
+        "user": "UG4354YKT",
+        "ts": "1551860799.003600",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UG1M63BEJ",
+                    "UFPBXQW73",
+                    "UFR1Y38B1"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f478f4af-5ddb-48c7-88d6-ce3d00598012",
+        "type": "message",
+        "text": "<!channel> Mała zmiana planów - szkolenie odbędzie się w NIEDZIELĘ o 14:00. Przepraszam za zamieszanie :slightly_smiling_face:",
+        "user": "UG4354YKT",
+        "ts": "1551874011.004600"
+    },
+    {
+        "client_msg_id": "7508473d-b376-46a2-aca0-d52c1249c6e9",
+        "type": "message",
+        "text": "<!channel>\nHej! Zjazd już w ten weekend! :smile:\n\nWięcej JSa, więcej GITa i więcej scruma (brace yourself, retro is coming!), czyli wszystko to co uwielbiacie! :smile:\n\nRozkład zajęć i aktywności\n\t`sobota, 9 marca`\n\t\t15:00 – 21:00 - JavaScript - podstawy programowania  – Sebastian Zając\n\t`niedziela, 10 marca`\n\t\t14:00 - 15:00 - Szkolenie HR - Marcelina Spica\n\t\t15:00 – 18:00 – GIT – Daniel Kossakowski\n\t\t18:00 – 21: 00 – Retrospekcja, Projekt - Daniel Kossakowski, N. Kalinowski\nRepozytoria i dostępy\n   `warsztaty:`\n      <https:\/\/github.com\/infoshareacademy\/jfdz11-materialy>\n      <https:\/\/github.com\/infoshareacademy\/jfdz11-git>\n  `projekty:`\n      <https:\/\/github.com\/infoshareacademy\/jfdz11-TychTrzech> (TychTrzech)\n      <https:\/\/github.com\/infoshareacademy\/jfdz11-GorsiSA> (GorsiSA)\n      <https:\/\/github.com\/infoshareacademy\/jfdz11-DABE> (DABE)\n      <https:\/\/github.com\/infoshareacademy\/jfdz11-Specode> (Specode)",
+        "user": "UFP1NEA4F",
+        "ts": "1551905875.005100"
+    },
+    {
+        "client_msg_id": "14b34bc1-9d51-489b-bfc0-cdada74e85d8",
+        "type": "message",
+        "text": "Yes Yes Yes again JS :d",
+        "user": "UFPBXQW73",
+        "ts": "1551905947.005600"
+    }
+]

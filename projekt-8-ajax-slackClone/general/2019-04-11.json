@@ -1,0 +1,9 @@
+[
+    {
+        "client_msg_id": "891e8bb8-8728-4fe4-9087-8e7ecc577cda",
+        "type": "message",
+        "text": "Hej, zjazd za rogiem i rozpiska dla Was :smile:\n\nRozkład zajęć i aktywności\n\t`sobota, 13 kwietnia`\n\t\t15:00 – 21:00 - JavaScript - Podstaw OOP - prototypy i klasy ES6 – Paweł Mikołajczuk\n\t`niedziela, 14 kwietnia`\n\t\t15:00 – 18:00 – JavaScript - AJAX - promisy – Bartosz Cytrowski\n\t\t18:00 – 21: 00 – Refinementy, Projekt  - Bartosz Cytrowski, N. Kalinowski\nTrenerzy i godziny ich obecności\n\t`sobota, 13 kwietnia`\n\t\tPaweł Mikołajczuk: 15:00 - 21:00\n\t`niedziela`, 14 kwietnia\n\t\tBartosz Cytrowski: 15:00- 21:00\n\t\tNikodem Kalinowski: 18:00 – 21:00\nRepozytoria i dostępy do nich\n\twarsztaty:\n\t\t<https:\/\/github.com\/infoshareacademy\/jfdz11-materialy> (wszyscy)\n        projekty:\n\t\t<https:\/\/github.com\/infoshareacademy\/jfdz11-TychTrzech> (TychTrzech)\n\t\t<https:\/\/github.com\/infoshareacademy\/jfdz11-GorsiSA> (GorsiSA)\n\t\t<https:\/\/github.com\/infoshareacademy\/jfdz11-DABE> (DABE)\n\t\t<https:\/\/github.com\/infoshareacademy\/jfdz11-Specode> (Specode)",
+        "user": "UFP1NEA4F",
+        "ts": "1555048169.001100"
+    }
+]

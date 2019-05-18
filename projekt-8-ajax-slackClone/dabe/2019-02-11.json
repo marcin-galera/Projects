@@ -1,0 +1,401 @@
+[
+    {
+        "client_msg_id": "4621c22a-efb0-42d3-9854-f657c000d736",
+        "type": "message",
+        "text": "Bede wieczorem w domu",
+        "user": "UFP9WB0AV",
+        "ts": "1549898569.000500"
+    },
+    {
+        "client_msg_id": "34e8cf89-861e-48ad-97df-de3808ed8b9f",
+        "type": "message",
+        "text": "Wybranie koncepcji kolorystycznej i stwirzenie loga jest jako jedno zadanie",
+        "user": "UFP9WB0AV",
+        "ts": "1549899012.002400"
+    },
+    {
+        "client_msg_id": "e8e343f3-e814-402b-8e40-5b5e18a7347a",
+        "type": "message",
+        "text": "Stworzenie sekcji hero tytul i haslo to osobne zadanie",
+        "user": "UFP9WB0AV",
+        "ts": "1549899040.003300"
+    },
+    {
+        "client_msg_id": "f561757e-5a06-4f20-a721-3e0a3ce2a9ef",
+        "type": "message",
+        "text": "skad wzieliscie loginy i hasla do zdziry?",
+        "user": "UFNNXNNBT",
+        "ts": "1549899055.003800"
+    },
+    {
+        "client_msg_id": "35ee9fa6-e4bb-4bc8-8ac4-659ecf761a31",
+        "type": "message",
+        "text": "To robi Adrian",
+        "user": "UFP9WB0AV",
+        "ts": "1549899062.003900"
+    },
+    {
+        "client_msg_id": "bcaddb69-728a-45f0-a191-cb9a1c33b3ca",
+        "type": "message",
+        "text": "Distalismy zapro od Nikodema",
+        "user": "UFP9WB0AV",
+        "ts": "1549899074.004300"
+    },
+    {
+        "client_msg_id": "c49ef29c-da92-4961-ba5e-0033300917b8",
+        "type": "message",
+        "text": "Nikodem mówił, ze juz Ciebie dodal tam do dabe",
+        "user": "UFP9WB0AV",
+        "ts": "1549899097.005000"
+    },
+    {
+        "client_msg_id": "d7e932b8-4986-4d57-a87a-75d124321ea9",
+        "type": "message",
+        "text": "Ogarnij to z nim",
+        "user": "UFP9WB0AV",
+        "ts": "1549899103.005300"
+    },
+    {
+        "client_msg_id": "7febc3f4-4988-4b98-889b-80598e587b4e",
+        "type": "message",
+        "text": "ok",
+        "user": "UFNNXNNBT",
+        "ts": "1549899224.005500"
+    },
+    {
+        "client_msg_id": "943b68ae-5927-4652-8a9f-f9a608a8382c",
+        "type": "message",
+        "text": "jol jol\njestem na zdzirze wiec jest dobrze :slightly_smiling_face:\nmacie moze gdzies opis naszego projektu?",
+        "user": "UFNNXNNBT",
+        "ts": "1549906362.006700"
+    },
+    {
+        "client_msg_id": "8094fb63-0dfc-4b24-b590-5e21dd89a312",
+        "type": "message",
+        "text": "czy repo moge nazwac *infoshareacademy\/jfdz11-dabe* ?",
+        "user": "UFNNXNNBT",
+        "ts": "1549906403.007200"
+    },
+    {
+        "client_msg_id": "8cd89528-389d-40bf-85a1-92393a7f66b8",
+        "type": "message",
+        "text": "Spoko",
+        "user": "UFP9WB0AV",
+        "ts": "1549907201.007500"
+    },
+    {
+        "client_msg_id": "4e704b9c-7d90-4cce-bbb6-4e886584476a",
+        "type": "message",
+        "text": "Opis czyli? ",
+        "user": "UFP9WB0AV",
+        "ts": "1549907240.008100"
+    },
+    {
+        "client_msg_id": "f25fb64b-c5a2-490b-babc-f136a6ba72df",
+        "type": "message",
+        "text": "chodzi mi o to co my musimy wykonac, gdy wybieralismy projekt to Nikodem pokazywal opis - mamy to gdzies?",
+        "user": "UFNNXNNBT",
+        "ts": "1549907814.009200"
+    },
+    {
+        "client_msg_id": "b2e1ddd1-e05b-4038-96e9-e73780439a9e",
+        "type": "message",
+        "text": "nasze repo na GitHubie --&gt; <https:\/\/github.com\/jagda\/infoshareacademy-jfdz11-dabe>",
+        "user": "UFNNXNNBT",
+        "ts": "1549907827.009500",
+        "attachments": [
+            {
+                "fallback": "jagda\/infoshareacademy-jfdz11-dabe",
+                "title": "jagda\/infoshareacademy-jfdz11-dabe",
+                "footer": "<https:\/\/github.com\/jagda\/infoshareacademy-jfdz11-dabe|jagda\/infoshareacademy-jfdz11-dabe>",
+                "id": 1,
+                "footer_icon": "https:\/\/assets-cdn.github.com\/favicon.ico",
+                "ts": 1549906781,
+                "color": "24292f",
+                "fields": [
+                    {
+                        "title": "Last updated",
+                        "value": "4 minutes ago",
+                        "short": true
+                    }
+                ],
+                "mrkdwn_in": [
+                    "text",
+                    "fields"
+                ],
+                "bot_id": "BFPAU9ARE",
+                "app_unfurl_url": "https:\/\/github.com\/jagda\/infoshareacademy-jfdz11-dabe",
+                "is_app_unfurl": true
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c1661c36-32d1-4b29-9384-7cf6b2cf9f33",
+        "type": "message",
+        "text": "jak bede mial opis naszego projektu to dodam README.md",
+        "user": "UFNNXNNBT",
+        "ts": "1549907868.010200"
+    },
+    {
+        "client_msg_id": "f5c4f01a-c776-4019-9e07-a371155eba7b",
+        "type": "message",
+        "text": "Tak, to jest na jira. ",
+        "user": "UFP9WB0AV",
+        "ts": "1549907942.010700"
+    },
+    {
+        "client_msg_id": "2ad29dfe-2b5c-4689-939e-4467b64376d0",
+        "type": "message",
+        "text": "OK",
+        "user": "UFNNXNNBT",
+        "ts": "1549907967.011100"
+    },
+    {
+        "client_msg_id": "c0420b03-0020-4ee1-a329-8528591fcf83",
+        "type": "message",
+        "text": "A dokladniej lista zadan oraz lista DoD",
+        "user": "UFP9WB0AV",
+        "ts": "1549907987.011800"
+    },
+    {
+        "client_msg_id": "7248a679-c3e3-4dfb-b691-280642652a43",
+        "type": "message",
+        "text": "Pierwszego sprintu(a) ",
+        "user": "UFP9WB0AV",
+        "ts": "1549908012.012400"
+    },
+    {
+        "client_msg_id": "932bdaab-114f-4228-b092-f3a3e76427d5",
+        "type": "message",
+        "text": "Ktorego musimy zrobic do 17 marca",
+        "user": "UFP9WB0AV",
+        "ts": "1549908025.012900"
+    },
+    {
+        "client_msg_id": "426c09da-1ac4-4dff-a7a8-e50999e21c1c",
+        "type": "message",
+        "text": "chodzi o calosciowy opis naszego projektu",
+        "user": "UFNNXNNBT",
+        "ts": "1549908196.013700"
+    },
+    {
+        "client_msg_id": "a290c110-61cf-4340-87c4-d80ca423abf2",
+        "type": "message",
+        "text": "nie o backLog ze zdziry",
+        "user": "UFNNXNNBT",
+        "ts": "1549908208.014000"
+    },
+    {
+        "client_msg_id": "1bb58a61-1222-4a11-a1c2-d93cf7ad8242",
+        "type": "message",
+        "text": "To zwariowałem teraz. Nie przypominam sobie niczego wiecej niz DoD i tego iz ma to byc planer finansowy",
+        "user": "UFP9WB0AV",
+        "ts": "1549908337.016100"
+    },
+    {
+        "client_msg_id": "0327b889-a979-42ae-a95e-fcfc32cb461a",
+        "type": "message",
+        "text": "Z tamtych zajęć ",
+        "user": "UFP9WB0AV",
+        "ts": "1549908355.016500"
+    },
+    {
+        "client_msg_id": "af4ea506-20a6-4c82-9722-a3fbb95ada0f",
+        "type": "message",
+        "text": "a gdzie ten DoD\n??",
+        "user": "UFNNXNNBT",
+        "ts": "1549908361.016700"
+    },
+    {
+        "client_msg_id": "1f81b03f-e5cb-4770-a722-e241adca866a",
+        "type": "message",
+        "text": "bo moze to to",
+        "user": "UFNNXNNBT",
+        "ts": "1549908366.016900"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FG4UG32F9",
+                "created": 1549908619,
+                "timestamp": 1549908619,
+                "name": "jiradod.png",
+                "title": "jiradod.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFP9WB0AV",
+                "editable": false,
+                "size": 111141,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FG4UG32F9\/jiradod.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FG4UG32F9\/download\/jiradod.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG4UG32F9-ef602fc789\/jiradod_64.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG4UG32F9-ef602fc789\/jiradod_80.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG4UG32F9-ef602fc789\/jiradod_360.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 182,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG4UG32F9-ef602fc789\/jiradod_480.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 480,
+                "thumb_480_h": 243,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG4UG32F9-ef602fc789\/jiradod_160.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG4UG32F9-ef602fc789\/jiradod_720.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 720,
+                "thumb_720_h": 364,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG4UG32F9-ef602fc789\/jiradod_800.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 405,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG4UG32F9-ef602fc789\/jiradod_960.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 960,
+                "thumb_960_h": 486,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FG4UG32F9-ef602fc789\/jiradod_1024.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 518,
+                "image_exif_rotation": 1,
+                "original_w": 1842,
+                "original_h": 932,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP9WB0AV\/FG4UG32F9\/jiradod.png",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FG4UG32F9-04e0eb0a30",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP9WB0AV",
+        "display_as_bot": false,
+        "ts": "1549908623.017300"
+    },
+    {
+        "client_msg_id": "86c0c39b-e04a-4e50-ba0d-fc7943b6bce4",
+        "type": "message",
+        "text": "ok",
+        "user": "UFNNXNNBT",
+        "ts": "1549908663.018000"
+    },
+    {
+        "client_msg_id": "e56011aa-8d71-4bbc-a95b-f6de0436d2c7",
+        "type": "message",
+        "text": "to backlog naszego sprintu - kumam",
+        "user": "UFNNXNNBT",
+        "ts": "1549908683.018500"
+    },
+    {
+        "client_msg_id": "7195c3bf-21e4-4781-bb13-d2453f04a149",
+        "type": "message",
+        "text": "tak",
+        "user": "UFP9WB0AV",
+        "ts": "1549908714.019300"
+    },
+    {
+        "client_msg_id": "1a3c90d3-86d3-4266-9c29-2ab486b9b0e6",
+        "type": "message",
+        "text": "ale opis tego naszego planera, jaka jest jego glowna funkcja, do czego on m sluzyc, co planowac??",
+        "user": "UFNNXNNBT",
+        "ts": "1549908718.019600"
+    },
+    {
+        "client_msg_id": "8bc78b68-68b2-44f0-a71e-7752ebfe3bdf",
+        "type": "message",
+        "text": "cos takiego omawialismy ??",
+        "user": "UFNNXNNBT",
+        "ts": "1549908725.019900"
+    },
+    {
+        "client_msg_id": "f9cb3650-3eed-44d9-9dc9-49897dd00500",
+        "type": "message",
+        "text": "nie przypominam sobie",
+        "user": "UFP9WB0AV",
+        "ts": "1549908736.020100"
+    },
+    {
+        "client_msg_id": "e7d8cf42-a0d1-4669-964b-1d0ecf9c9ec0",
+        "type": "message",
+        "text": "ok",
+        "user": "UFNNXNNBT",
+        "ts": "1549908740.020400"
+    },
+    {
+        "client_msg_id": "32b55d0a-1437-4a75-b2f1-acc198814566",
+        "type": "message",
+        "text": "jedyne co mówił Nikodem",
+        "user": "UFP9WB0AV",
+        "ts": "1549908744.020700"
+    },
+    {
+        "client_msg_id": "c725c4ec-38ba-4124-8a31-a61f24b61d57",
+        "type": "message",
+        "text": "to musimy to wspolnie przegadac z Nikosiem",
+        "user": "UFNNXNNBT",
+        "ts": "1549908751.021100"
+    },
+    {
+        "client_msg_id": "393fd9d5-4d7b-41bd-94d1-f40d7931aa8c",
+        "type": "message",
+        "text": "teraz w niedzielę, że ma zawierać kilka prostych funkcji do planowania domowych wydatków",
+        "user": "UFP9WB0AV",
+        "ts": "1549908769.021500"
+    },
+    {
+        "client_msg_id": "11be0375-e140-4d2e-9c1e-d1d065a7c39d",
+        "type": "message",
+        "text": "yhy",
+        "user": "UFNNXNNBT",
+        "ts": "1549908780.021800"
+    },
+    {
+        "client_msg_id": "670924a1-641b-4b4a-8434-dc0351d849c9",
+        "type": "message",
+        "text": "że nie mamy pisać zaawansowanej aplikacji bankowej :smile:",
+        "user": "UFP9WB0AV",
+        "ts": "1549908791.022100"
+    },
+    {
+        "client_msg_id": "cf6cb560-52f9-48a5-bd8d-b1151d260737",
+        "type": "message",
+        "text": ":smile:",
+        "user": "UFNNXNNBT",
+        "ts": "1549908800.022500"
+    },
+    {
+        "client_msg_id": "c0cfd63b-da6b-4fe8-8d59-53521ea01206",
+        "type": "message",
+        "text": "ale nie przypominam sobie, żadnych precyzyjnych wytycznych dotyczących projektu",
+        "user": "UFP9WB0AV",
+        "ts": "1549908810.022700"
+    },
+    {
+        "client_msg_id": "503eede7-0172-4e1d-a2c6-4914e556a348",
+        "type": "message",
+        "text": "po za tym backlogiem który teraz dostaliśmy",
+        "user": "UFP9WB0AV",
+        "ts": "1549908826.023300"
+    },
+    {
+        "client_msg_id": "e1b99a5f-c47d-4967-a4e6-8b16ad4b6350",
+        "type": "message",
+        "text": "spoko spoko to teraz wiem wsio",
+        "user": "UFNNXNNBT",
+        "ts": "1549908839.023700"
+    },
+    {
+        "client_msg_id": "a8e911e1-f085-4a5a-8845-dd819df8aaad",
+        "type": "message",
+        "text": "i po za listą DoD którą sami opisywaliśmy 2 tygodnie temu",
+        "user": "UFP9WB0AV",
+        "ts": "1549908840.023800"
+    },
+    {
+        "client_msg_id": "4ff1e426-99c0-480a-877e-c5e650e2b806",
+        "type": "message",
+        "text": "gitara w takim razie",
+        "user": "UFNNXNNBT",
+        "ts": "1549908918.024100"
+    }
+]

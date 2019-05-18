@@ -1,0 +1,123 @@
+[
+    {
+        "client_msg_id": "846815ca-7c5e-46bc-9c3e-2688aab303a2",
+        "type": "message",
+        "text": "halo halo",
+        "user": "UG1M63BEJ",
+        "ts": "1554309210.000200"
+    },
+    {
+        "client_msg_id": "33b9c526-abc2-4302-a293-3eb19f6c30a9",
+        "type": "message",
+        "text": "podsyłam materiały do poczytania na temat gry, możemy coś podobnego zrobić",
+        "user": "UG1M63BEJ",
+        "ts": "1554309230.000700"
+    },
+    {
+        "client_msg_id": "a62b8ef4-a182-47d7-9654-20daf751c58c",
+        "type": "message",
+        "text": "<https:\/\/developer.mozilla.org\/en-US\/docs\/Games\/Tutorials\/2D_Breakout_game_pure_JavaScript>",
+        "user": "UG1M63BEJ",
+        "ts": "1554309265.000900",
+        "attachments": [
+            {
+                "service_name": "MDN Web Docs",
+                "title": "2D breakout game using pure JavaScript",
+                "title_link": "https:\/\/developer.mozilla.org\/en-US\/docs\/Games\/Tutorials\/2D_Breakout_game_pure_JavaScript",
+                "text": "In this step-by-step tutorial we create a simple MDN Breakout game written entirely in pure JavaScript and rendered on HTML5 canvas.",
+                "fallback": "MDN Web Docs: 2D breakout game using pure JavaScript",
+                "thumb_url": "https:\/\/developer.mozilla.org\/static\/img\/opengraph-logo.72382e605ce3.png",
+                "from_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Games\/Tutorials\/2D_Breakout_game_pure_JavaScript",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/developer.mozilla.org\/static\/img\/favicon144.e7e21ca263ca.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Games\/Tutorials\/2D_Breakout_game_pure_JavaScript"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "808f28e3-cb60-4308-865a-da3b284a1da5",
+        "type": "message",
+        "text": "nie musi byc zwiazana z bieganiem?",
+        "user": "UFPBXQW73",
+        "ts": "1554312995.001400"
+    },
+    {
+        "client_msg_id": "80b32485-9ade-47ef-ae6d-a46995d55438",
+        "type": "message",
+        "text": "a no by było dobrze w sumie jakby coś tam biegało",
+        "user": "UG1M63BEJ",
+        "ts": "1554313630.001800"
+    },
+    {
+        "client_msg_id": "9080c4fb-c88c-4cd0-9b3f-fbf6320fe0fb",
+        "type": "message",
+        "text": "ale i tak warto przeczytać",
+        "user": "UG1M63BEJ",
+        "ts": "1554313694.002200"
+    },
+    {
+        "client_msg_id": "3157470a-e34c-422d-8d24-f07b861e2d55",
+        "type": "message",
+        "text": "Patryk co będziesz teraz robił? (mam na myśli projekt)",
+        "user": "UG1M63BEJ",
+        "ts": "1554313745.002600"
+    },
+    {
+        "client_msg_id": "285d2fbf-dc84-478f-8793-4e2d2d1c4af0",
+        "type": "message",
+        "text": "Plansze backgroundową :d",
+        "user": "UFPBXQW73",
+        "ts": "1554314884.003000"
+    },
+    {
+        "client_msg_id": "14ee9b7d-66aa-4c9f-a9fe-0a7d71242a2b",
+        "type": "message",
+        "text": "zaraz spojrze na taski na jirze",
+        "user": "UFPBXQW73",
+        "ts": "1554315100.003300"
+    },
+    {
+        "client_msg_id": "ae24caf4-c64d-49de-a4ca-04d0d3c05304",
+        "type": "message",
+        "text": "ło kurla ja nie wiem",
+        "user": "UFPBXQW73",
+        "ts": "1554315419.003500"
+    },
+    {
+        "client_msg_id": "aa0060a0-3ee5-4415-bf80-cc717e3c7a26",
+        "type": "message",
+        "text": "może instrukcje do gry albo komunikat o ciasteczkach",
+        "user": "UFPBXQW73",
+        "ts": "1554315469.004100"
+    },
+    {
+        "client_msg_id": "067ea722-d95e-4639-b5aa-9c52427a9a36",
+        "type": "message",
+        "text": "co bym nie robil to musze przeszukac internet bo nie wiem jak",
+        "user": "UFPBXQW73",
+        "ts": "1554315479.004400"
+    },
+    {
+        "client_msg_id": "8fc08b0a-4bb8-4bdb-b24c-059702ae586d",
+        "type": "message",
+        "text": "trudno robic instrukcje nie majac jeszcze gry :slightly_smiling_face:",
+        "user": "UFPBXQW73",
+        "ts": "1554315560.004700"
+    },
+    {
+        "client_msg_id": "15e0d4a1-2c74-46f5-9808-7960c20712ad",
+        "type": "message",
+        "text": "juz komunikat o ciastkach jest",
+        "user": "UFPBXQW73",
+        "ts": "1554315679.004900"
+    },
+    {
+        "client_msg_id": "71697E6E-6FF8-4E2B-A39D-E0B7C31E228E",
+        "type": "message",
+        "text": "Wasza gra to ‚chodzenie w prawo’ :)",
+        "user": "UFP1NEA4F",
+        "ts": "1554320366.005400"
+    }
+]

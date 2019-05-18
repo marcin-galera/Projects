@@ -1,0 +1,102 @@
+[
+    {
+        "client_msg_id": "a9f465d3-3d89-4948-b005-b064e72cfa52",
+        "type": "message",
+        "text": "<https:\/\/observablehq.com\/d\/f5fec4a234cd3b4b>",
+        "user": "UHKFQ75A4",
+        "ts": "1554556940.000200",
+        "attachments": [
+            {
+                "title": "Programowanie obiektowe",
+                "title_link": "https:\/\/observablehq.com\/d\/f5fec4a234cd3b4b",
+                "text": "An Observable notebook by Paweł Mikołajczuk.",
+                "fallback": "Programowanie obiektowe",
+                "image_url": "https:\/\/static.observableusercontent.com\/thumbnail\/7486df8cf3fb2adc2a26ef350c1389f028ae40f243ebf21da839a53387aabc89.jpg",
+                "ts": 1554542086,
+                "from_url": "https:\/\/observablehq.com\/d\/f5fec4a234cd3b4b",
+                "image_width": 400,
+                "image_height": 250,
+                "image_bytes": 26985,
+                "service_icon": "https:\/\/static.observablehq.com\/favicon-512.e85350a27dfadeea7c7c78c797c24419525df5579de174d86d258c40ae57473a.png",
+                "service_name": "observablehq.com",
+                "id": 1,
+                "original_url": "https:\/\/observablehq.com\/d\/f5fec4a234cd3b4b"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHQF40X9A",
+                "created": 1554566458,
+                "timestamp": 1554566458,
+                "name": "image.png",
+                "title": "Pasted image at 2019-04-06, 6:01 PM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UG693FN7L",
+                "editable": false,
+                "size": 243068,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHQF40X9A\/image.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHQF40X9A\/download\/image.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHQF40X9A-09f046ba4c\/image_64.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHQF40X9A-09f046ba4c\/image_80.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHQF40X9A-09f046ba4c\/image_360.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 337,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHQF40X9A-09f046ba4c\/image_160.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "image_exif_rotation": 1,
+                "original_w": 360,
+                "original_h": 337,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UG693FN7L\/FHQF40X9A\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHQF40X9A-6a3190dd71",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UG693FN7L",
+        "display_as_bot": false,
+        "ts": "1554566459.000400",
+        "client_msg_id": "20ad9f86-5a46-4d51-b9f9-51278e5934dd",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UFRCP5Q4E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "joy",
+                "users": [
+                    "UG1M63BEJ"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b5567908-e75a-4a82-bf53-510903703905",
+        "type": "message",
+        "text": "Adrian w punkt!",
+        "user": "UFRCP5Q4E",
+        "ts": "1554566510.000900"
+    },
+    {
+        "client_msg_id": "fdda2d27-1a42-4195-ab46-d675e17da462",
+        "type": "message",
+        "text": "Proste jak swinski ogon",
+        "user": "UFPBXQW73",
+        "ts": "1554566564.001400"
+    }
+]

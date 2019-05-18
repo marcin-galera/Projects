@@ -1,0 +1,162 @@
+[
+    {
+        "client_msg_id": "7fc3f5fc-f69c-4f8c-b44b-9e717b5121b5",
+        "type": "message",
+        "text": "<https:\/\/kursjs.pl\/kurs\/es6\/class.php>",
+        "user": "UFP7290SG",
+        "ts": "1555170589.000200",
+        "attachments": [
+            {
+                "title": "Kurs Javascript",
+                "title_link": "https:\/\/kursjs.pl\/kurs\/es6\/class.php",
+                "text": "Kurs Javascript dla superbohaterów",
+                "fallback": "Kurs Javascript",
+                "thumb_url": "http:\/\/www.kursjs.pl\/kursjs.png",
+                "from_url": "https:\/\/kursjs.pl\/kurs\/es6\/class.php",
+                "thumb_width": 180,
+                "thumb_height": 180,
+                "service_icon": "https:\/\/kursjs.pl\/favicons\/apple-touch-icon-57x57.png",
+                "service_name": "kursjs.pl",
+                "id": 1,
+                "original_url": "https:\/\/kursjs.pl\/kurs\/es6\/class.php"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "23b85508-adee-424f-b568-5cac7c236315",
+        "type": "message",
+        "text": "Podpowie ktoś, który element składni to handler?  Lub w tłumaczeniu na polski co dokładnie oznacza?",
+        "user": "UFNFNGQPL",
+        "ts": "1555216278.001100",
+        "thread_ts": "1555216278.001100",
+        "reply_count": 10,
+        "reply_users_count": 2,
+        "latest_reply": "1555272182.004300",
+        "reply_users": [
+            "UHEJYFVV0",
+            "UHKFQ75A4"
+        ],
+        "replies": [
+            {
+                "user": "UHEJYFVV0",
+                "ts": "1555235732.002100"
+            },
+            {
+                "user": "UHEJYFVV0",
+                "ts": "1555235773.002300"
+            },
+            {
+                "user": "UHEJYFVV0",
+                "ts": "1555235799.002500"
+            },
+            {
+                "user": "UHEJYFVV0",
+                "ts": "1555235856.002700"
+            },
+            {
+                "user": "UHKFQ75A4",
+                "ts": "1555265876.003300"
+            },
+            {
+                "user": "UHKFQ75A4",
+                "ts": "1555265894.003500"
+            },
+            {
+                "user": "UHEJYFVV0",
+                "ts": "1555272142.003700"
+            },
+            {
+                "user": "UHEJYFVV0",
+                "ts": "1555272153.003900"
+            },
+            {
+                "user": "UHEJYFVV0",
+                "ts": "1555272171.004100"
+            },
+            {
+                "user": "UHEJYFVV0",
+                "ts": "1555272182.004300"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cb0353bb-862e-408e-85e3-cabe73e4668c",
+        "type": "message",
+        "text": "<https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/Guide\/Events\/Event_handlers>",
+        "user": "UFNFNGQPL",
+        "ts": "1555216506.001600",
+        "attachments": [
+            {
+                "service_name": "MDN Web Docs",
+                "title": "DOM on-event handlers",
+                "title_link": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/Guide\/Events\/Event_handlers",
+                "text": "The Web platform provides several ways to get notified of DOM events.  Two common styles are: the generalized addEventListener() and a set of specific on-event handlers.",
+                "fallback": "MDN Web Docs: DOM on-event handlers",
+                "thumb_url": "https:\/\/developer.mozilla.org\/static\/img\/opengraph-logo.72382e605ce3.png",
+                "from_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/Guide\/Events\/Event_handlers",
+                "thumb_width": 600,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/developer.mozilla.org\/static\/img\/favicon144.e7e21ca263ca.png",
+                "id": 1,
+                "original_url": "https:\/\/developer.mozilla.org\/en-US\/docs\/Web\/Guide\/Events\/Event_handlers"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Clean code",
+        "files": [
+            {
+                "id": "FHJ7WT12N",
+                "created": 1555221830,
+                "timestamp": 1555221830,
+                "name": "image.png",
+                "title": "Pasted image at 2019-04-14, 8:03 AM",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFNFNGQPL",
+                "editable": false,
+                "size": 105533,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHJ7WT12N\/image.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHJ7WT12N\/download\/image.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHJ7WT12N-e94b298e05\/image_64.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHJ7WT12N-e94b298e05\/image_80.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHJ7WT12N-e94b298e05\/image_360.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 326,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHJ7WT12N-e94b298e05\/image_480.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 480,
+                "thumb_480_h": 435,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHJ7WT12N-e94b298e05\/image_160.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "image_exif_rotation": 1,
+                "original_w": 500,
+                "original_h": 453,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFNFNGQPL\/FHJ7WT12N\/image.png",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHJ7WT12N-958f966977",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFNFNGQPL",
+        "display_as_bot": false,
+        "ts": "1555221832.001800",
+        "client_msg_id": "815b18df-1ccf-40d1-8496-2e5518920290",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "UFRCP5Q4E"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "client_msg_id": "41aac8df-e6c7-4adc-9844-6289953fa8b2",
+        "type": "message",
+        "text": "<http:\/\/blog.atena.pl\/pong-pisanie-prostych-gier-2d-w-jezyku-javascript>",
+        "user": "UFP7290SG",
+        "ts": "1554644954.000200",
+        "attachments": [
+            {
+                "title": "Pong. Pisanie prostych gier 2D w języku JavaScript",
+                "title_link": "http:\/\/blog.atena.pl\/pong-pisanie-prostych-gier-2d-w-jezyku-javascript",
+                "text": "W niniejszym artykule udowadniamy, że tworzenie prostych gier z wykorzystaniem języka JavaScript jest naprawdę łatwe. Robimy to na przykładzie kultowej gry Pong",
+                "fallback": "Pong. Pisanie prostych gier 2D w języku JavaScript",
+                "from_url": "http:\/\/blog.atena.pl\/pong-pisanie-prostych-gier-2d-w-jezyku-javascript",
+                "service_icon": "http:\/\/blog.atena.pl\/wp-content\/uploads\/2017\/09\/cropped-atena_fav-180x180.png",
+                "service_name": "blog.atena.pl",
+                "id": 1,
+                "original_url": "http:\/\/blog.atena.pl\/pong-pisanie-prostych-gier-2d-w-jezyku-javascript"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9f314556-a91b-4584-b647-dd124f952201",
+        "type": "message",
+        "text": "<https:\/\/pl.wikipedia.org\/wiki\/HTML5_Canvas>",
+        "user": "UFP7290SG",
+        "ts": "1554661544.000500",
+        "attachments": [
+            {
+                "title": "HTML5 Canvas",
+                "title_link": "https:\/\/pl.wikipedia.org\/wiki\/HTML5_Canvas",
+                "from_url": "https:\/\/pl.wikipedia.org\/wiki\/HTML5_Canvas",
+                "author_name": "Wikipedia",
+                "author_link": "https:\/\/pl.wikipedia.org\/",
+                "text": "HTML5 Canvas — element języka HTML wprowadzony w HTML 5 pozwalający na dynamiczne, skryptowe renderowanie kształtów i obrazów bitmapowych.\nDzięki wprowadzeniu obiektu canvas możliwe stało się tworzenie dynamicznych dwu- i trójwymiarowych animacji czy gier działających w przeglądarkach bez dodatkowych wtyczek.",
+                "fallback": "wikipedia: HTML5 Canvas",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/wikipedia.png",
+                "id": 1,
+                "original_url": "https:\/\/pl.wikipedia.org\/wiki\/HTML5_Canvas"
+            }
+        ]
+    }
+]

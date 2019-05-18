@@ -51,6 +51,7 @@ uzywanie konsoli - tabulatora
 uzywanie skrotow klawiszowych w edytorze
 Wysy�anie CV bezspo�rednio do firm, nawet je�li nie maj� rekrutacji.
 Wysy�anie CV bezspo�rednio do firm, nawet je�li nie maj� rekrutacji.
+arrow function ( cukier skladniowy, nie ma wlasnego this)
 
 
 foliowanie

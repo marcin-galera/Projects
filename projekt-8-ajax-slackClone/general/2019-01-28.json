@@ -1,0 +1,93 @@
+[
+    {
+        "type": "message",
+        "text": "<!channel> Jeśli chodzi o harmonogram czasowy kursu to jest bez zmian. Taki jaki dostaliście ode mnie pod koniec grudnia 2018 taki jest aktualny. Dziś lub jutro prześlę Wam aneksy do umowy do podpisania. :slightly_smiling_face: Następne zajęcia są za niecałe dwa tygodnie - 9 lutego 2019. To sporo czasu na to, aby kto jeszcze tego nie zrobił - zrobił prework W CAŁOŚCI i dosłał do nas. :slightly_smiling_face: Załączam tutaj raz jeszcze harmonogram zjazdów. :calendar:",
+        "files": [
+            {
+                "id": "FFR1PJJPP",
+                "created": 1548681685,
+                "timestamp": 1548681685,
+                "name": "zalacznik_nr_3_zakres_czasowy_JFDZ11.pdf",
+                "title": "zalacznik_nr_3_zakres_czasowy_JFDZ11.pdf",
+                "mimetype": "application\/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "UFP1WTUP9",
+                "editable": false,
+                "size": 228344,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FFR1PJJPP\/zalacznik_nr_3_zakres_czasowy_jfdz11.pdf?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FFR1PJJPP\/download\/zalacznik_nr_3_zakres_czasowy_jfdz11.pdf?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_pdf": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FFR1PJJPP-58ddb8bd4e\/zalacznik_nr_3_zakres_czasowy_jfdz11_thumb_pdf.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP1WTUP9\/FFR1PJJPP\/zalacznik_nr_3_zakres_czasowy_jfdz11.pdf",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FFR1PJJPP-09e6c02304",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP1WTUP9",
+        "display_as_bot": false,
+        "ts": "1548681688.004600",
+        "edited": {
+            "user": "UFP1WTUP9",
+            "ts": "1548681731.000000"
+        },
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFR1Y38B1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "84B593D7-E9A0-4A0B-AE49-0F46AFFBC314",
+        "type": "message",
+        "text": "Dzięki  za info :slightly_smiling_face:",
+        "user": "UFRCP5Q4E",
+        "ts": "1548681748.005400",
+        "reactions": [
+            {
+                "name": "slightly_smiling_face",
+                "users": [
+                    "UFP1WTUP9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "885f41ec-5bf8-4738-a03d-6e34a3747e8c",
+        "type": "message",
+        "text": "<!channel> Przed Wami prawie 2 tygodnie do 2. zjazdu. Bardzo Was prosimy o mocne przećwiczenie htmla\/css i cykliczne powtarzanie Javascriptu. Pociąg już ruszył, nie zostańcie na peronie :slightly_smiling_face: Im więcej pociśniecie teraz, tym łatwiej Wam będzie na kursie. Jeżeli chodzi o zajęcia z HTMLa\/CSSa - uczymy Was najważniejszych rzeczy, totalne podstawy macie znać z preworka. W razie wątpliwości piszcie doNikodema.",
+        "user": "UFMUTFP7U",
+        "ts": "1548686049.008600",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UFP1WTUP9",
+                    "UFR1Y38B1"
+                ],
+                "count": 2
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UFP7290SG"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

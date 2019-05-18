@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "f4c64eca-b942-4f5c-ad92-78f01d7c06ba",
+        "type": "message",
+        "text": "<!channel>\nHej! Kolejny zjazd już jutro i wjeżdża JS! :smile:\n\nRozkład zajęć i aktywności\n   `sobota, 23 lutego`\n       15:00 – 21:00 - JavaScript - podstawy programowania     - Sebastian Zając\n   `niedziela, 24 lutego`\n       15:00 – 18:00 - JavaScript - podstawy programowania     - Sebastian Zając\n       18:00 – 21: 00 – Refinement\/Projekt - Sebastian Zając, N. Kalinowski\nRepozytoria i dostępy\n   `warsztaty:`\n      <https:\/\/github.com\/infoshareacademy\/jfdz11-materialy>\n  `projekty:`\n      <https:\/\/github.com\/infoshareacademy\/jfdz11-TychTrzech> (TychTrzech)\n      <https:\/\/github.com\/infoshareacademy\/jfdz11-GorsiSA> (GorsiSA)\n      <https:\/\/github.com\/infoshareacademy\/jfdz11-DABE> (DABE)\n      <https:\/\/github.com\/infoshareacademy\/jfdz11-Specode> (Specode)",
+        "user": "UFP1NEA4F",
+        "ts": "1550852726.001600"
+    },
+    {
+        "client_msg_id": "0808377d-e52a-4197-986b-c1ec043c4a43",
+        "type": "message",
+        "text": "Trudne to ? :d",
+        "user": "UFPBXQW73",
+        "ts": "1550859619.001900"
+    },
+    {
+        "client_msg_id": "4C696C9F-C2FE-4ADC-AF8A-A56208B38362",
+        "type": "message",
+        "text": "Wystarczy sie nauczyc Javy, douczyć skryptów i gotowy na projekt :D",
+        "user": "UFP1NEA4F",
+        "ts": "1550860012.002700",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UFU6GEY3T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4112C3E5-5872-4AD3-83A9-A209EA4935DD",
+        "type": "message",
+        "text": "<@UFP1NEA4F> :grin::grin::joy:",
+        "user": "UFRCP5Q4E",
+        "ts": "1550860064.003100"
+    },
+    {
+        "type": "message",
+        "text": "JS",
+        "files": [
+            {
+                "id": "FGFGSEZE3",
+                "created": 1550860158,
+                "timestamp": 1550860158,
+                "name": "j5NKq_BsD2aeX-ZVSC9mWMMwDH355kNoNM2210kdTi4.png",
+                "title": "j5NKq_BsD2aeX-ZVSC9mWMMwDH355kNoNM2210kdTi4.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFP9WB0AV",
+                "editable": false,
+                "size": 37752,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FGFGSEZE3\/j5nkq_bsd2aex-zvsc9mwmmwdh355knonm2210kdti4.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FGFGSEZE3\/download\/j5nkq_bsd2aex-zvsc9mwmmwdh355knonm2210kdti4.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FGFGSEZE3-98b41dce1a\/j5nkq_bsd2aex-zvsc9mwmmwdh355knonm2210kdti4_64.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FGFGSEZE3-98b41dce1a\/j5nkq_bsd2aex-zvsc9mwmmwdh355knonm2210kdti4_80.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FGFGSEZE3-98b41dce1a\/j5nkq_bsd2aex-zvsc9mwmmwdh355knonm2210kdti4_360.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 257,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FGFGSEZE3-98b41dce1a\/j5nkq_bsd2aex-zvsc9mwmmwdh355knonm2210kdti4_480.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 480,
+                "thumb_480_h": 343,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FGFGSEZE3-98b41dce1a\/j5nkq_bsd2aex-zvsc9mwmmwdh355knonm2210kdti4_160.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "image_exif_rotation": 1,
+                "original_w": 482,
+                "original_h": 344,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP9WB0AV\/FGFGSEZE3\/j5nkq_bsd2aex-zvsc9mwmmwdh355knonm2210kdti4.png",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FGFGSEZE3-30d3028b0d",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP9WB0AV",
+        "display_as_bot": false,
+        "ts": "1550860160.003200",
+        "reactions": [
+            {
+                "name": "rolling_on_the_floor_laughing",
+                "users": [
+                    "UFRCP5Q4E",
+                    "UFPBXQW73"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc90396e-9cbd-46c3-859a-abd8fe07d154",
+        "type": "message",
+        "text": "<!channel> dostałem info przed sekundą, że drzwi wejściowe do o4 są zepsute i niestety wejść tam można albo przez wejście boczne, albo przez główny hol Olivia Four (tam, gdzie siedzi ochrona). Najpewniej trwać to będzie przez cały weekend. Przepraszamy za zamieszanie.",
+        "user": "UFMUTFP7U",
+        "ts": "1550868194.003700"
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "client_msg_id": "4362825a-8615-42b9-8959-76606aee1ea3",
+        "type": "message",
+        "text": "Hej, nowa praca domowa :slightly_smiling_face:\n\n<https:\/\/github.com\/infoshareacademy\/jfdz11-homeworks\/tree\/master\/Zadanie_3>",
+        "user": "UFP1NEA4F",
+        "ts": "1553633726.000200",
+        "edited": {
+            "user": "UFP1NEA4F",
+            "ts": "1553633740.000000"
+        }
+    },
+    {
+        "client_msg_id": "3D2677B5-0AC8-4F96-96DE-5E1123D3AF64",
+        "type": "message",
+        "text": "Jaki termin?",
+        "user": "UFRCP5Q4E",
+        "ts": "1553633885.000600"
+    },
+    {
+        "client_msg_id": "da2879d1-9dfa-4543-93d7-2764235145d8",
+        "type": "message",
+        "text": "dobre pytanie. Taka prościzna to 30.03 12:00",
+        "user": "UFP1NEA4F",
+        "ts": "1553633961.001000"
+    },
+    {
+        "client_msg_id": "2a1fc4d0-3d83-44fd-8142-f5e88a2b9e49",
+        "type": "message",
+        "text": "już dopisuje",
+        "user": "UFP1NEA4F",
+        "ts": "1553633968.001200"
+    },
+    {
+        "client_msg_id": "D92DD98B-2EC7-417B-A2CB-E570260EBAEC",
+        "type": "message",
+        "text": ":slightly_frowning_face:",
+        "user": "UFRCP5Q4E",
+        "ts": "1553633983.001400"
+    }
+]

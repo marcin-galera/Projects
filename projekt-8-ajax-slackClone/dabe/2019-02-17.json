@@ -1,0 +1,16 @@
+[
+    {
+        "client_msg_id": "df70f3d0-04c7-4456-87e3-56e2c39c4ad4",
+        "type": "message",
+        "text": "@media (min-width: 769px)",
+        "user": "UFP9WB0AV",
+        "ts": "1550427729.000200"
+    },
+    {
+        "client_msg_id": "02b1c86b-827c-470a-ba58-02e4d8b39099",
+        "type": "message",
+        "text": "\/\/ Extra small devices (portrait phones, less than 576px)\n\/\/ No media query for `xs` since this is the default in Bootstrap\n\n\/\/ Small devices (landscape phones, 576px and up)\n@media (min-width: 576px) { ... }\n\n\/\/ Medium devices (tablets, 768px and up)\n@media (min-width: 768px) { ... }\n\n\/\/ Large devices (desktops, 992px and up)\n@media (min-width: 992px) { ... }\n\n\/\/ Extra large devices (large desktops, 1200px and up)\n@media (min-width: 1200px) { ... }",
+        "user": "UFP9WB0AV",
+        "ts": "1550427815.000300"
+    }
+]

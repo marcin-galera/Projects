@@ -1,0 +1,25 @@
+[
+    {
+        "client_msg_id": "b8ee7966-3cf9-4af4-9c54-094ac4da4222",
+        "type": "message",
+        "text": "Od jutra dołączam do grupy, do zoba :wink:",
+        "user": "UG693FN7L",
+        "ts": "1550226323.000800",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UFP1WTUP9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FBADA3EF-8DAB-46F5-BE15-F2E5D1077371",
+        "type": "message",
+        "text": "Hej :grin:",
+        "user": "UFRCP5Q4E",
+        "ts": "1550227185.001100"
+    }
+]

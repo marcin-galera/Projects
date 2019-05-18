@@ -1,0 +1,107 @@
+[
+    {
+        "client_msg_id": "88700239-2348-4d62-99ed-ad19e4c81fec",
+        "type": "message",
+        "text": "hej, oby się udało bez problemu :slightly_smiling_face: życzę powrotu do zdrowia",
+        "user": "UFMQ48LHE",
+        "ts": "1552667174.000900"
+    },
+    {
+        "client_msg_id": "e510eda9-d291-4898-9832-8c5679193fb6",
+        "type": "message",
+        "text": "kto mnie popsuł sticky menu :smile:",
+        "user": "UFP9WB0AV",
+        "ts": "1552681989.001200"
+    },
+    {
+        "client_msg_id": "0253b947-9e84-434d-b757-b6620e579e10",
+        "type": "message",
+        "text": "pytam się ja",
+        "user": "UFP9WB0AV",
+        "ts": "1552681993.001400"
+    },
+    {
+        "client_msg_id": "3c8f7201-7550-4847-9434-85c5c7f2ce2d",
+        "type": "message",
+        "text": ":smile:",
+        "user": "UFP9WB0AV",
+        "ts": "1552681994.001600"
+    },
+    {
+        "client_msg_id": "8b4dada0-9f83-4cae-a6d8-d5553958bff8",
+        "type": "message",
+        "text": ":zany_face:",
+        "user": "UFNNXNNBT",
+        "ts": "1552682017.001800"
+    },
+    {
+        "client_msg_id": "69e4879b-3abc-4eed-9159-1292286fb494",
+        "type": "message",
+        "text": "Proszę Państwa poddaję się :disappointed: z zadaniem FZ11DA-17 i biorę się za zadanie FZ11DA-5.\n1. Może to efekt pory, ale za cholerę nie mogę się doszukać czemu sticky menu zaczęło się chować, a bez tego nie mam jak się wziąć za ten active scroll menu.\n2. FZ11DA-17 to jednak zabawa w JS. Potrzebuję jeszcze chwili aby się polubić z JSem. Teraz jeszcze tego nie ogarnę :disappointed:",
+        "user": "UFP9WB0AV",
+        "ts": "1552684104.006200"
+    },
+    {
+        "client_msg_id": "f6412246-3e5f-42cb-8aac-94ce3ffa0f0b",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=dsXcsfxGArg> zostawię to chętnemu do tego zadania",
+        "user": "UFP9WB0AV",
+        "ts": "1552684186.006800",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "sticky menu and active scroll",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=dsXcsfxGArg",
+                "author_name": "keith paul",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCkfpBPxYZ_LhAFh3cD6BmKA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/dsXcsfxGArg\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: sticky menu and active scroll",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/dsXcsfxGArg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=dsXcsfxGArg",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=dsXcsfxGArg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c3a33b7-69be-440c-bab5-d0ee2a56fdb0",
+        "type": "message",
+        "text": "<https:\/\/www.youtube.com\/watch?v=6KOXI0IT0so&amp;t=586s>",
+        "user": "UFP9WB0AV",
+        "ts": "1552684280.007100",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "053 highlighting active section menu item on scrolling",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=6KOXI0IT0so&amp;t=586s",
+                "author_name": "qwe mnaga",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCeMqAQXcxOS3JMrHQftSWiw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/6KOXI0IT0so\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: 053 highlighting active section menu item on scrolling",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/6KOXI0IT0so?feature=oembed&start=586&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=6KOXI0IT0so&amp;t=586s",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1,
+                "original_url": "https:\/\/www.youtube.com\/watch?v=6KOXI0IT0so&amp;t=586s"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "05bfccb4-c21f-4806-bcfd-806798b7d24d",
+        "type": "message",
+        "text": "Mi swoje jednak udało się zrobić z pomocą kolegi ale nie chce bawić się w gita bo znowu coś źle zrobię może jutro przyjedziemy z pół godziny wcześniej i poskładamy to w całość? bo chyba później nie będzie na to czasu",
+        "user": "UFPC1B9UZ",
+        "ts": "1552685779.009300"
+    }
+]

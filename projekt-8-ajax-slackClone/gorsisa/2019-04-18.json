@@ -1,0 +1,20 @@
+[
+    {
+        "client_msg_id": "aaf2a7b9-66bf-4e38-9bea-242da3b0f7a2",
+        "type": "message",
+        "text": "Ja zapierdzielam w Lufthansie.",
+        "user": "UFP7290SG",
+        "ts": "1555606260.001700"
+    },
+    {
+        "client_msg_id": "2adc8eab-b089-4500-89eb-b777adb76439",
+        "type": "message",
+        "text": "Oczywiście przed świętami trzeba się z całą robotą u nas wyrobić.",
+        "user": "UFP7290SG",
+        "ts": "1555606272.002100",
+        "edited": {
+            "user": "UFP7290SG",
+            "ts": "1556396089.000000"
+        }
+    }
+]

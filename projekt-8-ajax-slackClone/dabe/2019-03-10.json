@@ -1,0 +1,58 @@
+[
+    {
+        "client_msg_id": "e51f6ae2-6cd8-4e1f-99f7-9cf37da29f34",
+        "type": "message",
+        "text": "siema",
+        "user": "UFP9WB0AV",
+        "ts": "1552252993.000200"
+    },
+    {
+        "client_msg_id": "f276fb37-47f1-463a-b3df-d2cc5bf6e476",
+        "type": "message",
+        "text": "zapomnieliśmy zcommitować szablony dla Ewy",
+        "user": "UFP9WB0AV",
+        "ts": "1552253025.001000"
+    },
+    {
+        "client_msg_id": "ab564b5d-bd3a-490a-a74b-57d56ed1ce49",
+        "type": "message",
+        "text": "w związku z tym ja teraz popracuję nad szablonem strony i wypchnę go na gita aby każdy później miał już ułatwioną zabawę ze swoimi zadaniami",
+        "user": "UFP9WB0AV",
+        "ts": "1552253074.002100"
+    },
+    {
+        "client_msg_id": "a2c9fee0-e715-4a56-be8c-322b02827a3d",
+        "type": "message",
+        "text": "wszystko będzie na developie",
+        "user": "UFP9WB0AV",
+        "ts": "1552253089.002600"
+    },
+    {
+        "client_msg_id": "3e21e5ae-6361-44a0-b984-0bcedaa3b883",
+        "type": "message",
+        "text": "ok zrobiłem mały porządek:\n- Usunąłem stare branche\n- na githubie zostały tylko develop i master\n- na developie stworzyłem aktualny baaardzo prosty szkielet index.html i main.css z lakoniczną instrukcją",
+        "user": "UFP9WB0AV",
+        "ts": "1552258413.005700"
+    },
+    {
+        "client_msg_id": "5ec78838-8c3c-413a-acb2-fe9f826d88e8",
+        "type": "message",
+        "text": "pozwoli nam to myślę zaoszczędzić czas przy rozwiązywaniu konfliktów przy późniejszym mergowaniu",
+        "user": "UFP9WB0AV",
+        "ts": "1552258482.006600"
+    },
+    {
+        "client_msg_id": "80285c81-3802-40a5-8ec0-657bf91cc829",
+        "type": "message",
+        "text": "Ewo: po ściągnięciu repo z githuba musisz najpierw stworzyć jeszcze raz swoją branch nazywając ją nazwą zadania z jiry z dopiskiem \"_ewa\" czyli dokładnie: \"fz11da-3_ewa\" i na tej branchy wykonuj proszę swoje zadanie",
+        "user": "UFP9WB0AV",
+        "ts": "1552258673.008800"
+    },
+    {
+        "client_msg_id": "a12e3548-9586-4094-9ae3-64fb1a4f8c65",
+        "type": "message",
+        "text": "powodzenia trzymam kciuki :wink:",
+        "user": "UFP9WB0AV",
+        "ts": "1552258697.009100"
+    }
+]

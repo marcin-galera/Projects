@@ -1,0 +1,49 @@
+[
+    {
+        "client_msg_id": "be9be468-a35d-4314-9acb-87940f458126",
+        "type": "message",
+        "text": "Panowie pozamiatałem nasze grupowe repo z wszelkiego nieaktualnego syfu i teraz kazdy ma branch (oprocz Mikolaja bo nic nie robi). Prosze postarac sie utrzymac porzadek i nic nie dodawac na developa.",
+        "user": "UG1M63BEJ",
+        "ts": "1554024349.001100",
+        "reactions": [
+            {
+                "name": "muscle",
+                "users": [
+                    "UFP7290SG"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b8727ec0-f51c-4552-9c50-5f6bcfc55ae2",
+        "type": "message",
+        "text": "```\nZróbcie proszę subtaski w JIRZE odnośnie gry takie oto:\n- mechanizm poruszania się\n- mechanizm zdobywania punktów\n- mechanizm \"ginięcia\" \/ przeszkody\n- wprowadzanie imienia gracza i przycisk start\n- zliczanie punktacji i pokazywanie wyniku\n- zapisywanie wyników w localStorage\n```",
+        "user": "UFP1NEA4F",
+        "ts": "1554051562.001200"
+    },
+    {
+        "client_msg_id": "087d0c44-be0d-4888-a549-ea46333e9138",
+        "type": "message",
+        "text": "<https:\/\/html-online.com\/articles\/cookie-consent-warning-strap-website\/>",
+        "user": "UFP7290SG",
+        "ts": "1554053127.001400",
+        "attachments": [
+            {
+                "service_name": "HTML Online Articles",
+                "title": "Cookie Consent warning strap with HTML-CSS-JS - HTML Online Articles",
+                "title_link": "https:\/\/html-online.com\/articles\/cookie-consent-warning-strap-website\/",
+                "text": "In this article I'm presenting a simple and elegant way of presenting a Cookie Consent notification in a strap at the bottom of the page. HTML-CSS-JS below",
+                "fallback": "HTML Online Articles: Cookie Consent warning strap with HTML-CSS-JS - HTML Online Articles",
+                "thumb_url": "https:\/\/html-online.com\/articles\/wp-content\/uploads\/2017\/03\/cookie-law-warning-strap.png",
+                "ts": 1490819637,
+                "from_url": "https:\/\/html-online.com\/articles\/cookie-consent-warning-strap-website\/",
+                "thumb_width": 522,
+                "thumb_height": 42,
+                "service_icon": "https:\/\/html-online.com\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/html-online.com\/articles\/cookie-consent-warning-strap-website\/"
+            }
+        ]
+    }
+]

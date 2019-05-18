@@ -1,0 +1,39 @@
+[
+    {
+        "client_msg_id": "d1e07191-a317-40d9-a589-eee0339f37ea",
+        "type": "message",
+        "text": "Hej, mam problem ze znalezieniem pytań do rozmów kwalifikacyjnych. Ma ktoś może ten link pod ręką?",
+        "user": "UFR1Y38B1",
+        "ts": "1556031497.000700"
+    },
+    {
+        "client_msg_id": "F5F2147F-64E8-41C1-B7EE-A2E1171C24A1",
+        "type": "message",
+        "text": "fefaq.pl",
+        "user": "UFP1NEA4F",
+        "ts": "1556031521.000900",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFR1Y38B1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "48751728-0223-4219-A812-AC06B0501FD1",
+        "type": "message",
+        "text": "Ten?",
+        "user": "UFP1NEA4F",
+        "ts": "1556031524.001100"
+    },
+    {
+        "client_msg_id": "b09d4ba7-a894-474c-9cee-79ec627b2582",
+        "type": "message",
+        "text": "Dokladnie tak, dzięki :muscle:",
+        "user": "UFR1Y38B1",
+        "ts": "1556032237.001400"
+    }
+]

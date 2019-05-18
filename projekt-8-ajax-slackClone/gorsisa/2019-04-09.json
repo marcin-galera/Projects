@@ -1,0 +1,103 @@
+[
+    {
+        "client_msg_id": "74e4853d-bb3f-4a24-ac3d-b948e9716487",
+        "type": "message",
+        "text": "Siema ludzie! Jak tam tydzień leci? Dla przypomnienia:\nJestem na etapie kończenia AboutUs, została mi wersja na desktopy, dobrać kolorki i dorzucić.\nPatryk jak Ci idzie dorzucenie zrobienie formularza na rozdzielczościach (box-shadow, marginesy)? Które branche już mogę usunąć?\nMikołaj: do poprawienia wyświetlanie się instrukcji do gry na rozdzielczościach i dodanie logo na zdjęcia. (jest w folderze razem ze zdjeciami ze slidera).\nKarol: Wyrównanie kolumn w dodatkowych informacjach o produkcie, ogarnij też żeby to było większe na desktopie :stuck_out_tongue:\n\nGRA PRZED NAMI A ZARAZ ZNOWU ZJAZD WIEC NIE MA OPIERDALANIA :smile:",
+        "user": "UG1M63BEJ",
+        "ts": "1554810265.005800"
+    },
+    {
+        "client_msg_id": "6cb0726e-21a9-41a0-89fb-c6e9d11037de",
+        "type": "message",
+        "text": "Ja poprawiam wszystko. Zmieniam czcionki i upiększam. Mogę bawić się w UX Deesignera.",
+        "user": "UFP7290SG",
+        "ts": "1554812904.006500"
+    },
+    {
+        "client_msg_id": "073f7089-e40b-4aaf-b81a-089083c98e5c",
+        "type": "message",
+        "text": "Nie ma gorszych!",
+        "user": "UFP7290SG",
+        "ts": "1554812920.006700"
+    },
+    {
+        "type": "message",
+        "text": "To mówiłeś Marcin, że wystarczy w root zmienić kolory i to zadziała? Bop u mnie nie działa :v",
+        "files": [
+            {
+                "id": "FHJ052KDF",
+                "created": 1554819557,
+                "timestamp": 1554819557,
+                "name": "Przechwytywanie.PNG",
+                "title": "Przechwytywanie.PNG",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFP7290SG",
+                "editable": false,
+                "size": 15946,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHJ052KDF\/przechwytywanie.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHJ052KDF\/download\/przechwytywanie.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHJ052KDF-a9693b442c\/przechwytywanie_64.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHJ052KDF-a9693b442c\/przechwytywanie_80.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHJ052KDF-a9693b442c\/przechwytywanie_360.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 142,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHJ052KDF-a9693b442c\/przechwytywanie_160.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "image_exif_rotation": 1,
+                "original_w": 469,
+                "original_h": 185,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP7290SG\/FHJ052KDF\/przechwytywanie.png",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHJ052KDF-e9d56c2886",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP7290SG",
+        "display_as_bot": false,
+        "ts": "1554819559.006900",
+        "client_msg_id": "450b8873-10fe-40e6-be56-6e422bfe74d7"
+    },
+    {
+        "client_msg_id": "b6795d16-4c45-40f2-bcda-d61eef3a2cc1",
+        "type": "message",
+        "text": "kolory w root to są takie vary\/lety\/consty jak w funkcji powiedzmy. potem mozesz sobie uzyc tego jako zmiennej ktorej jest cos przypisane np:\n\n.random-bullshit{\nbackground-color: var(--\"tu nazwa zmiennej z root\")",
+        "user": "UG1M63BEJ",
+        "ts": "1554822995.009000"
+    },
+    {
+        "client_msg_id": "acea6969-0756-41d2-bb6e-77915d1831d4",
+        "type": "message",
+        "text": "Ja dzisiaj zrobie sam mechanizm.uruchamiania gry z jedna ksiazka i sprawdze jak ruch zaprogramowac ",
+        "user": "UFPBXQW73",
+        "ts": "1554828304.010700"
+    },
+    {
+        "client_msg_id": "ba1280b1-a887-46db-975f-899918f69726",
+        "type": "message",
+        "text": ",ale startuje 19:30",
+        "user": "UFPBXQW73",
+        "ts": "1554828533.011300"
+    },
+    {
+        "client_msg_id": "505a8a8f-3f8b-407b-8552-dd5803201cc1",
+        "type": "message",
+        "text": "wisi pull request Patryka, możecie się tym zainteresować i domergować jak jest ok. <@UFPC99HFT> wzywam do akcji",
+        "user": "UFP1NEA4F",
+        "ts": "1554835316.012000"
+    },
+    {
+        "client_msg_id": "29bf0389-415e-4506-adef-b0f2f506ec0d",
+        "type": "message",
+        "text": "Już patrzę",
+        "user": "UFP7290SG",
+        "ts": "1554835341.012200"
+    }
+]

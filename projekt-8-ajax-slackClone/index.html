@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Slack</title>
+</head>
+
+<body>
+
+    <div id="channels">
+    </div>
+
+    <div id="messages">
+    </div>
+
+    <script>
+        const channelsNode = document.querySelector('#channels');
+        const messagesNode = document.querySelector('#messages');
+
+        fetch("channels.json").then(
+            response => response.json().then(
+                channels => {
+                    channels.forEach(channel => {
+                        const channelNode = document.createElement('div');
+                        channelNode.textContent = channel.name
+                        channelsNode.addEventListener("click", function () {
+                            fetch("general/2019-01-24.json").then(
+                                response => response.json().then(
+                                    messages => {
+                                        messages.forEach(message => {
+                                            console.log(message)
+                                            const messageNode = document.createElement('div');
+                                            messageNode.textContent = message.text
+                                            messagesNode.appendChild(messageNode)
+                                        })
+                                    }
+                                )
+                            )
+                        })
+
+                        channelsNode.appendChild(channelNode)
+                    })
+                }
+            )
+        )
+    </script>
+
+</body>
+
+</html>

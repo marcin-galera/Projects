@@ -1,0 +1,83 @@
+[
+    {
+        "type": "message",
+        "text": ":grin:",
+        "files": [
+            {
+                "id": "FHLHP5A4T",
+                "created": 1555443641,
+                "timestamp": 1555443641,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UFRCP5Q4E",
+                "editable": false,
+                "size": 223530,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHLHP5A4T\/image_from_ios.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHLHP5A4T\/download\/image_from_ios.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLHP5A4T-ed68f3615f\/image_from_ios_64.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLHP5A4T-ed68f3615f\/image_from_ios_80.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLHP5A4T-ed68f3615f\/image_from_ios_360.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 144,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLHP5A4T-ed68f3615f\/image_from_ios_480.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 192,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLHP5A4T-ed68f3615f\/image_from_ios_160.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLHP5A4T-ed68f3615f\/image_from_ios_720.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 288,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLHP5A4T-ed68f3615f\/image_from_ios_800.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 2000,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLHP5A4T-ed68f3615f\/image_from_ios_960.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 384,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHLHP5A4T-ed68f3615f\/image_from_ios_1024.jpg?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 410,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 2000,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFRCP5Q4E\/FHLHP5A4T\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHLHP5A4T-009ced550b",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFRCP5Q4E",
+        "display_as_bot": false,
+        "ts": "1555443641.000100",
+        "client_msg_id": "7AAF04B5-499E-4E04-B1D9-B5A3906CF29C"
+    },
+    {
+        "client_msg_id": "997DBCD3-E3CB-465E-983F-0839B3659086",
+        "type": "message",
+        "text": "Tylko kliknijcie na obrazek :grin:",
+        "user": "UFRCP5Q4E",
+        "ts": "1555444109.000600"
+    },
+    {
+        "client_msg_id": "9d96a772-1388-45bd-8cbc-ac4acee311a5",
+        "type": "message",
+        "text": "Koduj koduj koduj ",
+        "user": "UFNFNGQPL",
+        "ts": "1555444146.000900"
+    },
+    {
+        "client_msg_id": "A10C7FD3-496C-4FCD-86B7-542AD3A53CEB",
+        "type": "message",
+        "text": ":joy:",
+        "user": "UFRCP5Q4E",
+        "ts": "1555444173.001100"
+    }
+]

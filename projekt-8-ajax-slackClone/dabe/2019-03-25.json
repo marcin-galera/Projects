@@ -1,0 +1,79 @@
+[
+    {
+        "client_msg_id": "f95a4d84-4209-48d5-b0d3-7ed4487f3218",
+        "type": "message",
+        "text": "wygląda spoko",
+        "user": "UFP9WB0AV",
+        "ts": "1553511357.000400"
+    },
+    {
+        "client_msg_id": "c864f36f-06c2-4ffa-aaa6-467cd4785837",
+        "type": "message",
+        "text": "zabieram się za pracę nad responsywnością",
+        "user": "UFP9WB0AV",
+        "ts": "1553511416.000900"
+    },
+    {
+        "client_msg_id": "eecfbc83-be21-451f-84e1-18ccab175bb3",
+        "type": "message",
+        "text": "Gitara...\nJa dzisiaj albo jutro wrzucę grę i sobie pogadamy co dalej na zajęciach.",
+        "user": "UFNNXNNBT",
+        "ts": "1553511611.003000"
+    },
+    {
+        "client_msg_id": "30316dd2-413b-42ac-8869-1d0f85d9d1b0",
+        "type": "message",
+        "text": "Bartek a może dodałbym logo do nawigacji ż lewej strony?\nJa je wywalilem z Hero bo nie pasowało",
+        "user": "UFNNXNNBT",
+        "ts": "1553511661.004500"
+    },
+    {
+        "client_msg_id": "7a4241da-e7b4-454c-8d0b-6162bab39a51",
+        "type": "message",
+        "text": "ja już je dodam do poprawek :slightly_smiling_face:",
+        "user": "UFP9WB0AV",
+        "ts": "1553511695.004800"
+    },
+    {
+        "client_msg_id": "61396f93-e1ec-45be-8ffc-c8d20abc18b7",
+        "type": "message",
+        "text": "spoko",
+        "user": "UFP9WB0AV",
+        "ts": "1553511698.005000"
+    },
+    {
+        "client_msg_id": "6604bed2-53f6-4f8d-b9aa-97dbf8bc5e91",
+        "type": "message",
+        "text": ":wink:",
+        "user": "UFP9WB0AV",
+        "ts": "1553511702.005200"
+    },
+    {
+        "client_msg_id": "0c3d796b-d091-4a6c-8089-b488332bc3cd",
+        "type": "message",
+        "text": "+ respo dostosowane do minimum iphone4\n+ dodane logo do paska nawigacji\n\ndrobnice\/pierdoły do poprawki:\n\n- offset na anchor linki tak aby zatrzymywało się w pozycji -75px (wysokość sticky paska nawigacji który zasłania sekcję) w stosunku do wyszukiwanego ID\n- zmienić obrazki w tle albo przyciemnić i rozmazać nieco w photoshopie te co już są\n- zmiana LOREM ipsum na lakoniczne opisy w opisie fukcjonalności\n- walidacja e-maila w polu formularza",
+        "user": "UFP9WB0AV",
+        "ts": "1553525518.009800"
+    },
+    {
+        "client_msg_id": "2d67b8f9-dd41-4bf5-acce-56166419cca7",
+        "type": "message",
+        "text": "-active scroll nie podświetla menu \"kontakt\" po zjechaniu na stopkę",
+        "user": "UFP9WB0AV",
+        "ts": "1553525565.010500"
+    },
+    {
+        "client_msg_id": "af7632b7-ea0e-48b3-bf91-f2da5ad0fd75",
+        "type": "message",
+        "text": "buziaki :kissing_heart:",
+        "user": "UFP9WB0AV",
+        "ts": "1553525581.010800"
+    },
+    {
+        "client_msg_id": "95418815-e678-483a-950b-14e803501e51",
+        "type": "message",
+        "text": "zmiany siedzą już na githubie w developie",
+        "user": "UFP9WB0AV",
+        "ts": "1553525634.011300"
+    }
+]

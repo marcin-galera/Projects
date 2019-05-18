@@ -1,0 +1,46 @@
+[
+    {
+        "client_msg_id": "dfd4b8d8-4a5a-46f7-8412-e60e2ee8f6db",
+        "type": "message",
+        "text": "<!channel> Hej! W nadchodzący weekend zjazd! :smile:\n\nPodsyłam rozpiskę + kilka linków\n\t`sobota, 9 lutego`\n\t\t15:00 – 18:00 - HTML\/CSS - dobre praktyki – Anna Rodziewicz\n\t\t18:00 – 21: 00 – GIT - Marcin Kwiatkowski\n\t`niedziela, 10 lutego`\n\t\t15:00 – 18:00 – Scrum – Jacek Durlik\n\t\t18:00 – 21: 00 – planowanie S1, Projekt - Michał Michalczuk, N. Kalinowski\nRepozytoria i dostępy do nich\n\t`warsztaty:`\n\t\t<https:\/\/github.com\/infoshareacademy\/jfdz11-materialy>\n\t\t<https:\/\/github.com\/infoshareacademy\/jfdz11-git>\n\t\t<https:\/\/github.com\/infoshareacademy\/jfdz11-materialy-html-css-rwd>\n        `projekty:`\n\t\t<https:\/\/github.com\/infoshareacademy\/jfdz11-TychTrzech> (TychTrzech)\n\t\t<https:\/\/github.com\/infoshareacademy\/jfdz11-GorsiSA> (GorsiSA)\n\t\t<https:\/\/github.com\/infoshareacademy\/jfdz11-DABE> (DABE)\n\t\t<https:\/\/github.com\/infoshareacademy\/jfdz11-Specode> (Specode)",
+        "user": "UFP1NEA4F",
+        "ts": "1549530419.002000",
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UFP1WTUP9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "see_no_evil",
+                "users": [
+                    "UFXJCFX32"
+                ],
+                "count": 1
+            },
+            {
+                "name": "hear_no_evil",
+                "users": [
+                    "UFXJCFX32"
+                ],
+                "count": 1
+            },
+            {
+                "name": "speak_no_evil",
+                "users": [
+                    "UFXJCFX32"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "904dae50-cb0c-420b-936a-8f7a3aae3a5a",
+        "type": "message",
+        "text": "oj wieeemy :smile:",
+        "user": "UFRCP5Q4E",
+        "ts": "1549536901.002300"
+    }
+]

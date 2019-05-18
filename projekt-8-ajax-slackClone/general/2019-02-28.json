@@ -1,0 +1,27 @@
+[
+    {
+        "client_msg_id": "3868678b-6949-4012-a4ad-af64e88dd6b2",
+        "type": "message",
+        "text": "<!channel> Hej! Dziękujemy bardzo za ilość wypełnionych ankiet, bo jest progress!\n\nChciałem przypomnieć, że kurs składa się z 240h na sali + 80h pracy własnej podczas, której możecie w pełni korzystać z mojej pomocy. Piszcie na slacku jeżeli macie problemy, a jak nie odpiszę w ciągu dnia to przypomnijcie się :wink: Nawet jeżeli problem dotyczy tego, że coś nie zostało zrozumiane na zajęciach.\n\nDodatkowo możemy się umówić, że w komentarzach w ankietach dopisujcie, które zagadnienia dotyczące konkretnego bloku były niejasne albo nie zrozumieliście to wtedy postaram się jakoś wrócić do tego na części projektowej albo wymyślimy coś innego :smile:",
+        "user": "UFP1NEA4F",
+        "ts": "1551362457.000400",
+        "reactions": [
+            {
+                "name": "grin",
+                "users": [
+                    "UFRCP5Q4E"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "UFP1WTUP9",
+                    "UFPC1B9UZ",
+                    "UFR1Y38B1"
+                ],
+                "count": 3
+            }
+        ]
+    }
+]

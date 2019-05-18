@@ -1,0 +1,45 @@
+[
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHG7EFK2Q",
+                "created": 1553975405,
+                "timestamp": 1553975405,
+                "name": "Zadanka_30_03.txt",
+                "title": "Zadanka 30.03",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UG1M63BEJ",
+                "editable": true,
+                "size": 4933,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHG7EFK2Q\/zadanka_30_03.txt?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHG7EFK2Q\/download\/zadanka_30_03.txt?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UG1M63BEJ\/FHG7EFK2Q\/zadanka_30_03.txt",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHG7EFK2Q-b39a0e452b",
+                "edit_link": "https:\/\/isajfdz11.slack.com\/files\/UG1M63BEJ\/FHG7EFK2Q\/zadanka_30_03.txt\/edit",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UG1M63BEJ",
+        "display_as_bot": false,
+        "ts": "1553975405.000100"
+    },
+    {
+        "client_msg_id": "005196e0-b3f6-4156-ac21-03fb7b635c21",
+        "type": "message",
+        "text": "Dobry z Ciebie kolega piwa sie musisz kiedys napic.za.moje.:)",
+        "user": "UFPBXQW73",
+        "ts": "1553977642.001500"
+    }
+]

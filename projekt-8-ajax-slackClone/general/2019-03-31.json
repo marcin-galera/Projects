@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "47998146-4ABD-4829-9095-889B74A63FCF",
+        "type": "message",
+        "text": "<https:\/\/css-tricks.com\/an-illustrated-and-musical-guide-to-map-reduce-and-filter-array-methods\/>",
+        "user": "UFP1NEA4F",
+        "ts": "1554032977.000200",
+        "attachments": [
+            {
+                "service_name": "CSS-Tricks",
+                "title": "An Illustrated (and Musical) Guide to Map, Reduce, and Filter Array Methods | CSS-Tricks",
+                "title_link": "https:\/\/css-tricks.com\/an-illustrated-and-musical-guide-to-map-reduce-and-filter-array-methods\/",
+                "text": "Map, reduce, and filter are three very useful array methods in JavaScript that give developers a ton of power in a short amount of space. Let’s jump right",
+                "fallback": "CSS-Tricks: An Illustrated (and Musical) Guide to Map, Reduce, and Filter Array Methods | CSS-Tricks",
+                "thumb_url": "https:\/\/css-tricks.com\/wp-content\/uploads\/2019\/03\/arrays-map.png",
+                "ts": 1553609979,
+                "from_url": "https:\/\/css-tricks.com\/an-illustrated-and-musical-guide-to-map-reduce-and-filter-array-methods\/",
+                "thumb_width": 1200,
+                "thumb_height": 600,
+                "service_icon": "https:\/\/css-tricks.com\/apple-touch-icon.png",
+                "id": 1,
+                "original_url": "https:\/\/css-tricks.com\/an-illustrated-and-musical-guide-to-map-reduce-and-filter-array-methods\/"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3dbb9a5f-7794-474a-9857-fb5ef347bf6c",
+        "type": "message",
+        "text": "<https:\/\/github.com\/infoshareacademy\/jfdz11-materialy-struktury-danych\/tree\/master\/zadania>",
+        "user": "UFP4ZJ4DN",
+        "ts": "1554040111.000500"
+    },
+    {
+        "client_msg_id": "e0422a3d-59d4-4cd5-8166-64aea294eed4",
+        "type": "message",
+        "text": "<https:\/\/socrative.com\/>",
+        "user": "UFP1NEA4F",
+        "ts": "1554049068.000700"
+    },
+    {
+        "client_msg_id": "8dd99783-ee10-4188-9b38-4612c6e717f4",
+        "type": "message",
+        "text": "nazwa pokoju -&gt;`JFDZ11`\npóźniej pełne -&gt; Imię Nazwisko\nkto się nie podpisze nie dostanie swojego testu #RODO ^^",
+        "user": "UFP1NEA4F",
+        "ts": "1554049110.001500"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FHGJC0TEG",
+                "created": 1554052160,
+                "timestamp": 1554052160,
+                "name": "-.txt",
+                "title": "Untitled",
+                "mimetype": "text\/plain",
+                "filetype": "text",
+                "pretty_type": "Plain Text",
+                "user": "UFP4ZJ4DN",
+                "editable": true,
+                "size": 7244,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHGJC0TEG\/-.txt?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHGJC0TEG\/download\/-.txt?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP4ZJ4DN\/FHGJC0TEG\/-.txt",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHGJC0TEG-391f231328",
+                "edit_link": "https:\/\/isajfdz11.slack.com\/files\/UFP4ZJ4DN\/FHGJC0TEG\/-.txt\/edit",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP4ZJ4DN",
+        "display_as_bot": false,
+        "ts": "1554052160.001700"
+    },
+    {
+        "client_msg_id": "ed7ac9cd-0246-46aa-9310-dc62f9a64fd7",
+        "type": "message",
+        "text": "Ankieta do wypełnienia :slightly_smiling_face:\n<https:\/\/ankiety.is-academy.pl\/poll\/-LDjsR30ylyU72y0gH8E\/-L_DWHQhh0xHbG0XAnLI>",
+        "user": "UFP1NEA4F",
+        "ts": "1554064476.002100",
+        "edited": {
+            "user": "UFP1NEA4F",
+            "ts": "1554064488.000000"
+        },
+        "reactions": [
+            {
+                "name": "heavy_check_mark",
+                "users": [
+                    "UG1M63BEJ",
+                    "UFP1WTUP9"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

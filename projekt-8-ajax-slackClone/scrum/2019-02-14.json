@@ -1,0 +1,34 @@
+[
+    {
+        "client_msg_id": "e2e1f6e7-7232-4f11-b405-8a1d5ba63bef",
+        "type": "message",
+        "text": "<!here> jestem jedną z 639 osób na świecie z certyfikatem PSM3, jak macie jakiekolwiek pytania dotyczące Scruma, walcie śmiało, drugi raz takiej okazji możecie nie dostać\nW Gdańsku znam tylko 1 jeszcze osobę z tym certyfikatem.",
+        "user": "UFXJCFX32",
+        "ts": "1550181459.003200",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UFU6GEY3T"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e7faa905-5e6e-4c56-bb45-d93b94c4fc93",
+        "type": "message",
+        "text": "Brawo Ty",
+        "user": "UFNNXNNBT",
+        "ts": "1550202278.003600",
+        "reactions": [
+            {
+                "name": "joy",
+                "users": [
+                    "UG1M63BEJ"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

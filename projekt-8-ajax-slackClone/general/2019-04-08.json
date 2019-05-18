@@ -1,0 +1,122 @@
+[
+    {
+        "client_msg_id": "164b537d-d9be-4302-a299-6a3cd34d9f51",
+        "type": "message",
+        "text": "<!channel> Cześć! Dzisiaj mija termin przesyłania CV i LinkedIn, a ja do tej pory nie dostałam żadnego :disappointed:  Wyjątkowo możecie przesyłać mi je jeszcze przez tydzień. Pamiętajcie, że dobrze przygotowane dokumenty aplikacyjne, to pierwszy krok do szukania pracy :muscle:",
+        "user": "UG4354YKT",
+        "ts": "1554720217.006000"
+    },
+    {
+        "client_msg_id": "4a5ccde1-08ff-49e8-88e5-c43b71d6734f",
+        "type": "message",
+        "text": "<!channel> Czy dotarła do Was wiadomość o możliwości otrzymania bezpłatnej wejściówki Basic Pass na konferencję infoShare 2019? Jeśli jeszcze ktoś z Was chciałby wziąć udział w konferencji to napiszcie proszę do: <mailto:dorota@infoshareacademy.com|dorota@infoshareacademy.com>\nTu znajdziecie informacje o speakerach: <https:\/\/infoshare.pl\/speakers\/>",
+        "user": "UFP1WTUP9",
+        "ts": "1554737817.006300",
+        "attachments": [
+            {
+                "service_name": "Infoshare 2019",
+                "title": "Infoshare - the biggest tech conference in CEE",
+                "title_link": "https:\/\/infoshare.pl\/speakers\/",
+                "text": "Infoshare 2019 - the biggest Tech Conference in CEE (6000+ attendees, 200+ speakers and 500+ startups). Great Networking Party with Live Concert. Take part in this unique experience and join us in Gdansk, Poland, 8-9 May, 2019! Let’s grow with technology!",
+                "fallback": "Infoshare 2019: Infoshare - the biggest tech conference in CEE",
+                "image_url": "https:\/\/infoshare.pl\/_media\/FB\/fb_og_image_2019.png",
+                "from_url": "https:\/\/infoshare.pl\/speakers\/",
+                "image_width": 476,
+                "image_height": 250,
+                "image_bytes": 270528,
+                "service_icon": "https:\/\/infoshare.pl\/favicon_new.ico",
+                "id": 1,
+                "original_url": "https:\/\/infoshare.pl\/speakers\/"
+            }
+        ],
+        "thread_ts": "1554737817.006300",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1554737842.006900",
+        "reply_users": [
+            "UFP1NEA4F"
+        ],
+        "replies": [
+            {
+                "user": "UFP1NEA4F",
+                "ts": "1554737842.006900"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A288B9BA-7BC6-4D43-B1AE-3A0EF8794816",
+        "type": "message",
+        "text": "Teraz już dotarła :D",
+        "user": "UFP1NEA4F",
+        "ts": "1554737842.006900",
+        "thread_ts": "1554737817.006300",
+        "parent_user_id": "UFP1WTUP9"
+    },
+    {
+        "client_msg_id": "90891ab2-b44e-490d-a06c-525f267219bc",
+        "type": "message",
+        "text": "Dotarła, po tym jak swoją kupiłem :stuck_out_tongue_winking_eye:",
+        "user": "UHKFQ75A4",
+        "ts": "1554737843.007100"
+    },
+    {
+        "type": "message",
+        "text": "Siema wszystkim.\nNie wiem czy wszyscy są świadomi, ale aby zobaczyć pełną historię wrzucanych tutaj wiadomości trzeba slackowi zapłacić PINIONŻKI.\nKto chytrusek to niech sobie linki, screeny etc zapisuje bo np. u mnie \"historię konwersacji\" ucina na 12.02 :disappointed:",
+        "files": [
+            {
+                "id": "FHS7UDVEY",
+                "created": 1554787880,
+                "timestamp": 1554787880,
+                "name": "dejPinionzki.png",
+                "title": "dejPinionzki.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UFP9WB0AV",
+                "editable": false,
+                "size": 53167,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHS7UDVEY\/dejpinionzki.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TFM75LEKS-FHS7UDVEY\/download\/dejpinionzki.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHS7UDVEY-d7aba7e38f\/dejpinionzki_64.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHS7UDVEY-d7aba7e38f\/dejpinionzki_80.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHS7UDVEY-d7aba7e38f\/dejpinionzki_360.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_360_w": 360,
+                "thumb_360_h": 113,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHS7UDVEY-d7aba7e38f\/dejpinionzki_480.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_480_w": 480,
+                "thumb_480_h": 151,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHS7UDVEY-d7aba7e38f\/dejpinionzki_160.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHS7UDVEY-d7aba7e38f\/dejpinionzki_720.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_720_w": 720,
+                "thumb_720_h": 227,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHS7UDVEY-d7aba7e38f\/dejpinionzki_800.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_800_w": 800,
+                "thumb_800_h": 252,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHS7UDVEY-d7aba7e38f\/dejpinionzki_960.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_960_w": 960,
+                "thumb_960_h": 302,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TFM75LEKS-FHS7UDVEY-d7aba7e38f\/dejpinionzki_1024.png?t=xoxe-531243694672-621315484227-634933756374-89923855570e5093176707f5cec001df",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 322,
+                "image_exif_rotation": 1,
+                "original_w": 1131,
+                "original_h": 356,
+                "permalink": "https:\/\/isajfdz11.slack.com\/files\/UFP9WB0AV\/FHS7UDVEY\/dejpinionzki.png",
+                "permalink_public": "https:\/\/slack-files.com\/TFM75LEKS-FHS7UDVEY-4c739210a3",
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UFP9WB0AV",
+        "display_as_bot": false,
+        "ts": "1554787884.004200",
+        "client_msg_id": "b9aa2532-f18d-4d1b-8507-052cc9123c62"
+    }
+]
